@@ -1,0 +1,38 @@
+메인 키워드를 입력하면 연관 키워드를 수집하는 스크립트를 만들어줘.
+
+다만 스크립트를 서브에이전트 스킬스로 만들어줘!
+
+
+[흐름]
+1. 메인 키워드를 입력받음
+2. 네이버 검색광고 API로 연관 키워드 수집 (검색량 포함)
+3. 수집된 각 키워드마다 네이버 검색 API로 블로그 문서 수 조회
+4. 기회점수 계산: 검색량 / (블로그 문서 수 + 1)
+5. 결과를 keywords_raw.json으로 저장
+
+[검색광고 API 규칙]
+- .env에서 NAVER_AD_API_KEY, NAVER_AD_SECRET_KEY, NAVER_AD_CUSTOMER_ID 읽기
+- HMAC-SHA256 인증 구현
+- API URL: https://api.searchad.naver.com/keywordstool
+- 키워드에 띄어쓰기 넣으면 안 됨
+- monthlyPcQcCnt가 '< 10'이면 숫자 5로 변환
+- API 호출 간격 0.3초 이상
+
+[검색 API 규칙]
+- .env에서 NAVER_SEARCH_CLIENT_ID, NAVER_SEARCH_CLIENT_SECRET 읽기
+- API URL: https://openapi.naver.com/v1/search/blog
+- display=1로 요청 (total만 필요)
+- 호출 간격 0.1초 이상
+
+[저장 형식]
+각 키워드마다:
+- keyword, pc_search, mobile_search, total_search
+- blog_doc_count, opportunity_score (기회점수)
+
+[에러 처리]
+- 429 에러: 3초 대기 후 재시도 (최대 3회)
+- 500 에러: 재시도 (최대 3회)
+- 실패한 키워드는 건너뛰고 로그 출력
+
+실행 방법: uv run python collect.py "블로그자동화"
+블로그자동화 키워드 조사해줘!
