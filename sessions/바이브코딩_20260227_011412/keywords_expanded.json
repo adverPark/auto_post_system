@@ -1,0 +1,282 @@
+[
+  {
+    "keyword": "위시캣",
+    "pc_search": 3090,
+    "mobile_search": 13100,
+    "total_search": 16190,
+    "blog_doc_count": 5824,
+    "opportunity_score": 2.7794
+  },
+  {
+    "keyword": "클로드AI",
+    "pc_search": 49000,
+    "mobile_search": 44600,
+    "total_search": 93600,
+    "blog_doc_count": 37250,
+    "opportunity_score": 2.5127
+  },
+  {
+    "keyword": "바이브코딩",
+    "pc_search": 11400,
+    "mobile_search": 16300,
+    "total_search": 27700,
+    "blog_doc_count": 17285,
+    "opportunity_score": 1.6025
+  },
+  {
+    "keyword": "라이브클래스",
+    "pc_search": 1590,
+    "mobile_search": 1290,
+    "total_search": 2880,
+    "blog_doc_count": 14342,
+    "opportunity_score": 0.2008
+  },
+  {
+    "keyword": "어플만드는법",
+    "pc_search": 410,
+    "mobile_search": 1660,
+    "total_search": 2070,
+    "blog_doc_count": 25267,
+    "opportunity_score": 0.0819
+  },
+  {
+    "keyword": "커서AI",
+    "pc_search": 3860,
+    "mobile_search": 2840,
+    "total_search": 6700,
+    "blog_doc_count": 97637,
+    "opportunity_score": 0.0686
+  },
+  {
+    "keyword": "REACT",
+    "pc_search": 1120,
+    "mobile_search": 4000,
+    "total_search": 5120,
+    "blog_doc_count": 149381,
+    "opportunity_score": 0.0343
+  },
+  {
+    "keyword": "부동산어플",
+    "pc_search": 1750,
+    "mobile_search": 3280,
+    "total_search": 5030,
+    "blog_doc_count": 159462,
+    "opportunity_score": 0.0315
+  },
+  {
+    "keyword": "네이티브",
+    "pc_search": 1090,
+    "mobile_search": 6980,
+    "total_search": 8070,
+    "blog_doc_count": 273498,
+    "opportunity_score": 0.0295
+  },
+  {
+    "keyword": "아웃소싱",
+    "pc_search": 2640,
+    "mobile_search": 5280,
+    "total_search": 7920,
+    "blog_doc_count": 277883,
+    "opportunity_score": 0.0285
+  },
+  {
+    "keyword": "SWIFT",
+    "pc_search": 1380,
+    "mobile_search": 3430,
+    "total_search": 4810,
+    "blog_doc_count": 190221,
+    "opportunity_score": 0.0253
+  },
+  {
+    "keyword": "PLATFORM",
+    "pc_search": 3460,
+    "mobile_search": 4600,
+    "total_search": 8060,
+    "blog_doc_count": 420562,
+    "opportunity_score": 0.0192
+  },
+  {
+    "keyword": "무선랜",
+    "pc_search": 580,
+    "mobile_search": 1080,
+    "total_search": 1660,
+    "blog_doc_count": 93261,
+    "opportunity_score": 0.0178
+  },
+  {
+    "keyword": "UXUI디자인",
+    "pc_search": 800,
+    "mobile_search": 2620,
+    "total_search": 3420,
+    "blog_doc_count": 192731,
+    "opportunity_score": 0.0177
+  },
+  {
+    "keyword": "벤더",
+    "pc_search": 1170,
+    "mobile_search": 1310,
+    "total_search": 2480,
+    "blog_doc_count": 158770,
+    "opportunity_score": 0.0156
+  },
+  {
+    "keyword": "GATEWAY",
+    "pc_search": 470,
+    "mobile_search": 1060,
+    "total_search": 1530,
+    "blog_doc_count": 107813,
+    "opportunity_score": 0.0142
+  },
+  {
+    "keyword": "C언어",
+    "pc_search": 1000,
+    "mobile_search": 1440,
+    "total_search": 2440,
+    "blog_doc_count": 321219,
+    "opportunity_score": 0.0076
+  },
+  {
+    "keyword": "IOS",
+    "pc_search": 2060,
+    "mobile_search": 4710,
+    "total_search": 6770,
+    "blog_doc_count": 918788,
+    "opportunity_score": 0.0074
+  },
+  {
+    "keyword": "웹디자인",
+    "pc_search": 770,
+    "mobile_search": 1320,
+    "total_search": 2090,
+    "blog_doc_count": 331302,
+    "opportunity_score": 0.0063
+  },
+  {
+    "keyword": "AI코딩",
+    "pc_search": 640,
+    "mobile_search": 1070,
+    "total_search": 1710,
+    "blog_doc_count": 288581,
+    "opportunity_score": 0.0059
+  },
+  {
+    "keyword": "인테리어어플",
+    "pc_search": 280,
+    "mobile_search": 1380,
+    "total_search": 1660,
+    "blog_doc_count": 399999,
+    "opportunity_score": 0.0042
+  },
+  {
+    "keyword": "검색광고네이버",
+    "pc_search": 670,
+    "mobile_search": 1450,
+    "total_search": 2120,
+    "blog_doc_count": 699754,
+    "opportunity_score": 0.003
+  },
+  {
+    "keyword": "APP",
+    "pc_search": 1360,
+    "mobile_search": 4970,
+    "total_search": 6330,
+    "blog_doc_count": 2335508,
+    "opportunity_score": 0.0027
+  },
+  {
+    "keyword": "어플리케이션",
+    "pc_search": 960,
+    "mobile_search": 1390,
+    "total_search": 2350,
+    "blog_doc_count": 884135,
+    "opportunity_score": 0.0027
+  },
+  {
+    "keyword": "SI",
+    "pc_search": 2310,
+    "mobile_search": 6000,
+    "total_search": 8310,
+    "blog_doc_count": 3839219,
+    "opportunity_score": 0.0022
+  },
+  {
+    "keyword": "DATA",
+    "pc_search": 2130,
+    "mobile_search": 2930,
+    "total_search": 5060,
+    "blog_doc_count": 2406310,
+    "opportunity_score": 0.0021
+  },
+  {
+    "keyword": "앱만들기",
+    "pc_search": 340,
+    "mobile_search": 1260,
+    "total_search": 1600,
+    "blog_doc_count": 823767,
+    "opportunity_score": 0.0019
+  },
+  {
+    "keyword": "포털",
+    "pc_search": 1090,
+    "mobile_search": 2920,
+    "total_search": 4010,
+    "blog_doc_count": 2308335,
+    "opportunity_score": 0.0017
+  },
+  {
+    "keyword": "애플리케이션",
+    "pc_search": 590,
+    "mobile_search": 1510,
+    "total_search": 2100,
+    "blog_doc_count": 1294291,
+    "opportunity_score": 0.0016
+  },
+  {
+    "keyword": "솔루션",
+    "pc_search": 2330,
+    "mobile_search": 6510,
+    "total_search": 8840,
+    "blog_doc_count": 9559079,
+    "opportunity_score": 0.0009
+  },
+  {
+    "keyword": "어플",
+    "pc_search": 780,
+    "mobile_search": 2920,
+    "total_search": 3700,
+    "blog_doc_count": 8050549,
+    "opportunity_score": 0.0005
+  },
+  {
+    "keyword": "앱",
+    "pc_search": 1050,
+    "mobile_search": 5050,
+    "total_search": 6100,
+    "blog_doc_count": 15574607,
+    "opportunity_score": 0.0004
+  },
+  {
+    "keyword": "강의",
+    "pc_search": 1390,
+    "mobile_search": 3430,
+    "total_search": 4820,
+    "blog_doc_count": 15650259,
+    "opportunity_score": 0.0003
+  },
+  {
+    "keyword": "개발",
+    "pc_search": 2850,
+    "mobile_search": 4760,
+    "total_search": 7610,
+    "blog_doc_count": 29095770,
+    "opportunity_score": 0.0003
+  },
+  {
+    "keyword": "교육",
+    "pc_search": 2660,
+    "mobile_search": 4060,
+    "total_search": 6720,
+    "blog_doc_count": 42263607,
+    "opportunity_score": 0.0002
+  }
+]

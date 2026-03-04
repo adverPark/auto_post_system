@@ -1,0 +1,2634 @@
+[
+  {
+    "keyword": "퇴직금계산기",
+    "pc_search": 115900,
+    "mobile_search": 266400,
+    "total_search": 382300,
+    "blog_doc_count": 17336,
+    "opportunity_score": 22.0511
+  },
+  {
+    "keyword": "부가세환급일",
+    "pc_search": 5030,
+    "mobile_search": 13500,
+    "total_search": 18530,
+    "blog_doc_count": 1437,
+    "opportunity_score": 12.886
+  },
+  {
+    "keyword": "시급계산기",
+    "pc_search": 64900,
+    "mobile_search": 178600,
+    "total_search": 243500,
+    "blog_doc_count": 19309,
+    "opportunity_score": 12.61
+  },
+  {
+    "keyword": "실급여계산기",
+    "pc_search": 1820,
+    "mobile_search": 2790,
+    "total_search": 4610,
+    "blog_doc_count": 469,
+    "opportunity_score": 9.8085
+  },
+  {
+    "keyword": "연말정산간소화",
+    "pc_search": 873900,
+    "mobile_search": 189400,
+    "total_search": 1063300,
+    "blog_doc_count": 116132,
+    "opportunity_score": 9.1559
+  },
+  {
+    "keyword": "4대보험계산기",
+    "pc_search": 81100,
+    "mobile_search": 68400,
+    "total_search": 149500,
+    "blog_doc_count": 17281,
+    "opportunity_score": 8.6506
+  },
+  {
+    "keyword": "시간계산기",
+    "pc_search": 16000,
+    "mobile_search": 30700,
+    "total_search": 46700,
+    "blog_doc_count": 5688,
+    "opportunity_score": 8.2088
+  },
+  {
+    "keyword": "3.3%계산기",
+    "pc_search": 5740,
+    "mobile_search": 23200,
+    "total_search": 28940,
+    "blog_doc_count": 4855,
+    "opportunity_score": 5.9596
+  },
+  {
+    "keyword": "부가세계산기",
+    "pc_search": 64300,
+    "mobile_search": 29200,
+    "total_search": 93500,
+    "blog_doc_count": 22849,
+    "opportunity_score": 4.0919
+  },
+  {
+    "keyword": "공급가액계산기",
+    "pc_search": 4400,
+    "mobile_search": 1710,
+    "total_search": 6110,
+    "blog_doc_count": 1564,
+    "opportunity_score": 3.9042
+  },
+  {
+    "keyword": "사직서양식",
+    "pc_search": 17200,
+    "mobile_search": 9700,
+    "total_search": 26900,
+    "blog_doc_count": 7254,
+    "opportunity_score": 3.7078
+  },
+  {
+    "keyword": "연차계산기",
+    "pc_search": 27300,
+    "mobile_search": 19000,
+    "total_search": 46300,
+    "blog_doc_count": 13898,
+    "opportunity_score": 3.3312
+  },
+  {
+    "keyword": "이지샵",
+    "pc_search": 10600,
+    "mobile_search": 1760,
+    "total_search": 12360,
+    "blog_doc_count": 4330,
+    "opportunity_score": 2.8538
+  },
+  {
+    "keyword": "월급세후계산기",
+    "pc_search": 3410,
+    "mobile_search": 9640,
+    "total_search": 13050,
+    "blog_doc_count": 5115,
+    "opportunity_score": 2.5508
+  },
+  {
+    "keyword": "시말서양식",
+    "pc_search": 2600,
+    "mobile_search": 1200,
+    "total_search": 3800,
+    "blog_doc_count": 1595,
+    "opportunity_score": 2.381
+  },
+  {
+    "keyword": "경리나라",
+    "pc_search": 11100,
+    "mobile_search": 2000,
+    "total_search": 13100,
+    "blog_doc_count": 5989,
+    "opportunity_score": 2.187
+  },
+  {
+    "keyword": "세후계산기",
+    "pc_search": 7300,
+    "mobile_search": 18900,
+    "total_search": 26200,
+    "blog_doc_count": 13043,
+    "opportunity_score": 2.0086
+  },
+  {
+    "keyword": "소상공인정책자금",
+    "pc_search": 216200,
+    "mobile_search": 371500,
+    "total_search": 587700,
+    "blog_doc_count": 294780,
+    "opportunity_score": 1.9937
+  },
+  {
+    "keyword": "증여세면제한도",
+    "pc_search": 10600,
+    "mobile_search": 62800,
+    "total_search": 73400,
+    "blog_doc_count": 40868,
+    "opportunity_score": 1.796
+  },
+  {
+    "keyword": "소득세율표",
+    "pc_search": 4250,
+    "mobile_search": 10300,
+    "total_search": 14550,
+    "blog_doc_count": 8279,
+    "opportunity_score": 1.7572
+  },
+  {
+    "keyword": "성과급계산기",
+    "pc_search": 1520,
+    "mobile_search": 4370,
+    "total_search": 5890,
+    "blog_doc_count": 3377,
+    "opportunity_score": 1.7436
+  },
+  {
+    "keyword": "급여계산기",
+    "pc_search": 39400,
+    "mobile_search": 59900,
+    "total_search": 99300,
+    "blog_doc_count": 59413,
+    "opportunity_score": 1.6713
+  },
+  {
+    "keyword": "가족간차용증양식",
+    "pc_search": 2270,
+    "mobile_search": 2290,
+    "total_search": 4560,
+    "blog_doc_count": 3469,
+    "opportunity_score": 1.3141
+  },
+  {
+    "keyword": "알바시급계산기",
+    "pc_search": 920,
+    "mobile_search": 5560,
+    "total_search": 6480,
+    "blog_doc_count": 5973,
+    "opportunity_score": 1.0847
+  },
+  {
+    "keyword": "야간수당계산기",
+    "pc_search": 970,
+    "mobile_search": 3930,
+    "total_search": 4900,
+    "blog_doc_count": 4558,
+    "opportunity_score": 1.0748
+  },
+  {
+    "keyword": "월급소득세계산법",
+    "pc_search": 1920,
+    "mobile_search": 4370,
+    "total_search": 6290,
+    "blog_doc_count": 5950,
+    "opportunity_score": 1.057
+  },
+  {
+    "keyword": "스마트워크센터",
+    "pc_search": 2770,
+    "mobile_search": 2600,
+    "total_search": 5370,
+    "blog_doc_count": 5457,
+    "opportunity_score": 0.9839
+  },
+  {
+    "keyword": "소득세계산법",
+    "pc_search": 12800,
+    "mobile_search": 19000,
+    "total_search": 31800,
+    "blog_doc_count": 33291,
+    "opportunity_score": 0.9552
+  },
+  {
+    "keyword": "일수계산기",
+    "pc_search": 11300,
+    "mobile_search": 8960,
+    "total_search": 20260,
+    "blog_doc_count": 22089,
+    "opportunity_score": 0.9172
+  },
+  {
+    "keyword": "종소세계산기",
+    "pc_search": 490,
+    "mobile_search": 1230,
+    "total_search": 1720,
+    "blog_doc_count": 2144,
+    "opportunity_score": 0.8019
+  },
+  {
+    "keyword": "월세세액공제",
+    "pc_search": 27400,
+    "mobile_search": 49500,
+    "total_search": 76900,
+    "blog_doc_count": 106575,
+    "opportunity_score": 0.7216
+  },
+  {
+    "keyword": "소득세계산기",
+    "pc_search": 24900,
+    "mobile_search": 11300,
+    "total_search": 36200,
+    "blog_doc_count": 52335,
+    "opportunity_score": 0.6917
+  },
+  {
+    "keyword": "세후급여계산기",
+    "pc_search": 1330,
+    "mobile_search": 1650,
+    "total_search": 2980,
+    "blog_doc_count": 4666,
+    "opportunity_score": 0.6385
+  },
+  {
+    "keyword": "특근수당계산",
+    "pc_search": 330,
+    "mobile_search": 1440,
+    "total_search": 1770,
+    "blog_doc_count": 2937,
+    "opportunity_score": 0.6025
+  },
+  {
+    "keyword": "재직증명서양식",
+    "pc_search": 14200,
+    "mobile_search": 6470,
+    "total_search": 20670,
+    "blog_doc_count": 39824,
+    "opportunity_score": 0.519
+  },
+  {
+    "keyword": "잔업수당계산",
+    "pc_search": 200,
+    "mobile_search": 1190,
+    "total_search": 1390,
+    "blog_doc_count": 2857,
+    "opportunity_score": 0.4864
+  },
+  {
+    "keyword": "사업장현황신고",
+    "pc_search": 17300,
+    "mobile_search": 22000,
+    "total_search": 39300,
+    "blog_doc_count": 84106,
+    "opportunity_score": 0.4673
+  },
+  {
+    "keyword": "부가가치세계산기",
+    "pc_search": 3160,
+    "mobile_search": 1210,
+    "total_search": 4370,
+    "blog_doc_count": 9662,
+    "opportunity_score": 0.4522
+  },
+  {
+    "keyword": "퇴직금중간정산",
+    "pc_search": 4460,
+    "mobile_search": 13800,
+    "total_search": 18260,
+    "blog_doc_count": 41693,
+    "opportunity_score": 0.438
+  },
+  {
+    "keyword": "원천징수영수증",
+    "pc_search": 48600,
+    "mobile_search": 68400,
+    "total_search": 117000,
+    "blog_doc_count": 267686,
+    "opportunity_score": 0.4371
+  },
+  {
+    "keyword": "현금영수증조회",
+    "pc_search": 18900,
+    "mobile_search": 27400,
+    "total_search": 46300,
+    "blog_doc_count": 106932,
+    "opportunity_score": 0.433
+  },
+  {
+    "keyword": "종합소득세계산기",
+    "pc_search": 3490,
+    "mobile_search": 5180,
+    "total_search": 8670,
+    "blog_doc_count": 20411,
+    "opportunity_score": 0.4248
+  },
+  {
+    "keyword": "전산회계1급",
+    "pc_search": 10200,
+    "mobile_search": 20000,
+    "total_search": 30200,
+    "blog_doc_count": 77396,
+    "opportunity_score": 0.3902
+  },
+  {
+    "keyword": "면세사업자현황신고",
+    "pc_search": 3820,
+    "mobile_search": 6800,
+    "total_search": 10620,
+    "blog_doc_count": 27482,
+    "opportunity_score": 0.3864
+  },
+  {
+    "keyword": "세금계산기",
+    "pc_search": 10300,
+    "mobile_search": 31600,
+    "total_search": 41900,
+    "blog_doc_count": 111810,
+    "opportunity_score": 0.3747
+  },
+  {
+    "keyword": "현금영수증자진발급",
+    "pc_search": 1810,
+    "mobile_search": 2270,
+    "total_search": 4080,
+    "blog_doc_count": 10945,
+    "opportunity_score": 0.3727
+  },
+  {
+    "keyword": "원천징수이행상황신고서",
+    "pc_search": 5740,
+    "mobile_search": 1310,
+    "total_search": 7050,
+    "blog_doc_count": 20936,
+    "opportunity_score": 0.3367
+  },
+  {
+    "keyword": "근로소득세계산법",
+    "pc_search": 1660,
+    "mobile_search": 1800,
+    "total_search": 3460,
+    "blog_doc_count": 10282,
+    "opportunity_score": 0.3365
+  },
+  {
+    "keyword": "강남비상주사무실",
+    "pc_search": 850,
+    "mobile_search": 6700,
+    "total_search": 7550,
+    "blog_doc_count": 22868,
+    "opportunity_score": 0.3301
+  },
+  {
+    "keyword": "퇴직연금수령방법",
+    "pc_search": 3600,
+    "mobile_search": 15700,
+    "total_search": 19300,
+    "blog_doc_count": 58481,
+    "opportunity_score": 0.33
+  },
+  {
+    "keyword": "사업자등록증재발급",
+    "pc_search": 4390,
+    "mobile_search": 2140,
+    "total_search": 6530,
+    "blog_doc_count": 20772,
+    "opportunity_score": 0.3144
+  },
+  {
+    "keyword": "종소세세율",
+    "pc_search": 970,
+    "mobile_search": 3270,
+    "total_search": 4240,
+    "blog_doc_count": 14645,
+    "opportunity_score": 0.2895
+  },
+  {
+    "keyword": "연장수당계산기",
+    "pc_search": 810,
+    "mobile_search": 1090,
+    "total_search": 1900,
+    "blog_doc_count": 6694,
+    "opportunity_score": 0.2838
+  },
+  {
+    "keyword": "금전출납부",
+    "pc_search": 660,
+    "mobile_search": 1320,
+    "total_search": 1980,
+    "blog_doc_count": 7052,
+    "opportunity_score": 0.2807
+  },
+  {
+    "keyword": "로또세금",
+    "pc_search": 3230,
+    "mobile_search": 17600,
+    "total_search": 20830,
+    "blog_doc_count": 84240,
+    "opportunity_score": 0.2473
+  },
+  {
+    "keyword": "간이과세자기준",
+    "pc_search": 4040,
+    "mobile_search": 11200,
+    "total_search": 15240,
+    "blog_doc_count": 68144,
+    "opportunity_score": 0.2236
+  },
+  {
+    "keyword": "3.3계산기",
+    "pc_search": 970,
+    "mobile_search": 1370,
+    "total_search": 2340,
+    "blog_doc_count": 10881,
+    "opportunity_score": 0.215
+  },
+  {
+    "keyword": "부동산양도소득세",
+    "pc_search": 940,
+    "mobile_search": 1910,
+    "total_search": 2850,
+    "blog_doc_count": 13850,
+    "opportunity_score": 0.2058
+  },
+  {
+    "keyword": "월급세금계산기",
+    "pc_search": 1050,
+    "mobile_search": 2770,
+    "total_search": 3820,
+    "blog_doc_count": 18658,
+    "opportunity_score": 0.2047
+  },
+  {
+    "keyword": "근로소득원천징수영수증",
+    "pc_search": 23300,
+    "mobile_search": 12900,
+    "total_search": 36200,
+    "blog_doc_count": 177151,
+    "opportunity_score": 0.2043
+  },
+  {
+    "keyword": "근로소득세세율",
+    "pc_search": 7040,
+    "mobile_search": 13700,
+    "total_search": 20740,
+    "blog_doc_count": 113076,
+    "opportunity_score": 0.1834
+  },
+  {
+    "keyword": "신용관리사",
+    "pc_search": 1030,
+    "mobile_search": 1440,
+    "total_search": 2470,
+    "blog_doc_count": 13562,
+    "opportunity_score": 0.1821
+  },
+  {
+    "keyword": "원천징수계산기",
+    "pc_search": 1200,
+    "mobile_search": 1090,
+    "total_search": 2290,
+    "blog_doc_count": 13401,
+    "opportunity_score": 0.1709
+  },
+  {
+    "keyword": "기부금세액공제",
+    "pc_search": 6890,
+    "mobile_search": 13400,
+    "total_search": 20290,
+    "blog_doc_count": 119928,
+    "opportunity_score": 0.1692
+  },
+  {
+    "keyword": "중소기업소득세감면경정청구",
+    "pc_search": 2300,
+    "mobile_search": 1470,
+    "total_search": 3770,
+    "blog_doc_count": 22520,
+    "opportunity_score": 0.1674
+  },
+  {
+    "keyword": "종소세신고기간",
+    "pc_search": 1280,
+    "mobile_search": 4460,
+    "total_search": 5740,
+    "blog_doc_count": 34934,
+    "opportunity_score": 0.1643
+  },
+  {
+    "keyword": "월급여계산기",
+    "pc_search": 1990,
+    "mobile_search": 2000,
+    "total_search": 3990,
+    "blog_doc_count": 24400,
+    "opportunity_score": 0.1635
+  },
+  {
+    "keyword": "전산회계",
+    "pc_search": 12200,
+    "mobile_search": 14400,
+    "total_search": 26600,
+    "blog_doc_count": 164285,
+    "opportunity_score": 0.1619
+  },
+  {
+    "keyword": "간이지급명세서",
+    "pc_search": 4200,
+    "mobile_search": 2010,
+    "total_search": 6210,
+    "blog_doc_count": 42509,
+    "opportunity_score": 0.1461
+  },
+  {
+    "keyword": "근저당설정해지",
+    "pc_search": 720,
+    "mobile_search": 3630,
+    "total_search": 4350,
+    "blog_doc_count": 30105,
+    "opportunity_score": 0.1445
+  },
+  {
+    "keyword": "소득공제신고서",
+    "pc_search": 8040,
+    "mobile_search": 5350,
+    "total_search": 13390,
+    "blog_doc_count": 95902,
+    "opportunity_score": 0.1396
+  },
+  {
+    "keyword": "마진계산기",
+    "pc_search": 1200,
+    "mobile_search": 1210,
+    "total_search": 2410,
+    "blog_doc_count": 17548,
+    "opportunity_score": 0.1373
+  },
+  {
+    "keyword": "경정청구",
+    "pc_search": 6460,
+    "mobile_search": 9070,
+    "total_search": 15530,
+    "blog_doc_count": 117978,
+    "opportunity_score": 0.1316
+  },
+  {
+    "keyword": "부가세신고기간",
+    "pc_search": 6280,
+    "mobile_search": 16500,
+    "total_search": 22780,
+    "blog_doc_count": 178312,
+    "opportunity_score": 0.1278
+  },
+  {
+    "keyword": "탄원서작성방법",
+    "pc_search": 1520,
+    "mobile_search": 7410,
+    "total_search": 8930,
+    "blog_doc_count": 70865,
+    "opportunity_score": 0.126
+  },
+  {
+    "keyword": "양도세비과세조건",
+    "pc_search": 1680,
+    "mobile_search": 6990,
+    "total_search": 8670,
+    "blog_doc_count": 69683,
+    "opportunity_score": 0.1244
+  },
+  {
+    "keyword": "페이퍼컴퍼니",
+    "pc_search": 920,
+    "mobile_search": 4010,
+    "total_search": 4930,
+    "blog_doc_count": 39847,
+    "opportunity_score": 0.1237
+  },
+  {
+    "keyword": "스톡옵션",
+    "pc_search": 2340,
+    "mobile_search": 6920,
+    "total_search": 9260,
+    "blog_doc_count": 77769,
+    "opportunity_score": 0.1191
+  },
+  {
+    "keyword": "퇴직금세금",
+    "pc_search": 4230,
+    "mobile_search": 14300,
+    "total_search": 18530,
+    "blog_doc_count": 157264,
+    "opportunity_score": 0.1178
+  },
+  {
+    "keyword": "자금조달계획서",
+    "pc_search": 6840,
+    "mobile_search": 11400,
+    "total_search": 18240,
+    "blog_doc_count": 155686,
+    "opportunity_score": 0.1172
+  },
+  {
+    "keyword": "사업자등록증발급",
+    "pc_search": 25300,
+    "mobile_search": 19500,
+    "total_search": 44800,
+    "blog_doc_count": 385227,
+    "opportunity_score": 0.1163
+  },
+  {
+    "keyword": "양도세기본세율",
+    "pc_search": 2060,
+    "mobile_search": 8600,
+    "total_search": 10660,
+    "blog_doc_count": 97203,
+    "opportunity_score": 0.1097
+  },
+  {
+    "keyword": "일용직4대보험",
+    "pc_search": 2760,
+    "mobile_search": 3390,
+    "total_search": 6150,
+    "blog_doc_count": 57885,
+    "opportunity_score": 0.1062
+  },
+  {
+    "keyword": "법무법인순위",
+    "pc_search": 2270,
+    "mobile_search": 7850,
+    "total_search": 10120,
+    "blog_doc_count": 97236,
+    "opportunity_score": 0.1041
+  },
+  {
+    "keyword": "부동산양도세율",
+    "pc_search": 850,
+    "mobile_search": 3160,
+    "total_search": 4010,
+    "blog_doc_count": 40122,
+    "opportunity_score": 0.0999
+  },
+  {
+    "keyword": "주식양도소득세",
+    "pc_search": 3230,
+    "mobile_search": 13900,
+    "total_search": 17130,
+    "blog_doc_count": 175719,
+    "opportunity_score": 0.0975
+  },
+  {
+    "keyword": "간이과세자부가세신고",
+    "pc_search": 2340,
+    "mobile_search": 4140,
+    "total_search": 6480,
+    "blog_doc_count": 69293,
+    "opportunity_score": 0.0935
+  },
+  {
+    "keyword": "용인공유오피스",
+    "pc_search": 310,
+    "mobile_search": 1560,
+    "total_search": 1870,
+    "blog_doc_count": 20038,
+    "opportunity_score": 0.0933
+  },
+  {
+    "keyword": "해외주식양도세신고",
+    "pc_search": 390,
+    "mobile_search": 1320,
+    "total_search": 1710,
+    "blog_doc_count": 18936,
+    "opportunity_score": 0.0903
+  },
+  {
+    "keyword": "일용직퇴직금",
+    "pc_search": 1030,
+    "mobile_search": 3040,
+    "total_search": 4070,
+    "blog_doc_count": 45351,
+    "opportunity_score": 0.0897
+  },
+  {
+    "keyword": "경리",
+    "pc_search": 2990,
+    "mobile_search": 22000,
+    "total_search": 24990,
+    "blog_doc_count": 281298,
+    "opportunity_score": 0.0888
+  },
+  {
+    "keyword": "사직서",
+    "pc_search": 8230,
+    "mobile_search": 6880,
+    "total_search": 15110,
+    "blog_doc_count": 171724,
+    "opportunity_score": 0.088
+  },
+  {
+    "keyword": "계좌통합관리서비스",
+    "pc_search": 5140,
+    "mobile_search": 1990,
+    "total_search": 7130,
+    "blog_doc_count": 84442,
+    "opportunity_score": 0.0844
+  },
+  {
+    "keyword": "지방세납부",
+    "pc_search": 14700,
+    "mobile_search": 10600,
+    "total_search": 25300,
+    "blog_doc_count": 300395,
+    "opportunity_score": 0.0842
+  },
+  {
+    "keyword": "조세특례제한법",
+    "pc_search": 7860,
+    "mobile_search": 2280,
+    "total_search": 10140,
+    "blog_doc_count": 121594,
+    "opportunity_score": 0.0834
+  },
+  {
+    "keyword": "재직증명서",
+    "pc_search": 17700,
+    "mobile_search": 13100,
+    "total_search": 30800,
+    "blog_doc_count": 370299,
+    "opportunity_score": 0.0832
+  },
+  {
+    "keyword": "벤처투자소득공제",
+    "pc_search": 790,
+    "mobile_search": 1040,
+    "total_search": 1830,
+    "blog_doc_count": 22174,
+    "opportunity_score": 0.0825
+  },
+  {
+    "keyword": "근로소득지급명세서",
+    "pc_search": 4380,
+    "mobile_search": 3160,
+    "total_search": 7540,
+    "blog_doc_count": 94733,
+    "opportunity_score": 0.0796
+  },
+  {
+    "keyword": "1가구1주택양도세",
+    "pc_search": 660,
+    "mobile_search": 2930,
+    "total_search": 3590,
+    "blog_doc_count": 46034,
+    "opportunity_score": 0.078
+  },
+  {
+    "keyword": "종소세",
+    "pc_search": 1950,
+    "mobile_search": 5530,
+    "total_search": 7480,
+    "blog_doc_count": 96502,
+    "opportunity_score": 0.0775
+  },
+  {
+    "keyword": "상법",
+    "pc_search": 20400,
+    "mobile_search": 7270,
+    "total_search": 27670,
+    "blog_doc_count": 363642,
+    "opportunity_score": 0.0761
+  },
+  {
+    "keyword": "세무법인순위",
+    "pc_search": 460,
+    "mobile_search": 1170,
+    "total_search": 1630,
+    "blog_doc_count": 22058,
+    "opportunity_score": 0.0739
+  },
+  {
+    "keyword": "대구공유오피스",
+    "pc_search": 580,
+    "mobile_search": 1060,
+    "total_search": 1640,
+    "blog_doc_count": 22221,
+    "opportunity_score": 0.0738
+  },
+  {
+    "keyword": "전산세무",
+    "pc_search": 4790,
+    "mobile_search": 4200,
+    "total_search": 8990,
+    "blog_doc_count": 122504,
+    "opportunity_score": 0.0734
+  },
+  {
+    "keyword": "사업자등록증조회",
+    "pc_search": 7530,
+    "mobile_search": 4050,
+    "total_search": 11580,
+    "blog_doc_count": 159129,
+    "opportunity_score": 0.0728
+  },
+  {
+    "keyword": "건강보험환급금",
+    "pc_search": 1450,
+    "mobile_search": 7780,
+    "total_search": 9230,
+    "blog_doc_count": 128388,
+    "opportunity_score": 0.0719
+  },
+  {
+    "keyword": "전산세무회계",
+    "pc_search": 1940,
+    "mobile_search": 2070,
+    "total_search": 4010,
+    "blog_doc_count": 55961,
+    "opportunity_score": 0.0717
+  },
+  {
+    "keyword": "전세권설정비용",
+    "pc_search": 960,
+    "mobile_search": 2740,
+    "total_search": 3700,
+    "blog_doc_count": 51871,
+    "opportunity_score": 0.0713
+  },
+  {
+    "keyword": "종합소득세신고기간",
+    "pc_search": 5260,
+    "mobile_search": 13800,
+    "total_search": 19060,
+    "blog_doc_count": 269641,
+    "opportunity_score": 0.0707
+  },
+  {
+    "keyword": "연말정산소득공제",
+    "pc_search": 9550,
+    "mobile_search": 18000,
+    "total_search": 27550,
+    "blog_doc_count": 393936,
+    "opportunity_score": 0.0699
+  },
+  {
+    "keyword": "양도소득세세율",
+    "pc_search": 3900,
+    "mobile_search": 12200,
+    "total_search": 16100,
+    "blog_doc_count": 233277,
+    "opportunity_score": 0.069
+  },
+  {
+    "keyword": "종합소득세율",
+    "pc_search": 6890,
+    "mobile_search": 8980,
+    "total_search": 15870,
+    "blog_doc_count": 231843,
+    "opportunity_score": 0.0685
+  },
+  {
+    "keyword": "부가세기한후신고",
+    "pc_search": 1180,
+    "mobile_search": 1910,
+    "total_search": 3090,
+    "blog_doc_count": 45362,
+    "opportunity_score": 0.0681
+  },
+  {
+    "keyword": "원천세",
+    "pc_search": 3640,
+    "mobile_search": 2670,
+    "total_search": 6310,
+    "blog_doc_count": 93317,
+    "opportunity_score": 0.0676
+  },
+  {
+    "keyword": "간이과세자",
+    "pc_search": 3000,
+    "mobile_search": 6960,
+    "total_search": 9960,
+    "blog_doc_count": 150351,
+    "opportunity_score": 0.0662
+  },
+  {
+    "keyword": "부가세환급",
+    "pc_search": 3310,
+    "mobile_search": 12000,
+    "total_search": 15310,
+    "blog_doc_count": 232978,
+    "opportunity_score": 0.0657
+  },
+  {
+    "keyword": "종합소득세세율",
+    "pc_search": 5760,
+    "mobile_search": 10800,
+    "total_search": 16560,
+    "blog_doc_count": 253139,
+    "opportunity_score": 0.0654
+  },
+  {
+    "keyword": "전자세금계산서",
+    "pc_search": 15100,
+    "mobile_search": 3840,
+    "total_search": 18940,
+    "blog_doc_count": 309658,
+    "opportunity_score": 0.0612
+  },
+  {
+    "keyword": "주민세",
+    "pc_search": 2300,
+    "mobile_search": 3190,
+    "total_search": 5490,
+    "blog_doc_count": 92397,
+    "opportunity_score": 0.0594
+  },
+  {
+    "keyword": "전세권설정",
+    "pc_search": 3010,
+    "mobile_search": 8200,
+    "total_search": 11210,
+    "blog_doc_count": 190776,
+    "opportunity_score": 0.0588
+  },
+  {
+    "keyword": "종합소득세",
+    "pc_search": 12600,
+    "mobile_search": 42700,
+    "total_search": 55300,
+    "blog_doc_count": 941648,
+    "opportunity_score": 0.0587
+  },
+  {
+    "keyword": "부가가치세기한후신고",
+    "pc_search": 1310,
+    "mobile_search": 2340,
+    "total_search": 3650,
+    "blog_doc_count": 62542,
+    "opportunity_score": 0.0584
+  },
+  {
+    "keyword": "세액계산기",
+    "pc_search": 1110,
+    "mobile_search": 1060,
+    "total_search": 2170,
+    "blog_doc_count": 37368,
+    "opportunity_score": 0.0581
+  },
+  {
+    "keyword": "종소세환급",
+    "pc_search": 230,
+    "mobile_search": 1150,
+    "total_search": 1380,
+    "blog_doc_count": 24376,
+    "opportunity_score": 0.0566
+  },
+  {
+    "keyword": "조세법",
+    "pc_search": 130,
+    "mobile_search": 1050,
+    "total_search": 1180,
+    "blog_doc_count": 21520,
+    "opportunity_score": 0.0548
+  },
+  {
+    "keyword": "양도소득세신고방법",
+    "pc_search": 1930,
+    "mobile_search": 4590,
+    "total_search": 6520,
+    "blog_doc_count": 123574,
+    "opportunity_score": 0.0528
+  },
+  {
+    "keyword": "연장근로수당계산",
+    "pc_search": 1210,
+    "mobile_search": 1380,
+    "total_search": 2590,
+    "blog_doc_count": 49240,
+    "opportunity_score": 0.0526
+  },
+  {
+    "keyword": "근로소득세율",
+    "pc_search": 3840,
+    "mobile_search": 2890,
+    "total_search": 6730,
+    "blog_doc_count": 131277,
+    "opportunity_score": 0.0513
+  },
+  {
+    "keyword": "추징금",
+    "pc_search": 900,
+    "mobile_search": 3190,
+    "total_search": 4090,
+    "blog_doc_count": 80546,
+    "opportunity_score": 0.0508
+  },
+  {
+    "keyword": "종합소득과세표준",
+    "pc_search": 4180,
+    "mobile_search": 3290,
+    "total_search": 7470,
+    "blog_doc_count": 148387,
+    "opportunity_score": 0.0503
+  },
+  {
+    "keyword": "경력증명서",
+    "pc_search": 15900,
+    "mobile_search": 9010,
+    "total_search": 24910,
+    "blog_doc_count": 496249,
+    "opportunity_score": 0.0502
+  },
+  {
+    "keyword": "소득세법",
+    "pc_search": 11500,
+    "mobile_search": 1550,
+    "total_search": 13050,
+    "blog_doc_count": 259996,
+    "opportunity_score": 0.0502
+  },
+  {
+    "keyword": "5월연말정산",
+    "pc_search": 1510,
+    "mobile_search": 3870,
+    "total_search": 5380,
+    "blog_doc_count": 110538,
+    "opportunity_score": 0.0487
+  },
+  {
+    "keyword": "기본급계산",
+    "pc_search": 830,
+    "mobile_search": 1950,
+    "total_search": 2780,
+    "blog_doc_count": 58047,
+    "opportunity_score": 0.0479
+  },
+  {
+    "keyword": "성실신고대상자",
+    "pc_search": 1040,
+    "mobile_search": 1810,
+    "total_search": 2850,
+    "blog_doc_count": 61003,
+    "opportunity_score": 0.0467
+  },
+  {
+    "keyword": "공탁",
+    "pc_search": 2640,
+    "mobile_search": 4310,
+    "total_search": 6950,
+    "blog_doc_count": 150101,
+    "opportunity_score": 0.0463
+  },
+  {
+    "keyword": "종합부동산세",
+    "pc_search": 4820,
+    "mobile_search": 9340,
+    "total_search": 14160,
+    "blog_doc_count": 323145,
+    "opportunity_score": 0.0438
+  },
+  {
+    "keyword": "부가세납부기간",
+    "pc_search": 1490,
+    "mobile_search": 5770,
+    "total_search": 7260,
+    "blog_doc_count": 167473,
+    "opportunity_score": 0.0434
+  },
+  {
+    "keyword": "법무사",
+    "pc_search": 9310,
+    "mobile_search": 40400,
+    "total_search": 49710,
+    "blog_doc_count": 1146991,
+    "opportunity_score": 0.0433
+  },
+  {
+    "keyword": "기타소득세율",
+    "pc_search": 2710,
+    "mobile_search": 2310,
+    "total_search": 5020,
+    "blog_doc_count": 116560,
+    "opportunity_score": 0.0431
+  },
+  {
+    "keyword": "전자세금계산서발행",
+    "pc_search": 4390,
+    "mobile_search": 3160,
+    "total_search": 7550,
+    "blog_doc_count": 175346,
+    "opportunity_score": 0.0431
+  },
+  {
+    "keyword": "개인사업자통장개설",
+    "pc_search": 570,
+    "mobile_search": 1470,
+    "total_search": 2040,
+    "blog_doc_count": 47687,
+    "opportunity_score": 0.0428
+  },
+  {
+    "keyword": "공유오피스1인실",
+    "pc_search": 590,
+    "mobile_search": 1840,
+    "total_search": 2430,
+    "blog_doc_count": 56932,
+    "opportunity_score": 0.0427
+  },
+  {
+    "keyword": "개인사업자지원금",
+    "pc_search": 1730,
+    "mobile_search": 5710,
+    "total_search": 7440,
+    "blog_doc_count": 175657,
+    "opportunity_score": 0.0424
+  },
+  {
+    "keyword": "중견기업순위",
+    "pc_search": 320,
+    "mobile_search": 1550,
+    "total_search": 1870,
+    "blog_doc_count": 44504,
+    "opportunity_score": 0.042
+  },
+  {
+    "keyword": "복식부기의무자",
+    "pc_search": 750,
+    "mobile_search": 1100,
+    "total_search": 1850,
+    "blog_doc_count": 44475,
+    "opportunity_score": 0.0416
+  },
+  {
+    "keyword": "세금계산서발행방법",
+    "pc_search": 3290,
+    "mobile_search": 4160,
+    "total_search": 7450,
+    "blog_doc_count": 180468,
+    "opportunity_score": 0.0413
+  },
+  {
+    "keyword": "일용직소득신고",
+    "pc_search": 1190,
+    "mobile_search": 3140,
+    "total_search": 4330,
+    "blog_doc_count": 105384,
+    "opportunity_score": 0.0411
+  },
+  {
+    "keyword": "기부금영수증",
+    "pc_search": 2850,
+    "mobile_search": 2240,
+    "total_search": 5090,
+    "blog_doc_count": 123751,
+    "opportunity_score": 0.0411
+  },
+  {
+    "keyword": "부가가치세신고기간",
+    "pc_search": 3020,
+    "mobile_search": 4950,
+    "total_search": 7970,
+    "blog_doc_count": 197020,
+    "opportunity_score": 0.0405
+  },
+  {
+    "keyword": "부동산매매사업자",
+    "pc_search": 590,
+    "mobile_search": 1510,
+    "total_search": 2100,
+    "blog_doc_count": 52504,
+    "opportunity_score": 0.04
+  },
+  {
+    "keyword": "미국주식세금",
+    "pc_search": 2370,
+    "mobile_search": 11800,
+    "total_search": 14170,
+    "blog_doc_count": 354604,
+    "opportunity_score": 0.04
+  },
+  {
+    "keyword": "주소변경",
+    "pc_search": 1950,
+    "mobile_search": 4320,
+    "total_search": 6270,
+    "blog_doc_count": 157152,
+    "opportunity_score": 0.0399
+  },
+  {
+    "keyword": "회계사",
+    "pc_search": 4560,
+    "mobile_search": 20900,
+    "total_search": 25460,
+    "blog_doc_count": 644633,
+    "opportunity_score": 0.0395
+  },
+  {
+    "keyword": "소득세율",
+    "pc_search": 7960,
+    "mobile_search": 10700,
+    "total_search": 18660,
+    "blog_doc_count": 481903,
+    "opportunity_score": 0.0387
+  },
+  {
+    "keyword": "간이과세자부가세",
+    "pc_search": 900,
+    "mobile_search": 2100,
+    "total_search": 3000,
+    "blog_doc_count": 78555,
+    "opportunity_score": 0.0382
+  },
+  {
+    "keyword": "과세이연",
+    "pc_search": 1190,
+    "mobile_search": 1160,
+    "total_search": 2350,
+    "blog_doc_count": 61911,
+    "opportunity_score": 0.038
+  },
+  {
+    "keyword": "원천징수",
+    "pc_search": 8450,
+    "mobile_search": 12100,
+    "total_search": 20550,
+    "blog_doc_count": 545978,
+    "opportunity_score": 0.0376
+  },
+  {
+    "keyword": "재무제표",
+    "pc_search": 17900,
+    "mobile_search": 9930,
+    "total_search": 27830,
+    "blog_doc_count": 739853,
+    "opportunity_score": 0.0376
+  },
+  {
+    "keyword": "공유오피스",
+    "pc_search": 7440,
+    "mobile_search": 16000,
+    "total_search": 23440,
+    "blog_doc_count": 633218,
+    "opportunity_score": 0.037
+  },
+  {
+    "keyword": "법무사사무",
+    "pc_search": 90,
+    "mobile_search": 1110,
+    "total_search": 1200,
+    "blog_doc_count": 32687,
+    "opportunity_score": 0.0367
+  },
+  {
+    "keyword": "세무사",
+    "pc_search": 10100,
+    "mobile_search": 33400,
+    "total_search": 43500,
+    "blog_doc_count": 1198013,
+    "opportunity_score": 0.0363
+  },
+  {
+    "keyword": "대차대조표",
+    "pc_search": 2050,
+    "mobile_search": 2990,
+    "total_search": 5040,
+    "blog_doc_count": 140021,
+    "opportunity_score": 0.036
+  },
+  {
+    "keyword": "4대보험계산",
+    "pc_search": 2670,
+    "mobile_search": 1820,
+    "total_search": 4490,
+    "blog_doc_count": 127262,
+    "opportunity_score": 0.0353
+  },
+  {
+    "keyword": "폐업사업자환급",
+    "pc_search": 170,
+    "mobile_search": 1030,
+    "total_search": 1200,
+    "blog_doc_count": 34707,
+    "opportunity_score": 0.0346
+  },
+  {
+    "keyword": "세금계산서발행",
+    "pc_search": 9700,
+    "mobile_search": 8290,
+    "total_search": 17990,
+    "blog_doc_count": 533166,
+    "opportunity_score": 0.0337
+  },
+  {
+    "keyword": "개인사업자부가세환급",
+    "pc_search": 730,
+    "mobile_search": 2450,
+    "total_search": 3180,
+    "blog_doc_count": 94284,
+    "opportunity_score": 0.0337
+  },
+  {
+    "keyword": "아파트취득세",
+    "pc_search": 3420,
+    "mobile_search": 12200,
+    "total_search": 15620,
+    "blog_doc_count": 468266,
+    "opportunity_score": 0.0334
+  },
+  {
+    "keyword": "미국주식양도세",
+    "pc_search": 540,
+    "mobile_search": 1540,
+    "total_search": 2080,
+    "blog_doc_count": 62472,
+    "opportunity_score": 0.0333
+  },
+  {
+    "keyword": "네이버스토어창업",
+    "pc_search": 820,
+    "mobile_search": 1960,
+    "total_search": 2780,
+    "blog_doc_count": 83829,
+    "opportunity_score": 0.0332
+  },
+  {
+    "keyword": "간이과세자세금계산서",
+    "pc_search": 1050,
+    "mobile_search": 1480,
+    "total_search": 2530,
+    "blog_doc_count": 76485,
+    "opportunity_score": 0.0331
+  },
+  {
+    "keyword": "종합소득세신고",
+    "pc_search": 6430,
+    "mobile_search": 11800,
+    "total_search": 18230,
+    "blog_doc_count": 552223,
+    "opportunity_score": 0.033
+  },
+  {
+    "keyword": "면세사업자부가세신고",
+    "pc_search": 700,
+    "mobile_search": 1040,
+    "total_search": 1740,
+    "blog_doc_count": 53075,
+    "opportunity_score": 0.0328
+  },
+  {
+    "keyword": "부동산취등록세",
+    "pc_search": 530,
+    "mobile_search": 1160,
+    "total_search": 1690,
+    "blog_doc_count": 51881,
+    "opportunity_score": 0.0326
+  },
+  {
+    "keyword": "임대차계약서",
+    "pc_search": 13700,
+    "mobile_search": 14700,
+    "total_search": 28400,
+    "blog_doc_count": 873153,
+    "opportunity_score": 0.0325
+  },
+  {
+    "keyword": "거래명세서",
+    "pc_search": 6270,
+    "mobile_search": 3760,
+    "total_search": 10030,
+    "blog_doc_count": 309606,
+    "opportunity_score": 0.0324
+  },
+  {
+    "keyword": "원천세신고",
+    "pc_search": 1560,
+    "mobile_search": 1030,
+    "total_search": 2590,
+    "blog_doc_count": 79917,
+    "opportunity_score": 0.0324
+  },
+  {
+    "keyword": "근로소득세",
+    "pc_search": 5960,
+    "mobile_search": 8000,
+    "total_search": 13960,
+    "blog_doc_count": 430468,
+    "opportunity_score": 0.0324
+  },
+  {
+    "keyword": "증여계약서",
+    "pc_search": 1940,
+    "mobile_search": 1720,
+    "total_search": 3660,
+    "blog_doc_count": 117074,
+    "opportunity_score": 0.0313
+  },
+  {
+    "keyword": "일용직세금",
+    "pc_search": 930,
+    "mobile_search": 1500,
+    "total_search": 2430,
+    "blog_doc_count": 77838,
+    "opportunity_score": 0.0312
+  },
+  {
+    "keyword": "종합소득세환급",
+    "pc_search": 1020,
+    "mobile_search": 4380,
+    "total_search": 5400,
+    "blog_doc_count": 175576,
+    "opportunity_score": 0.0308
+  },
+  {
+    "keyword": "경정청구방법",
+    "pc_search": 850,
+    "mobile_search": 1010,
+    "total_search": 1860,
+    "blog_doc_count": 60837,
+    "opportunity_score": 0.0306
+  },
+  {
+    "keyword": "프리랜서국민연금",
+    "pc_search": 320,
+    "mobile_search": 1160,
+    "total_search": 1480,
+    "blog_doc_count": 48942,
+    "opportunity_score": 0.0302
+  },
+  {
+    "keyword": "내IP확인",
+    "pc_search": 4760,
+    "mobile_search": 1340,
+    "total_search": 6100,
+    "blog_doc_count": 202768,
+    "opportunity_score": 0.0301
+  },
+  {
+    "keyword": "부가세환급기간",
+    "pc_search": 970,
+    "mobile_search": 2210,
+    "total_search": 3180,
+    "blog_doc_count": 105997,
+    "opportunity_score": 0.03
+  },
+  {
+    "keyword": "WORKPLACE",
+    "pc_search": 350,
+    "mobile_search": 1500,
+    "total_search": 1850,
+    "blog_doc_count": 63226,
+    "opportunity_score": 0.0293
+  },
+  {
+    "keyword": "부가가치세신고",
+    "pc_search": 5700,
+    "mobile_search": 6000,
+    "total_search": 11700,
+    "blog_doc_count": 405987,
+    "opportunity_score": 0.0288
+  },
+  {
+    "keyword": "종합소득세구간",
+    "pc_search": 890,
+    "mobile_search": 1180,
+    "total_search": 2070,
+    "blog_doc_count": 73189,
+    "opportunity_score": 0.0283
+  },
+  {
+    "keyword": "독서실",
+    "pc_search": 2350,
+    "mobile_search": 33900,
+    "total_search": 36250,
+    "blog_doc_count": 1321852,
+    "opportunity_score": 0.0274
+  },
+  {
+    "keyword": "간이사업자부가세신고",
+    "pc_search": 740,
+    "mobile_search": 1420,
+    "total_search": 2160,
+    "blog_doc_count": 79496,
+    "opportunity_score": 0.0272
+  },
+  {
+    "keyword": "임차권등기",
+    "pc_search": 2200,
+    "mobile_search": 5450,
+    "total_search": 7650,
+    "blog_doc_count": 283111,
+    "opportunity_score": 0.027
+  },
+  {
+    "keyword": "종합소득세과세표준",
+    "pc_search": 1690,
+    "mobile_search": 2270,
+    "total_search": 3960,
+    "blog_doc_count": 152104,
+    "opportunity_score": 0.026
+  },
+  {
+    "keyword": "사무실인테리어",
+    "pc_search": 3730,
+    "mobile_search": 4170,
+    "total_search": 7900,
+    "blog_doc_count": 306397,
+    "opportunity_score": 0.0258
+  },
+  {
+    "keyword": "부가세신고",
+    "pc_search": 5630,
+    "mobile_search": 4510,
+    "total_search": 10140,
+    "blog_doc_count": 400608,
+    "opportunity_score": 0.0253
+  },
+  {
+    "keyword": "복식부기",
+    "pc_search": 950,
+    "mobile_search": 1340,
+    "total_search": 2290,
+    "blog_doc_count": 90938,
+    "opportunity_score": 0.0252
+  },
+  {
+    "keyword": "주식양도세",
+    "pc_search": 1040,
+    "mobile_search": 2820,
+    "total_search": 3860,
+    "blog_doc_count": 156616,
+    "opportunity_score": 0.0246
+  },
+  {
+    "keyword": "부가가치세면세사업자",
+    "pc_search": 820,
+    "mobile_search": 1470,
+    "total_search": 2290,
+    "blog_doc_count": 95597,
+    "opportunity_score": 0.024
+  },
+  {
+    "keyword": "사업자등록번호조회",
+    "pc_search": 1190,
+    "mobile_search": 2600,
+    "total_search": 3790,
+    "blog_doc_count": 161027,
+    "opportunity_score": 0.0235
+  },
+  {
+    "keyword": "프리랜서4대보험",
+    "pc_search": 520,
+    "mobile_search": 1550,
+    "total_search": 2070,
+    "blog_doc_count": 88255,
+    "opportunity_score": 0.0235
+  },
+  {
+    "keyword": "전환사채",
+    "pc_search": 2070,
+    "mobile_search": 3020,
+    "total_search": 5090,
+    "blog_doc_count": 225253,
+    "opportunity_score": 0.0226
+  },
+  {
+    "keyword": "바우처",
+    "pc_search": 6370,
+    "mobile_search": 18500,
+    "total_search": 24870,
+    "blog_doc_count": 1112245,
+    "opportunity_score": 0.0224
+  },
+  {
+    "keyword": "부가세계산",
+    "pc_search": 3360,
+    "mobile_search": 1580,
+    "total_search": 4940,
+    "blog_doc_count": 223008,
+    "opportunity_score": 0.0222
+  },
+  {
+    "keyword": "4대보험가입",
+    "pc_search": 3080,
+    "mobile_search": 2300,
+    "total_search": 5380,
+    "blog_doc_count": 244280,
+    "opportunity_score": 0.022
+  },
+  {
+    "keyword": "면세사업자",
+    "pc_search": 1290,
+    "mobile_search": 2290,
+    "total_search": 3580,
+    "blog_doc_count": 164434,
+    "opportunity_score": 0.0218
+  },
+  {
+    "keyword": "사업자조회",
+    "pc_search": 5860,
+    "mobile_search": 6170,
+    "total_search": 12030,
+    "blog_doc_count": 554104,
+    "opportunity_score": 0.0217
+  },
+  {
+    "keyword": "손익계산서",
+    "pc_search": 2070,
+    "mobile_search": 1990,
+    "total_search": 4060,
+    "blog_doc_count": 191807,
+    "opportunity_score": 0.0212
+  },
+  {
+    "keyword": "잔고증명서",
+    "pc_search": 840,
+    "mobile_search": 1250,
+    "total_search": 2090,
+    "blog_doc_count": 104555,
+    "opportunity_score": 0.02
+  },
+  {
+    "keyword": "대학생지원금",
+    "pc_search": 310,
+    "mobile_search": 1760,
+    "total_search": 2070,
+    "blog_doc_count": 103684,
+    "opportunity_score": 0.02
+  },
+  {
+    "keyword": "분양권양도세",
+    "pc_search": 580,
+    "mobile_search": 1890,
+    "total_search": 2470,
+    "blog_doc_count": 126570,
+    "opportunity_score": 0.0195
+  },
+  {
+    "keyword": "경리업무",
+    "pc_search": 550,
+    "mobile_search": 1350,
+    "total_search": 1900,
+    "blog_doc_count": 99122,
+    "opportunity_score": 0.0192
+  },
+  {
+    "keyword": "부가가치세환급",
+    "pc_search": 750,
+    "mobile_search": 1910,
+    "total_search": 2660,
+    "blog_doc_count": 140090,
+    "opportunity_score": 0.019
+  },
+  {
+    "keyword": "부가세카드납부",
+    "pc_search": 640,
+    "mobile_search": 1100,
+    "total_search": 1740,
+    "blog_doc_count": 92727,
+    "opportunity_score": 0.0188
+  },
+  {
+    "keyword": "이익잉여금",
+    "pc_search": 1100,
+    "mobile_search": 1070,
+    "total_search": 2170,
+    "blog_doc_count": 116016,
+    "opportunity_score": 0.0187
+  },
+  {
+    "keyword": "임대사업자",
+    "pc_search": 4570,
+    "mobile_search": 14700,
+    "total_search": 19270,
+    "blog_doc_count": 1042348,
+    "opportunity_score": 0.0185
+  },
+  {
+    "keyword": "취득세",
+    "pc_search": 6800,
+    "mobile_search": 15500,
+    "total_search": 22300,
+    "blog_doc_count": 1214879,
+    "opportunity_score": 0.0184
+  },
+  {
+    "keyword": "연말정산5월",
+    "pc_search": 850,
+    "mobile_search": 1160,
+    "total_search": 2010,
+    "blog_doc_count": 110488,
+    "opportunity_score": 0.0182
+  },
+  {
+    "keyword": "소득공제",
+    "pc_search": 9010,
+    "mobile_search": 15500,
+    "total_search": 24510,
+    "blog_doc_count": 1345701,
+    "opportunity_score": 0.0182
+  },
+  {
+    "keyword": "과세표준",
+    "pc_search": 4360,
+    "mobile_search": 5200,
+    "total_search": 9560,
+    "blog_doc_count": 540143,
+    "opportunity_score": 0.0177
+  },
+  {
+    "keyword": "현금영수증발급방법",
+    "pc_search": 1260,
+    "mobile_search": 1460,
+    "total_search": 2720,
+    "blog_doc_count": 156915,
+    "opportunity_score": 0.0173
+  },
+  {
+    "keyword": "계좌통합관리",
+    "pc_search": 1360,
+    "mobile_search": 1100,
+    "total_search": 2460,
+    "blog_doc_count": 142385,
+    "opportunity_score": 0.0173
+  },
+  {
+    "keyword": "퇴직연금계좌",
+    "pc_search": 920,
+    "mobile_search": 1830,
+    "total_search": 2750,
+    "blog_doc_count": 159501,
+    "opportunity_score": 0.0172
+  },
+  {
+    "keyword": "압류통장해지방법",
+    "pc_search": 260,
+    "mobile_search": 2080,
+    "total_search": 2340,
+    "blog_doc_count": 137229,
+    "opportunity_score": 0.0171
+  },
+  {
+    "keyword": "부가가치세",
+    "pc_search": 4450,
+    "mobile_search": 7870,
+    "total_search": 12320,
+    "blog_doc_count": 738615,
+    "opportunity_score": 0.0167
+  },
+  {
+    "keyword": "1인법인설립",
+    "pc_search": 570,
+    "mobile_search": 1250,
+    "total_search": 1820,
+    "blog_doc_count": 109916,
+    "opportunity_score": 0.0166
+  },
+  {
+    "keyword": "부동산등기",
+    "pc_search": 3330,
+    "mobile_search": 1470,
+    "total_search": 4800,
+    "blog_doc_count": 296645,
+    "opportunity_score": 0.0162
+  },
+  {
+    "keyword": "근저당설정",
+    "pc_search": 1050,
+    "mobile_search": 4260,
+    "total_search": 5310,
+    "blog_doc_count": 340971,
+    "opportunity_score": 0.0156
+  },
+  {
+    "keyword": "농업회사법인",
+    "pc_search": 750,
+    "mobile_search": 1800,
+    "total_search": 2550,
+    "blog_doc_count": 164264,
+    "opportunity_score": 0.0155
+  },
+  {
+    "keyword": "근저당설정비용",
+    "pc_search": 450,
+    "mobile_search": 1210,
+    "total_search": 1660,
+    "blog_doc_count": 108752,
+    "opportunity_score": 0.0153
+  },
+  {
+    "keyword": "폐업신고",
+    "pc_search": 2210,
+    "mobile_search": 3080,
+    "total_search": 5290,
+    "blog_doc_count": 351281,
+    "opportunity_score": 0.0151
+  },
+  {
+    "keyword": "비상주공유오피스",
+    "pc_search": 800,
+    "mobile_search": 1200,
+    "total_search": 2000,
+    "blog_doc_count": 136461,
+    "opportunity_score": 0.0147
+  },
+  {
+    "keyword": "임대사업자등록",
+    "pc_search": 2340,
+    "mobile_search": 5370,
+    "total_search": 7710,
+    "blog_doc_count": 527356,
+    "opportunity_score": 0.0146
+  },
+  {
+    "keyword": "세무사상담비용",
+    "pc_search": 630,
+    "mobile_search": 2470,
+    "total_search": 3100,
+    "blog_doc_count": 213525,
+    "opportunity_score": 0.0145
+  },
+  {
+    "keyword": "세무사사무실",
+    "pc_search": 990,
+    "mobile_search": 2100,
+    "total_search": 3090,
+    "blog_doc_count": 220746,
+    "opportunity_score": 0.014
+  },
+  {
+    "keyword": "사업자등록증",
+    "pc_search": 10900,
+    "mobile_search": 6420,
+    "total_search": 17320,
+    "blog_doc_count": 1271428,
+    "opportunity_score": 0.0136
+  },
+  {
+    "keyword": "세금계산서",
+    "pc_search": 8980,
+    "mobile_search": 5130,
+    "total_search": 14110,
+    "blog_doc_count": 1050724,
+    "opportunity_score": 0.0134
+  },
+  {
+    "keyword": "무료세무상담",
+    "pc_search": 600,
+    "mobile_search": 1790,
+    "total_search": 2390,
+    "blog_doc_count": 180820,
+    "opportunity_score": 0.0132
+  },
+  {
+    "keyword": "소호사무실",
+    "pc_search": 1030,
+    "mobile_search": 1730,
+    "total_search": 2760,
+    "blog_doc_count": 218683,
+    "opportunity_score": 0.0126
+  },
+  {
+    "keyword": "간이사업자",
+    "pc_search": 1020,
+    "mobile_search": 1970,
+    "total_search": 2990,
+    "blog_doc_count": 238744,
+    "opportunity_score": 0.0125
+  },
+  {
+    "keyword": "개인사업자4대보험",
+    "pc_search": 640,
+    "mobile_search": 1380,
+    "total_search": 2020,
+    "blog_doc_count": 166216,
+    "opportunity_score": 0.0122
+  },
+  {
+    "keyword": "지급명세서",
+    "pc_search": 2250,
+    "mobile_search": 1230,
+    "total_search": 3480,
+    "blog_doc_count": 288176,
+    "opportunity_score": 0.0121
+  },
+  {
+    "keyword": "개인사업자종합소득세",
+    "pc_search": 680,
+    "mobile_search": 2260,
+    "total_search": 2940,
+    "blog_doc_count": 243944,
+    "opportunity_score": 0.0121
+  },
+  {
+    "keyword": "종합소득세신고방법",
+    "pc_search": 1570,
+    "mobile_search": 2180,
+    "total_search": 3750,
+    "blog_doc_count": 309514,
+    "opportunity_score": 0.0121
+  },
+  {
+    "keyword": "단기예금",
+    "pc_search": 850,
+    "mobile_search": 1790,
+    "total_search": 2640,
+    "blog_doc_count": 222222,
+    "opportunity_score": 0.0119
+  },
+  {
+    "keyword": "신탁",
+    "pc_search": 2880,
+    "mobile_search": 6220,
+    "total_search": 9100,
+    "blog_doc_count": 815737,
+    "opportunity_score": 0.0112
+  },
+  {
+    "keyword": "세무기장",
+    "pc_search": 1230,
+    "mobile_search": 1570,
+    "total_search": 2800,
+    "blog_doc_count": 249650,
+    "opportunity_score": 0.0112
+  },
+  {
+    "keyword": "법인설립절차",
+    "pc_search": 1410,
+    "mobile_search": 2980,
+    "total_search": 4390,
+    "blog_doc_count": 392574,
+    "opportunity_score": 0.0112
+  },
+  {
+    "keyword": "여행체크리스트",
+    "pc_search": 400,
+    "mobile_search": 3470,
+    "total_search": 3870,
+    "blog_doc_count": 348206,
+    "opportunity_score": 0.0111
+  },
+  {
+    "keyword": "공유오피스가격",
+    "pc_search": 540,
+    "mobile_search": 1710,
+    "total_search": 2250,
+    "blog_doc_count": 207127,
+    "opportunity_score": 0.0109
+  },
+  {
+    "keyword": "법인세",
+    "pc_search": 4090,
+    "mobile_search": 3820,
+    "total_search": 7910,
+    "blog_doc_count": 731173,
+    "opportunity_score": 0.0108
+  },
+  {
+    "keyword": "아파트등기비용",
+    "pc_search": 660,
+    "mobile_search": 2410,
+    "total_search": 3070,
+    "blog_doc_count": 287902,
+    "opportunity_score": 0.0107
+  },
+  {
+    "keyword": "개인사업자법인전환",
+    "pc_search": 630,
+    "mobile_search": 1070,
+    "total_search": 1700,
+    "blog_doc_count": 158721,
+    "opportunity_score": 0.0107
+  },
+  {
+    "keyword": "소득세",
+    "pc_search": 9760,
+    "mobile_search": 14200,
+    "total_search": 23960,
+    "blog_doc_count": 2249290,
+    "opportunity_score": 0.0107
+  },
+  {
+    "keyword": "소득세계산",
+    "pc_search": 5090,
+    "mobile_search": 1520,
+    "total_search": 6610,
+    "blog_doc_count": 653356,
+    "opportunity_score": 0.0101
+  },
+  {
+    "keyword": "세액공제",
+    "pc_search": 3420,
+    "mobile_search": 6850,
+    "total_search": 10270,
+    "blog_doc_count": 1033411,
+    "opportunity_score": 0.0099
+  },
+  {
+    "keyword": "소유권이전등기비용",
+    "pc_search": 530,
+    "mobile_search": 1310,
+    "total_search": 1840,
+    "blog_doc_count": 187987,
+    "opportunity_score": 0.0098
+  },
+  {
+    "keyword": "근저당말소",
+    "pc_search": 550,
+    "mobile_search": 2170,
+    "total_search": 2720,
+    "blog_doc_count": 279821,
+    "opportunity_score": 0.0097
+  },
+  {
+    "keyword": "전표",
+    "pc_search": 790,
+    "mobile_search": 1180,
+    "total_search": 1970,
+    "blog_doc_count": 204750,
+    "opportunity_score": 0.0096
+  },
+  {
+    "keyword": "소유권이전등기",
+    "pc_search": 1660,
+    "mobile_search": 5300,
+    "total_search": 6960,
+    "blog_doc_count": 730323,
+    "opportunity_score": 0.0095
+  },
+  {
+    "keyword": "종합소득세신고대상",
+    "pc_search": 890,
+    "mobile_search": 1690,
+    "total_search": 2580,
+    "blog_doc_count": 271506,
+    "opportunity_score": 0.0095
+  },
+  {
+    "keyword": "세금환급",
+    "pc_search": 970,
+    "mobile_search": 4810,
+    "total_search": 5780,
+    "blog_doc_count": 616018,
+    "opportunity_score": 0.0094
+  },
+  {
+    "keyword": "부가가치세신고방법",
+    "pc_search": 860,
+    "mobile_search": 1140,
+    "total_search": 2000,
+    "blog_doc_count": 215817,
+    "opportunity_score": 0.0093
+  },
+  {
+    "keyword": "세무회계",
+    "pc_search": 1710,
+    "mobile_search": 2980,
+    "total_search": 4690,
+    "blog_doc_count": 515882,
+    "opportunity_score": 0.0091
+  },
+  {
+    "keyword": "세무서상담",
+    "pc_search": 390,
+    "mobile_search": 1940,
+    "total_search": 2330,
+    "blog_doc_count": 277766,
+    "opportunity_score": 0.0084
+  },
+  {
+    "keyword": "전자세금계산서발행방법",
+    "pc_search": 1360,
+    "mobile_search": 1740,
+    "total_search": 3100,
+    "blog_doc_count": 379652,
+    "opportunity_score": 0.0082
+  },
+  {
+    "keyword": "아파트양도세",
+    "pc_search": 670,
+    "mobile_search": 2450,
+    "total_search": 3120,
+    "blog_doc_count": 381201,
+    "opportunity_score": 0.0082
+  },
+  {
+    "keyword": "법무사비용",
+    "pc_search": 1000,
+    "mobile_search": 3100,
+    "total_search": 4100,
+    "blog_doc_count": 535583,
+    "opportunity_score": 0.0077
+  },
+  {
+    "keyword": "금융투자소득세",
+    "pc_search": 710,
+    "mobile_search": 1550,
+    "total_search": 2260,
+    "blog_doc_count": 292699,
+    "opportunity_score": 0.0077
+  },
+  {
+    "keyword": "토지양도세",
+    "pc_search": 350,
+    "mobile_search": 1060,
+    "total_search": 1410,
+    "blog_doc_count": 183221,
+    "opportunity_score": 0.0077
+  },
+  {
+    "keyword": "자영업자폐업",
+    "pc_search": 290,
+    "mobile_search": 1320,
+    "total_search": 1610,
+    "blog_doc_count": 211403,
+    "opportunity_score": 0.0076
+  },
+  {
+    "keyword": "스터디카페가격",
+    "pc_search": 240,
+    "mobile_search": 2030,
+    "total_search": 2270,
+    "blog_doc_count": 298170,
+    "opportunity_score": 0.0076
+  },
+  {
+    "keyword": "회계법인",
+    "pc_search": 1910,
+    "mobile_search": 3020,
+    "total_search": 4930,
+    "blog_doc_count": 651190,
+    "opportunity_score": 0.0076
+  },
+  {
+    "keyword": "재택근무",
+    "pc_search": 2590,
+    "mobile_search": 7720,
+    "total_search": 10310,
+    "blog_doc_count": 1371469,
+    "opportunity_score": 0.0075
+  },
+  {
+    "keyword": "프리랜서세금",
+    "pc_search": 370,
+    "mobile_search": 1220,
+    "total_search": 1590,
+    "blog_doc_count": 215119,
+    "opportunity_score": 0.0074
+  },
+  {
+    "keyword": "부가세납부",
+    "pc_search": 1240,
+    "mobile_search": 1320,
+    "total_search": 2560,
+    "blog_doc_count": 349346,
+    "opportunity_score": 0.0073
+  },
+  {
+    "keyword": "부가세",
+    "pc_search": 5980,
+    "mobile_search": 8450,
+    "total_search": 14430,
+    "blog_doc_count": 1973631,
+    "opportunity_score": 0.0073
+  },
+  {
+    "keyword": "급여계산",
+    "pc_search": 2510,
+    "mobile_search": 2000,
+    "total_search": 4510,
+    "blog_doc_count": 661163,
+    "opportunity_score": 0.0068
+  },
+  {
+    "keyword": "무료법률상담",
+    "pc_search": 1580,
+    "mobile_search": 4610,
+    "total_search": 6190,
+    "blog_doc_count": 985675,
+    "opportunity_score": 0.0063
+  },
+  {
+    "keyword": "금융소득세",
+    "pc_search": 770,
+    "mobile_search": 2640,
+    "total_search": 3410,
+    "blog_doc_count": 550816,
+    "opportunity_score": 0.0062
+  },
+  {
+    "keyword": "5월종합소득세",
+    "pc_search": 480,
+    "mobile_search": 1020,
+    "total_search": 1500,
+    "blog_doc_count": 247611,
+    "opportunity_score": 0.0061
+  },
+  {
+    "keyword": "재테크",
+    "pc_search": 5370,
+    "mobile_search": 14100,
+    "total_search": 19470,
+    "blog_doc_count": 3263815,
+    "opportunity_score": 0.006
+  },
+  {
+    "keyword": "온라인쇼핑몰창업",
+    "pc_search": 340,
+    "mobile_search": 1110,
+    "total_search": 1450,
+    "blog_doc_count": 249128,
+    "opportunity_score": 0.0058
+  },
+  {
+    "keyword": "COMPANY",
+    "pc_search": 2000,
+    "mobile_search": 6600,
+    "total_search": 8600,
+    "blog_doc_count": 1513036,
+    "opportunity_score": 0.0057
+  },
+  {
+    "keyword": "금융종합소득세",
+    "pc_search": 310,
+    "mobile_search": 1200,
+    "total_search": 1510,
+    "blog_doc_count": 268094,
+    "opportunity_score": 0.0056
+  },
+  {
+    "keyword": "비지니스",
+    "pc_search": 1950,
+    "mobile_search": 4750,
+    "total_search": 6700,
+    "blog_doc_count": 1223406,
+    "opportunity_score": 0.0055
+  },
+  {
+    "keyword": "퇴직급여",
+    "pc_search": 880,
+    "mobile_search": 1300,
+    "total_search": 2180,
+    "blog_doc_count": 403334,
+    "opportunity_score": 0.0054
+  },
+  {
+    "keyword": "소득세지방소득세",
+    "pc_search": 840,
+    "mobile_search": 1030,
+    "total_search": 1870,
+    "blog_doc_count": 358322,
+    "opportunity_score": 0.0052
+  },
+  {
+    "keyword": "스튜디오대여",
+    "pc_search": 690,
+    "mobile_search": 2660,
+    "total_search": 3350,
+    "blog_doc_count": 643656,
+    "opportunity_score": 0.0052
+  },
+  {
+    "keyword": "세무사상담",
+    "pc_search": 790,
+    "mobile_search": 1910,
+    "total_search": 2700,
+    "blog_doc_count": 556462,
+    "opportunity_score": 0.0049
+  },
+  {
+    "keyword": "세무상담",
+    "pc_search": 1260,
+    "mobile_search": 2870,
+    "total_search": 4130,
+    "blog_doc_count": 861615,
+    "opportunity_score": 0.0048
+  },
+  {
+    "keyword": "공간대여",
+    "pc_search": 2300,
+    "mobile_search": 7480,
+    "total_search": 9780,
+    "blog_doc_count": 2093487,
+    "opportunity_score": 0.0047
+  },
+  {
+    "keyword": "재무관리",
+    "pc_search": 540,
+    "mobile_search": 1090,
+    "total_search": 1630,
+    "blog_doc_count": 351663,
+    "opportunity_score": 0.0046
+  },
+  {
+    "keyword": "주택양도세",
+    "pc_search": 800,
+    "mobile_search": 1550,
+    "total_search": 2350,
+    "blog_doc_count": 527126,
+    "opportunity_score": 0.0045
+  },
+  {
+    "keyword": "과태료",
+    "pc_search": 2670,
+    "mobile_search": 3470,
+    "total_search": 6140,
+    "blog_doc_count": 1469121,
+    "opportunity_score": 0.0042
+  },
+  {
+    "keyword": "무료변호사상담",
+    "pc_search": 390,
+    "mobile_search": 2530,
+    "total_search": 2920,
+    "blog_doc_count": 697417,
+    "opportunity_score": 0.0042
+  },
+  {
+    "keyword": "등기",
+    "pc_search": 5190,
+    "mobile_search": 7890,
+    "total_search": 13080,
+    "blog_doc_count": 3483054,
+    "opportunity_score": 0.0038
+  },
+  {
+    "keyword": "세무사비용",
+    "pc_search": 310,
+    "mobile_search": 1100,
+    "total_search": 1410,
+    "blog_doc_count": 370373,
+    "opportunity_score": 0.0038
+  },
+  {
+    "keyword": "사업소득세",
+    "pc_search": 1340,
+    "mobile_search": 1590,
+    "total_search": 2930,
+    "blog_doc_count": 786913,
+    "opportunity_score": 0.0037
+  },
+  {
+    "keyword": "집명의이전",
+    "pc_search": 120,
+    "mobile_search": 1390,
+    "total_search": 1510,
+    "blog_doc_count": 429714,
+    "opportunity_score": 0.0035
+  },
+  {
+    "keyword": "법인설립",
+    "pc_search": 2330,
+    "mobile_search": 2290,
+    "total_search": 4620,
+    "blog_doc_count": 1356736,
+    "opportunity_score": 0.0034
+  },
+  {
+    "keyword": "법무사상담비용",
+    "pc_search": 200,
+    "mobile_search": 1040,
+    "total_search": 1240,
+    "blog_doc_count": 366158,
+    "opportunity_score": 0.0034
+  },
+  {
+    "keyword": "변호사무료상담",
+    "pc_search": 340,
+    "mobile_search": 1950,
+    "total_search": 2290,
+    "blog_doc_count": 697693,
+    "opportunity_score": 0.0033
+  },
+  {
+    "keyword": "조세",
+    "pc_search": 780,
+    "mobile_search": 2270,
+    "total_search": 3050,
+    "blog_doc_count": 922901,
+    "opportunity_score": 0.0033
+  },
+  {
+    "keyword": "회계",
+    "pc_search": 2660,
+    "mobile_search": 6600,
+    "total_search": 9260,
+    "blog_doc_count": 2777707,
+    "opportunity_score": 0.0033
+  },
+  {
+    "keyword": "세법",
+    "pc_search": 1170,
+    "mobile_search": 1320,
+    "total_search": 2490,
+    "blog_doc_count": 798507,
+    "opportunity_score": 0.0031
+  },
+  {
+    "keyword": "보험해지",
+    "pc_search": 370,
+    "mobile_search": 1690,
+    "total_search": 2060,
+    "blog_doc_count": 757446,
+    "opportunity_score": 0.0027
+  },
+  {
+    "keyword": "개인사업자세금",
+    "pc_search": 440,
+    "mobile_search": 1680,
+    "total_search": 2120,
+    "blog_doc_count": 837575,
+    "opportunity_score": 0.0025
+  },
+  {
+    "keyword": "장부",
+    "pc_search": 670,
+    "mobile_search": 2030,
+    "total_search": 2700,
+    "blog_doc_count": 1099700,
+    "opportunity_score": 0.0025
+  },
+  {
+    "keyword": "사무실임대",
+    "pc_search": 1670,
+    "mobile_search": 2820,
+    "total_search": 4490,
+    "blog_doc_count": 1875209,
+    "opportunity_score": 0.0024
+  },
+  {
+    "keyword": "중소기업",
+    "pc_search": 4220,
+    "mobile_search": 4610,
+    "total_search": 8830,
+    "blog_doc_count": 3918669,
+    "opportunity_score": 0.0023
+  },
+  {
+    "keyword": "계산서",
+    "pc_search": 1650,
+    "mobile_search": 2110,
+    "total_search": 3760,
+    "blog_doc_count": 1618892,
+    "opportunity_score": 0.0023
+  },
+  {
+    "keyword": "컨설턴트",
+    "pc_search": 1080,
+    "mobile_search": 2320,
+    "total_search": 3400,
+    "blog_doc_count": 1559335,
+    "opportunity_score": 0.0022
+  },
+  {
+    "keyword": "청년지원",
+    "pc_search": 1830,
+    "mobile_search": 2850,
+    "total_search": 4680,
+    "blog_doc_count": 2235352,
+    "opportunity_score": 0.0021
+  },
+  {
+    "keyword": "세금납부",
+    "pc_search": 1410,
+    "mobile_search": 2030,
+    "total_search": 3440,
+    "blog_doc_count": 1751050,
+    "opportunity_score": 0.002
+  },
+  {
+    "keyword": "장소대여",
+    "pc_search": 460,
+    "mobile_search": 2170,
+    "total_search": 2630,
+    "blog_doc_count": 1365601,
+    "opportunity_score": 0.0019
+  },
+  {
+    "keyword": "유포",
+    "pc_search": 290,
+    "mobile_search": 1050,
+    "total_search": 1340,
+    "blog_doc_count": 738000,
+    "opportunity_score": 0.0018
+  },
+  {
+    "keyword": "세무",
+    "pc_search": 1160,
+    "mobile_search": 2740,
+    "total_search": 3900,
+    "blog_doc_count": 2199170,
+    "opportunity_score": 0.0018
+  },
+  {
+    "keyword": "세금",
+    "pc_search": 3780,
+    "mobile_search": 9930,
+    "total_search": 13710,
+    "blog_doc_count": 8517861,
+    "opportunity_score": 0.0016
+  },
+  {
+    "keyword": "명세서",
+    "pc_search": 710,
+    "mobile_search": 1320,
+    "total_search": 2030,
+    "blog_doc_count": 1262106,
+    "opportunity_score": 0.0016
+  },
+  {
+    "keyword": "세금신고",
+    "pc_search": 890,
+    "mobile_search": 1730,
+    "total_search": 2620,
+    "blog_doc_count": 1798163,
+    "opportunity_score": 0.0015
+  },
+  {
+    "keyword": "세금계산",
+    "pc_search": 740,
+    "mobile_search": 1220,
+    "total_search": 1960,
+    "blog_doc_count": 1355739,
+    "opportunity_score": 0.0014
+  },
+  {
+    "keyword": "급여",
+    "pc_search": 2040,
+    "mobile_search": 4800,
+    "total_search": 6840,
+    "blog_doc_count": 5801767,
+    "opportunity_score": 0.0012
+  },
+  {
+    "keyword": "소득신고",
+    "pc_search": 480,
+    "mobile_search": 1410,
+    "total_search": 1890,
+    "blog_doc_count": 1642366,
+    "opportunity_score": 0.0012
+  },
+  {
+    "keyword": "사업소득",
+    "pc_search": 1430,
+    "mobile_search": 1440,
+    "total_search": 2870,
+    "blog_doc_count": 2700524,
+    "opportunity_score": 0.0011
+  },
+  {
+    "keyword": "작업하기좋은카페",
+    "pc_search": 120,
+    "mobile_search": 1240,
+    "total_search": 1360,
+    "blog_doc_count": 1709629,
+    "opportunity_score": 0.0008
+  },
+  {
+    "keyword": "재무",
+    "pc_search": 1090,
+    "mobile_search": 1710,
+    "total_search": 2800,
+    "blog_doc_count": 3300315,
+    "opportunity_score": 0.0008
+  },
+  {
+    "keyword": "임대",
+    "pc_search": 1950,
+    "mobile_search": 4260,
+    "total_search": 6210,
+    "blog_doc_count": 10382692,
+    "opportunity_score": 0.0006
+  },
+  {
+    "keyword": "집행",
+    "pc_search": 800,
+    "mobile_search": 1150,
+    "total_search": 1950,
+    "blog_doc_count": 4183438,
+    "opportunity_score": 0.0005
+  },
+  {
+    "keyword": "사무실",
+    "pc_search": 1720,
+    "mobile_search": 3480,
+    "total_search": 5200,
+    "blog_doc_count": 17383587,
+    "opportunity_score": 0.0003
+  },
+  {
+    "keyword": "소득",
+    "pc_search": 960,
+    "mobile_search": 2340,
+    "total_search": 3300,
+    "blog_doc_count": 9777300,
+    "opportunity_score": 0.0003
+  }
+]

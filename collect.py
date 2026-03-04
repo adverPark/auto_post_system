@@ -1,8 +1,7 @@
 """
 네이버 연관 키워드 수집기
 - 검색광고 API로 연관 키워드 + 검색량 수집
-- 검색 API로 블로그 문서 수 조회
-- 기회점수 계산 후 keywords_raw.json 저장
+- keywords_raw.json 저장 (스코어 계산은 expand.py에서 최종 수행)
 
 실행: uv run python collect.py "메인키워드"
 """
@@ -149,24 +148,10 @@ def main():
         print("연관 키워드를 찾을 수 없습니다.")
         sys.exit(1)
 
-    # 2. 각 키워드별 블로그 문서 수 조회
-    print(f"\n[검색 API] {len(keywords)}개 키워드 블로그 문서 수 조회 중...")
-    for i, kw in enumerate(keywords):
-        name = kw["keyword"]
-        doc_count = fetch_blog_doc_count(name)
-        kw["blog_doc_count"] = doc_count
+    # 2. 검색량 내림차순 정렬
+    keywords.sort(key=lambda x: x["total_search"], reverse=True)
 
-        # 3. 기회점수 계산
-        total = kw["total_search"]
-        kw["opportunity_score"] = round(total / (doc_count + 1), 4)
-
-        print(f"  [{i+1}/{len(keywords)}] {name}: 검색량={total}, 문서수={doc_count}, 기회점수={kw['opportunity_score']}")
-        time.sleep(0.1)  # 호출 간격
-
-    # 4. 기회점수 내림차순 정렬
-    keywords.sort(key=lambda x: x["opportunity_score"], reverse=True)
-
-    # 5. JSON 저장
+    # 3. JSON 저장
     output_path = "keywords_raw.json"
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(keywords, f, ensure_ascii=False, indent=2)
@@ -176,11 +161,11 @@ def main():
     print(f"{'='*50}")
 
     # 상위 10개 미리보기
-    print(f"\n📊 기회점수 TOP 10:")
-    print(f"{'순위':<4} {'키워드':<20} {'검색량':>8} {'문서수':>8} {'기회점수':>10}")
-    print("-" * 54)
+    print(f"\n검색량 TOP 10:")
+    print(f"{'순위':<4} {'키워드':<20} {'모바일':>8} {'PC':>8} {'합계':>8}")
+    print("-" * 44)
     for i, kw in enumerate(keywords[:10]):
-        print(f"{i+1:<4} {kw['keyword']:<20} {kw['total_search']:>8} {kw['blog_doc_count']:>8} {kw['opportunity_score']:>10}")
+        print(f"{i+1:<4} {kw['keyword']:<20} {kw['mobile_search']:>8} {kw['pc_search']:>8} {kw['total_search']:>8}")
 
 
 if __name__ == "__main__":
