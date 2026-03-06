@@ -11,6 +11,15 @@ build/
 # Virtual environment
 .venv/
 
+# Sessions
+sessions/
+
+# Configs
+configs/
+
+# OS
+.DS_Store
+
 # IDE
 .idea/
 .vscode/

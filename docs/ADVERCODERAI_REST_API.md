@@ -632,6 +632,27 @@ PARS 타입은 반드시 `prompts` 필드가 필요합니다. `researcher`와 `e
 }
 ```
 
+**기본 프롬프트 (Default):**
+
+`role`과 `goal`은 아래 기본값을 그대로 사용하세요. 수정하지 않는 것을 권장합니다. **`backstory`만 용도에 맞게 수정**하세요.
+
+```json
+{
+  "researcher": {
+    "role": "온라인 자료 검색 및 정보 분석",
+    "goal": "정확하고 신뢰할 수 있는 정보 제공",
+    "backstory": "당신은 정확하고 신뢰할 수 있는 정보를 제공하는 것을 최우선으로 여깁니다. 다양한 출처를 통해 정보를 수집하고, 항상 사실 확인을 철저히 하여 최신의 정확한 정보만을 제공합니다. url의 끝이 pdf로 끝나는 url은 정보수집에서 제외해 주세요! 팀원들과의 협력을 중요시하며, 귀하의 전문성으로 프로젝트에 기여하고자 합니다."
+  },
+  "editor": {
+    "role": "독자 친화적이고 정보가 풍부한 한국어 콘텐츠 작성",
+    "goal": "추출된 데이터를 정제하고 구조화하여 고품질 데이터셋 생성",
+    "backstory": "당신은 독자들이 쉽게 이해하고 공감할 수 있는 콘텐츠를 만듭니다. 정보 전달과 함께 독자의 관심을 끌 수 있는 글쓰기에 능숙합니다. 주요 포털 사이트와 SNS에서 잘 노출될 수 있는 콘텐츠 최적화 능력이 있습니다. 검색 최적화(SEO)를 고려하여 적절한 키워드를 자연스럽게 사용해 주세요. 블로그 포스트는 2000자 이상으로 작성하며, 필요시 마크다운 형식의 링크나 표를 포함해 주세요. 한국인들이 사용하지 않는 단어와 표현을 사용하지 마세요 (영어식 표현.). 이 프로젝트의 중요성을 잘 알고 있으며, 최선을 다해 임하고 있습니다."
+  }
+}
+```
+
+> **Tip:** `backstory`에 `{keyword}`를 넣으면 각 포스트의 main_keyword로 자동 치환됩니다.
+
 **검증 규칙:**
 - `researcher`, `editor` 키 모두 필수
 - 각 에이전트에 `role`, `goal`, `backstory` 필드 모두 필수
@@ -993,21 +1014,14 @@ curl -H "Authorization: Bearer pak_xxx" \
 ```json
 {
   "id": 12345,
-  "user": "username",
-  "campaigns": 12345,
-  "blog": null,
   "title": "포스트 제목",
-  "img_url": null,
-  "post_context": "<h2>소제목</h2><p>본문 HTML...</p>",
   "status": "COM",
   "publish_date": "2026-03-05T18:10:00",
   "created_date": "2026-03-04T16:00:00",
-  "updated_date": "2026-03-04T16:05:00",
-  "link": "",
-  "craw_url": null,
-  "affiliate_link": "",
-  "error_message": "",
-  "publish_status": false
+  "post_context": "<h2>소제목</h2><p>본문 HTML...</p>",
+  "affiliate_link": "https://naver.me/xxx",
+  "main_keyword": "키워드",
+  "error_message": null
 }
 ```
 
@@ -1458,7 +1472,9 @@ curl -X POST \
 | `GEMINI25FLASHLITE` | Gemini 2.5 Flash Lite | Gemini |
 | `GEMINI25PRO` | Gemini 2.5 Pro | Gemini |
 | `GEMINI30FLASH` | Gemini 3.0 Flash | Gemini |
-| `GEMINI30PRO` | Gemini 3.0 Pro | Gemini |
+| `GEMINI30PRO` | Gemini 3.0 Pro (3/9 중단 예정) | Gemini |
+| `GEMINI31PRO` | Gemini 3.1 Pro | Gemini |
+| `GEMINI31FLITE` | Gemini 3.1 Flash Lite | Gemini |
 | `GEMINI` | Gemini (레거시) | Gemini |
 | `GPT35` | GPT Turbo 3.5 | OpenAI |
 | `GPT-4` | GPT-4 | OpenAI |
