@@ -83,7 +83,7 @@ advercoder-post-generator 에이전트를 Task 도구로 호출합니다:
 cafe-publisher 에이전트를 Agent 도구로 호출합니다:
 
 - subagent_type: cafe-publisher
-- prompt: "프리셋 '$2'로 네이버 카페에 pending 포스트를 발행해주세요. 딜레이: 5초"
+- prompt: "프리셋 '$2'로 네이버 카페에 pending 포스트를 스케줄 발행해주세요. --schedule 모드로 백그라운드 실행하고, PID와 로그 파일 경로를 알려주세요."
 
 ## 5단계: 최종 결과 보고
 
@@ -93,5 +93,5 @@ cafe-publisher 에이전트를 Agent 도구로 호출합니다:
 - 수집된 키워드 수 (1차 / 2차 / 합계)
 - 생성된 제목 목록 (번호 매기기)
 - 캠페인 ID, 상태, 총 포스트 수
-- 카페 발행 결과 (성공/실패 수, 발행 URL 목록)
+- 카페 발행: 스케줄 모드로 백그라운드 실행 중 (PID: xxx, 로그: logs/schedule_xxx.log)
 - 사용된 프리셋

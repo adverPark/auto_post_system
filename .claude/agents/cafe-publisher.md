@@ -36,20 +36,42 @@ uv run python scripts/publish_cafe.py --preset {프리셋명} --dry-run
 
 **2단계: 실제 발행**
 
+사용자가 스케줄 발행을 요청한 경우 (`--schedule` 모드):
+
+```bash
+# 이미 실행 중인지 확인
+if [ -f logs/schedule_{프리셋명}.pid ] && kill -0 $(cat logs/schedule_{프리셋명}.pid) 2>/dev/null; then
+    echo "이미 스케줄 발행 실행 중 (PID: $(cat logs/schedule_{프리셋명}.pid))"
+else
+    mkdir -p logs
+    nohup uv run python scripts/publish_cafe.py --preset {프리셋명} --schedule --delay {딜레이} \
+      > logs/schedule_{프리셋명}_$(date +%Y%m%d_%H%M%S).log 2>&1 &
+    echo "스케줄 발행 시작 (PID: $!)"
+fi
+```
+
+일반 즉시 발행 (기본):
+
 ```bash
 uv run python scripts/publish_cafe.py --preset {프리셋명} --delay {딜레이}
 ```
 
 - 기본 딜레이: 5초 (사용자가 지정하면 해당 값 사용)
 - `--headless` 옵션은 사용자가 명시적으로 요청한 경우에만 추가
+- `--schedule` 모드는 publish_date에 맞춰 예약 발행 (nohup 백그라운드 실행)
 
 **3단계: 결과 보고**
 
-실행 결과에서 아래 정보를 추출하여 보고:
+즉시 발행: 실행 결과에서 아래 정보를 추출하여 보고:
 - 총 포스트 수
 - 성공 / 실패 수
 - 발행된 포스트 URL 목록
 - 실패한 포스트가 있으면 에러 내용
+
+스케줄 발행: PID와 로그 파일 경로를 보고:
+- 스케줄 발행 시작됨 (PID: xxx)
+- 로그 확인: `tail -f logs/schedule_{프리셋명}_xxx.log`
+- 모든 포스트 발행 완료 시 자동 종료됨
 
 ## 출력 형식
 

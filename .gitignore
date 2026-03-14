@@ -23,6 +23,9 @@ screenshots/
 # Temp images
 temp_images/
 
+# Logs (스케줄 발행 등)
+logs/
+
 # OS
 .DS_Store
 

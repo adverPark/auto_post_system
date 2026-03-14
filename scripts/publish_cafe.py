@@ -1,8 +1,11 @@
 """네이버 카페 자동 발행 스크립트 (Playwright)
 
 Usage:
-    # 기본 발행
+    # 기본 발행 (모든 pending 즉시 발행)
     uv run python scripts/publish_cafe.py --preset 대표프리셋
+
+    # 스케줄 발행 (publish_date 기준 예약 발행, 완료 시 자동 종료)
+    uv run python scripts/publish_cafe.py --preset 대표프리셋 --schedule
 
     # 에디터 테스트 (Phase B)
     uv run python scripts/publish_cafe.py --preset 대표프리셋 --test-html test.html
@@ -22,8 +25,10 @@ import asyncio
 import hashlib
 import json
 import os
+import signal
 import shutil
 import sys
+from datetime import datetime, timedelta, timezone
 
 import requests
 from bs4 import BeautifulSoup, NavigableString
@@ -38,7 +43,9 @@ PRESETS_PATH = os.path.join(os.path.dirname(__file__), "..", "configs", "presets
 CONFIGS_DIR = os.path.join(os.path.dirname(__file__), "..", "configs")
 SCREENSHOTS_DIR = os.path.join(os.path.dirname(__file__), "..", "screenshots")
 TEMP_IMAGES_DIR = os.path.join(os.path.dirname(__file__), "..", "temp_images")
+LOGS_DIR = os.path.join(os.path.dirname(__file__), "..", "logs")
 MODIFIER = "Meta" if sys.platform == "darwin" else "Control"
+KST = timezone(timedelta(hours=9))
 
 
 def download_image(url: str) -> str | None:
@@ -92,6 +99,76 @@ DEFAULT_TEST_HTML = """\
 <ul><li>항목 1</li><li>항목 2</li></ul>
 <table><tr><th>헤더1</th><th>헤더2</th></tr><tr><td>값1</td><td>값2</td></tr></table>
 """
+
+
+# ── PID File (중복 실행 방지) ────────────────────────────
+
+
+def get_pid_path(preset_name: str) -> str:
+    return os.path.join(LOGS_DIR, f"schedule_{preset_name}.pid")
+
+
+def is_schedule_running(preset_name: str) -> bool:
+    """같은 프리셋의 스케줄 프로세스가 이미 실행 중인지 확인."""
+    pid_path = get_pid_path(preset_name)
+    if not os.path.exists(pid_path):
+        return False
+    with open(pid_path) as f:
+        pid = int(f.read().strip())
+    try:
+        os.kill(pid, 0)  # 프로세스 존재 확인 (시그널 안 보냄)
+        return True
+    except (ProcessLookupError, PermissionError, ValueError):
+        os.remove(pid_path)  # 죽은 PID 파일 정리
+        return False
+
+
+def write_pid_file(preset_name: str):
+    os.makedirs(LOGS_DIR, exist_ok=True)
+    with open(get_pid_path(preset_name), "w") as f:
+        f.write(str(os.getpid()))
+
+
+def remove_pid_file(preset_name: str):
+    pid_path = get_pid_path(preset_name)
+    if os.path.exists(pid_path):
+        os.remove(pid_path)
+
+
+# ── Schedule Utils (시간 필터링) ─────────────────────────
+
+
+def is_publish_time(post: dict) -> bool:
+    """post.publish_date가 현재 시각 이전이면 True (발행 시간 도래)."""
+    publish_date_str = post.get("post", {}).get("publish_date")
+    if not publish_date_str:
+        return True  # publish_date 없으면 즉시 발행
+    try:
+        publish_dt = datetime.fromisoformat(publish_date_str)
+        if publish_dt.tzinfo is None:
+            publish_dt = publish_dt.replace(tzinfo=KST)
+        return datetime.now(KST) >= publish_dt
+    except (ValueError, TypeError):
+        return True
+
+
+def get_next_publish_time(posts: list[dict]) -> datetime | None:
+    """가장 가까운 미래의 publish_date를 반환. 없으면 None."""
+    next_time = None
+    for post in posts:
+        publish_date_str = post.get("post", {}).get("publish_date")
+        if not publish_date_str:
+            continue
+        try:
+            publish_dt = datetime.fromisoformat(publish_date_str)
+            if publish_dt.tzinfo is None:
+                publish_dt = publish_dt.replace(tzinfo=KST)
+            if publish_dt > datetime.now(KST):
+                if next_time is None or publish_dt < next_time:
+                    next_time = publish_dt
+        except (ValueError, TypeError):
+            continue
+    return next_time
 
 
 # ── API Functions ─────────────────────────────────────────
@@ -678,6 +755,188 @@ async def publish_single_post(
     return post_url
 
 
+# ── Publish Modes ────────────────────────────────────────
+
+
+async def run_immediate(page, cafe: dict, args):
+    """즉시 모드: 모든 pending 포스트를 바로 발행."""
+    posts = fetch_pending_posts(cafe["api_key"])
+    if not posts:
+        print("[PUBLISH] pending 포스트 없음. 종료.")
+        return
+
+    print(f"[PUBLISH] pending 포스트 {len(posts)}개 발행 시작")
+    success_count = 0
+    fail_count = 0
+
+    for idx, post in enumerate(posts, 1):
+        post_id = post["id"]
+        post_data = post.get("post", {})
+        title = post_data.get("title", "제목 없음")
+        html_content = post_data.get("post_context", "")
+        cafe_id_str = post.get("cafe_id_str", cafe["cafe_id"])
+        menu_id = post.get("menu_id", cafe["menu_id"])
+
+        print(f"\n[{idx}/{len(posts)}] 포스트 #{post_id}: {title}")
+
+        try:
+            post_url = await publish_single_post(
+                page, cafe_id_str, menu_id, title, html_content
+            )
+            update_post_status(post_id, post_url)
+            print(f"  [API] 상태 업데이트 완료 (published)")
+            success_count += 1
+        except Exception as e:
+            print(f"  [ERROR] 발행 실패: {e}")
+            print(f"  [INFO] 상태 유지 (pending) → 다음 실행 시 재시도")
+            fail_count += 1
+
+        # 포스트간 딜레이
+        if idx < len(posts):
+            print(f"  [WAIT] {args.delay}초 대기...")
+            await page.wait_for_timeout(args.delay * 1000)
+
+    # 결과 요약
+    print(f"\n{'=' * 50}")
+    print(f"[RESULT] 총 {len(posts)}개 중 성공: {success_count}, 실패: {fail_count}")
+    print(f"{'=' * 50}")
+
+
+async def _interruptible_sleep(seconds: float, shutdown_event: asyncio.Event):
+    """shutdown_event가 set되면 즉시 깨어나는 sleep. Ctrl+C 즉시 반응 가능."""
+    try:
+        await asyncio.wait_for(shutdown_event.wait(), timeout=seconds)
+    except asyncio.TimeoutError:
+        pass  # 정상: 시간 다 됨
+
+
+async def run_scheduled(page, context, cafe: dict,
+                        naver_id: str, naver_pw: str, storage_path: str, args):
+    """스케줄 모드: publish_date에 맞춰 예약 발행. 모든 포스트 완료 시 자동 종료."""
+    preset_name = args.preset
+
+    write_pid_file(preset_name)
+    print(f"[SCHEDULE] 스케줄 모드 시작 (PID: {os.getpid()})")
+
+    # Graceful shutdown: asyncio Event 기반 (long sleep 중 즉시 반응)
+    shutdown_event = asyncio.Event()
+    loop = asyncio.get_running_loop()
+
+    def handle_signal():
+        print(f"\n[SCHEDULE] 종료 신호 수신. 현재 작업 완료 후 종료합니다...")
+        shutdown_event.set()
+
+    loop.add_signal_handler(signal.SIGINT, handle_signal)
+    loop.add_signal_handler(signal.SIGTERM, handle_signal)
+
+    total_success = 0
+    total_fail = 0
+
+    try:
+        while not shutdown_event.is_set():
+            # 1. pending 포스트 조회 (API 실패 시 재시도)
+            try:
+                posts = fetch_pending_posts(cafe["api_key"])
+            except Exception as e:
+                print(f"[SCHEDULE-WARN] API 조회 실패: {e}. 60초 후 재시도...")
+                await _interruptible_sleep(60, shutdown_event)
+                continue
+
+            # 2. 전부 발행 완료 → 종료
+            if not posts:
+                print(f"\n{'=' * 50}")
+                print(f"[SCHEDULE] 모든 포스트 발행 완료. 종료합니다.")
+                print(f"[RESULT] 총 성공: {total_success}, 실패: {total_fail}")
+                print(f"{'=' * 50}")
+                break
+
+            # 3. publish_date 기준 필터
+            ready_posts = [p for p in posts if is_publish_time(p)]
+            future_posts = [p for p in posts if not is_publish_time(p)]
+
+            if not ready_posts:
+                # 아직 발행할 포스트 없음 → smart sleep
+                next_time = get_next_publish_time(future_posts)
+                if next_time:
+                    now = datetime.now(KST)
+                    wait_seconds = (next_time - now).total_seconds()
+                    sleep_seconds = max(60, wait_seconds)
+                    print(f"[SCHEDULE] 대기중 포스트 {len(future_posts)}개. "
+                          f"다음 발행: {next_time.strftime('%Y-%m-%d %H:%M:%S')} "
+                          f"({int(wait_seconds // 3600)}시간 {int((wait_seconds % 3600) // 60)}분 후)")
+                    await _interruptible_sleep(sleep_seconds, shutdown_event)
+                else:
+                    await _interruptible_sleep(60, shutdown_event)
+                continue
+
+            # 4. 브라우저 상태 방어 (장시간 대기 후)
+            try:
+                await page.evaluate("1+1")
+            except Exception:
+                print("[SCHEDULE] 브라우저 페이지 복구 중...")
+                page = await context.new_page()
+
+            # 5. 로그인 상태 재확인
+            try:
+                is_logged_in = await check_login_status(page)
+                if not is_logged_in:
+                    print("[SCHEDULE] 세션 만료 감지. 재로그인...")
+                    await ensure_login(context, page, naver_id, naver_pw, storage_path)
+            except Exception as e:
+                print(f"[SCHEDULE-WARN] 로그인 확인 실패: {e}. 재로그인 시도...")
+                try:
+                    await ensure_login(context, page, naver_id, naver_pw, storage_path)
+                except Exception as login_err:
+                    print(f"[SCHEDULE-ERROR] 재로그인 실패: {login_err}. 60초 후 재시도...")
+                    await _interruptible_sleep(60, shutdown_event)
+                    continue
+
+            # 6. 발행 대상 포스트 처리
+            print(f"\n[SCHEDULE] 발행 대상 {len(ready_posts)}개, 대기중 {len(future_posts)}개")
+
+            for idx, post in enumerate(ready_posts, 1):
+                if shutdown_event.is_set():
+                    break
+
+                post_id = post["id"]
+                post_data = post.get("post", {})
+                title = post_data.get("title", "제목 없음")
+                html_content = post_data.get("post_context", "")
+                cafe_id_str = post.get("cafe_id_str", cafe["cafe_id"])
+                menu_id = post.get("menu_id", cafe["menu_id"])
+                publish_date = post_data.get("publish_date", "N/A")
+
+                print(f"\n[SCHEDULE {idx}/{len(ready_posts)}] 포스트 #{post_id}: {title} (예정: {publish_date})")
+
+                try:
+                    post_url = await publish_single_post(
+                        page, cafe_id_str, menu_id, title, html_content
+                    )
+                    update_post_status(post_id, post_url)
+                    print(f"  [API] 상태 업데이트 완료 (published)")
+                    total_success += 1
+                except Exception as e:
+                    print(f"  [ERROR] 발행 실패: {e}")
+                    print(f"  [INFO] 상태 유지 (pending) → 다음 사이클에 재시도")
+                    total_fail += 1
+
+                # 포스트간 딜레이
+                if idx < len(ready_posts):
+                    print(f"  [WAIT] {args.delay}초 대기...")
+                    await page.wait_for_timeout(args.delay * 1000)
+
+        # shutdown 요청으로 종료된 경우
+        if shutdown_event.is_set():
+            print(f"\n{'=' * 50}")
+            print(f"[SCHEDULE] 사용자 종료 요청.")
+            print(f"[RESULT] 총 성공: {total_success}, 실패: {total_fail}")
+            print(f"{'=' * 50}")
+
+    finally:
+        remove_pid_file(preset_name)
+        print(f"[SCHEDULE] PID 파일 삭제 완료.")
+
+
 # ── Main ─────────────────────────────────────────────────
 
 
@@ -706,6 +965,12 @@ async def run(args):
         sys.exit(1)
 
     storage_path = os.path.join(CONFIGS_DIR, f"storage_state_{naver_id}.json")
+
+    # 스케줄 모드: 실행 전 중복 체크 (Playwright 시작 전에 빠르게 확인)
+    if args.schedule and is_schedule_running(args.preset):
+        print(f"[SCHEDULE] 프리셋 '{args.preset}'의 스케줄 발행이 이미 실행 중입니다.")
+        print(f"[SCHEDULE] PID 파일: {get_pid_path(args.preset)}")
+        return
 
     # Playwright 시작
     async with async_playwright() as p:
@@ -780,13 +1045,14 @@ async def run(args):
                     print(f"[DRY-RUN] pending 포스트 {len(posts)}개:")
                     for post in posts:
                         post_data = post.get("post", {})
-                        print(f"  - [{post['id']}] {post_data.get('title', 'N/A')}")
+                        print(f"  - [{post['id']}] {post_data.get('title', 'N/A')} "
+                              f"(발행예정: {post_data.get('publish_date', 'N/A')})")
                 else:
                     print(f"[DRY-RUN] target_id={target_id}에 해당하는 카페 없음")
                 print("[DRY-RUN] 완료.")
                 return
 
-            # Phase C: 메인 발행 루프
+            # Phase C: 카페 조회 (공통)
             print("[PUBLISH] 카페 목록 조회...")
             cafes = fetch_cafes()
             cafe = next((c for c in cafes if c["id"] == target_id), None)
@@ -796,47 +1062,11 @@ async def run(args):
 
             print(f"[PUBLISH] 카페: {cafe['name']} (cafe_id={cafe['cafe_id']}, menu_id={cafe['menu_id']})")
 
-            # pending 포스트 조회
-            posts = fetch_pending_posts(cafe["api_key"])
-            if not posts:
-                print("[PUBLISH] pending 포스트 없음. 종료.")
-                return
-
-            print(f"[PUBLISH] pending 포스트 {len(posts)}개 발행 시작")
-            success_count = 0
-            fail_count = 0
-
-            for idx, post in enumerate(posts, 1):
-                post_id = post["id"]
-                post_data = post.get("post", {})
-                title = post_data.get("title", "제목 없음")
-                html_content = post_data.get("post_context", "")
-                cafe_id_str = post.get("cafe_id_str", cafe["cafe_id"])
-                menu_id = post.get("menu_id", cafe["menu_id"])
-
-                print(f"\n[{idx}/{len(posts)}] 포스트 #{post_id}: {title}")
-
-                try:
-                    post_url = await publish_single_post(
-                        page, cafe_id_str, menu_id, title, html_content
-                    )
-                    update_post_status(post_id, post_url)
-                    print(f"  [API] 상태 업데이트 완료 (published)")
-                    success_count += 1
-                except Exception as e:
-                    print(f"  [ERROR] 발행 실패: {e}")
-                    print(f"  [INFO] 상태 유지 (pending) → 다음 실행 시 재시도")
-                    fail_count += 1
-
-                # 포스트간 딜레이
-                if idx < len(posts):
-                    print(f"  [WAIT] {args.delay}초 대기...")
-                    await page.wait_for_timeout(args.delay * 1000)
-
-            # 결과 요약
-            print(f"\n{'=' * 50}")
-            print(f"[RESULT] 총 {len(posts)}개 중 성공: {success_count}, 실패: {fail_count}")
-            print(f"{'=' * 50}")
+            # 분기: 스케줄 모드 vs 즉시 모드
+            if args.schedule:
+                await run_scheduled(page, context, cafe, naver_id, naver_pw, storage_path, args)
+            else:
+                await run_immediate(page, cafe, args)
 
         finally:
             cleanup_temp_images()
@@ -850,6 +1080,7 @@ def main():
     parser.add_argument("--delay", type=int, default=5, help="포스트간 딜레이(초) (기본: 5)")
     parser.add_argument("--test-html", nargs="?", const="__default__", default=None, help="테스트용 HTML 파일 경로 (인자 없으면 기본 HTML)")
     parser.add_argument("--dry-run", action="store_true", help="발행 없이 로그인 + API 조회만")
+    parser.add_argument("--schedule", action="store_true", help="스케줄 모드: publish_date 기준 예약 발행 (완료 시 자동 종료)")
 
     args = parser.parse_args()
 
