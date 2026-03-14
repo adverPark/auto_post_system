@@ -1,10 +1,10 @@
 ---
 name: full-pipeline
-description: 키워드 조사부터 제목 생성, 캠페인 발행 준비까지 전체 파이프라인을 한번에 실행합니다. "풀파이프라인", "전체 파이프라인", "키워드부터 발행까지", "한번에 돌려줘" 요청 시 사용합니다.
+description: 키워드 조사부터 제목 생성, 캠페인 발행 준비, 카페 자동 발행까지 전체 파이프라인을 한번에 실행합니다. "풀파이프라인", "전체 파이프라인", "키워드부터 발행까지", "한번에 돌려줘" 요청 시 사용합니다.
 user-invocable: true
 disable-model-invocation: true
 argument-hint: "<메인키워드> <제목수> <프리셋명>"
-allowed-tools: Read, Bash, Task(keyword-collector), Task(seo-title-generator), Task(advercoder-post-generator)
+allowed-tools: Read, Bash, Task(keyword-collector), Task(seo-title-generator), Task(advercoder-post-generator), Agent(cafe-publisher)
 ---
 
 # 풀 파이프라인
@@ -69,7 +69,23 @@ advercoder-post-generator 에이전트를 Task 도구로 호출합니다:
 - subagent_type: advercoder-post-generator
 - prompt: "아래 제목들로 캠페인을 생성해주세요.\n\n프리셋: $2\ntitles:\n{조합된 titles 문자열}"
 
-## 4단계: 최종 결과 보고
+## 4단계: 카페 자동 발행 (cafe-publisher 에이전트)
+
+프리셋의 `publish` 값이 `"NCF"`인 경우, 캠페인의 글 작성이 완료된 후 카페에 자동 발행합니다.
+
+**4-1. 글 작성 완료 대기**
+
+3단계의 advercoder-post-generator가 캠페인 글 작성 완료를 확인한 뒤 진행합니다.
+(advercoder-post-generator는 내부적으로 폴링하여 완료를 대기합니다)
+
+**4-2. cafe-publisher 에이전트 호출**
+
+cafe-publisher 에이전트를 Agent 도구로 호출합니다:
+
+- subagent_type: cafe-publisher
+- prompt: "프리셋 '$2'로 네이버 카페에 pending 포스트를 발행해주세요. 딜레이: 5초"
+
+## 5단계: 최종 결과 보고
 
 사용자에게 아래 정보를 정리해서 보여주세요:
 
@@ -77,4 +93,5 @@ advercoder-post-generator 에이전트를 Task 도구로 호출합니다:
 - 수집된 키워드 수 (1차 / 2차 / 합계)
 - 생성된 제목 목록 (번호 매기기)
 - 캠페인 ID, 상태, 총 포스트 수
+- 카페 발행 결과 (성공/실패 수, 발행 URL 목록)
 - 사용된 프리셋

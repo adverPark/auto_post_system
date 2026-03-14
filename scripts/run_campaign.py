@@ -109,6 +109,13 @@ def create_campaign(
     publish_interval: int = 0,
     additional_prompt: str | None = None,
     prompts: dict | None = None,
+    image_provider: str = "NOIMG",
+    image_size: str = "1024x1024",
+    image_mode: str = "THUMB",
+    image_count: int = 6,
+    max_section_images: int = 4,
+    image_prompt_mode: str = "SIMPLE",
+    image_additional_prompt: str | None = None,
 ):
     if not campaign_name:
         first_title = titles.split("\n")[0].split("///")[0][:20]
@@ -156,6 +163,17 @@ def create_campaign(
 
     if prompts and campaign_type == "PARS":
         payload["prompts"] = prompts
+
+    # 이미지 설정 (NOIMG가 아닐 때만 포함)
+    if image_provider != "NOIMG":
+        payload["image_provider"] = image_provider
+        payload["image_size"] = image_size
+        payload["image_mode"] = image_mode
+        payload["image_count"] = image_count
+        payload["max_section_images"] = max_section_images
+        payload["image_prompt_mode"] = image_prompt_mode
+        if image_additional_prompt:
+            payload["image_additional_prompt"] = image_additional_prompt
 
     resp = api_post("/campaigns/", payload)
     return resp
@@ -246,10 +264,17 @@ def main():
     parser.add_argument("--model", type=str, default=None)
     parser.add_argument("--tone", type=str, default=None)
     parser.add_argument("--publish", type=str, default=None)
-    parser.add_argument("--blog-id", type=int, default=None, help="발행할 블로그/카페 ID")
-    parser.add_argument("--interval", type=int, default=None, help="발행 간격 (분)")
+    parser.add_argument("--target-id", type=int, default=None, help="발행할 블로그/카페 ID")
+    parser.add_argument("--interval", type=int, default=None, help="발행 간격 (시간)")
     parser.add_argument("--additional-prompt", type=str, default=None)
     parser.add_argument("--prompts-json", type=str, default=None, help="PARS용 prompts JSON 문자열 또는 파일 경로(@path)")
+    parser.add_argument("--image-provider", type=str, default=None, help="이미지 제공자 (NOIMG/OPENAI/GEMINI)")
+    parser.add_argument("--image-size", type=str, default=None, help="이미지 크기 (1024x1024 등)")
+    parser.add_argument("--image-mode", type=str, default=None, help="이미지 모드 (THUMB/FULL)")
+    parser.add_argument("--image-count", type=int, default=None, help="이미지 개수 (0~10)")
+    parser.add_argument("--max-section-images", type=int, default=None, help="소제목별 최대 이미지 (1~10)")
+    parser.add_argument("--image-prompt-mode", type=str, default=None, help="이미지 프롬프트 방식 (SIMPLE/LLM)")
+    parser.add_argument("--image-additional-prompt", type=str, default=None, help="이미지 추가 프롬프트")
     parser.add_argument("--list-blogs", action="store_true", help="블로그/카페 목록 조회만")
     parser.add_argument("--list-presets", action="store_true", help="프리셋 목록 조회")
     parser.add_argument("--no-poll", action="store_true", help="캠페인 생성만 하고 폴링 안 함")
@@ -294,8 +319,17 @@ def main():
     model = args.model or preset.get("model", "GEMINI30FLASH")
     tone = args.tone or preset.get("tone", "FRD")
     publish = args.publish or preset.get("publish", "NCF")
-    blog_id = args.blog_id if args.blog_id is not None else preset.get("blog_id")
+    target_id = args.target_id if args.target_id is not None else preset.get("target_id")
     interval = args.interval if args.interval is not None else preset.get("interval", 0)
+
+    # 이미지 설정: CLI > 프리셋 > 기본값
+    image_provider = args.image_provider or preset.get("image_provider", "NOIMG")
+    image_size = args.image_size or preset.get("image_size", "1024x1024")
+    image_mode = args.image_mode or preset.get("image_mode", "THUMB")
+    image_count = args.image_count if args.image_count is not None else preset.get("image_count", 6)
+    max_section_images = args.max_section_images if args.max_section_images is not None else preset.get("max_section_images", 4)
+    image_prompt_mode = args.image_prompt_mode or preset.get("image_prompt_mode", "SIMPLE")
+    image_additional_prompt = args.image_additional_prompt or preset.get("image_additional_prompt")
 
     # 목록 조회 모드
     if args.list_blogs:
@@ -334,15 +368,22 @@ def main():
         model_choice=model,
         tone=tone,
         publish_status=publish,
-        selected_blog=blog_id,
+        selected_blog=target_id,
         publish_interval=interval,
         additional_prompt=args.additional_prompt,
         prompts=prompts,
+        image_provider=image_provider,
+        image_size=image_size,
+        image_mode=image_mode,
+        image_count=image_count,
+        max_section_images=max_section_images,
+        image_prompt_mode=image_prompt_mode,
+        image_additional_prompt=image_additional_prompt,
     )
 
     campaign_id = campaign["id"]
     total_posts = campaign["total_posts"]
-    selected_blog = campaign.get("nblog") or blog_id
+    selected_blog = campaign.get("nblog") or target_id
     publish_status = publish
 
     print(f"[OK] 캠페인 생성 완료: id={campaign_id}, total_posts={total_posts}")

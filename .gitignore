@@ -17,6 +17,12 @@ sessions/
 # Configs
 configs/
 
+# Screenshots (debug)
+screenshots/
+
+# Temp images
+temp_images/
+
 # OS
 .DS_Store
 

@@ -276,7 +276,7 @@ curl -H "Authorization: Bearer pak_xxx" \
 | `model_choice` | string | O | LLM 모델 (아래 표 참조) |
 | `start_date` | datetime | O | 작성 시작 시간 (ISO 8601) |
 | `publish_status` | string | O | 발행 상태 |
-| `publish_interval` | int | O | 발행 간격 (분 단위, 0=즉시) |
+| `publish_interval` | int | O | 발행 간격 (시간 단위, 0=즉시) |
 | `selected_blog` | int | - | 발행할 블로그 ID (`publish_status`가 `DNP`가 아닌 경우 필수, 아래 참조) |
 | `tone` | string | - | 어투 (기본: `FRD`) — INFO/CRAW만 |
 | `language` | string | - | 언어 (기본: `KO`) — INFO/CRAW만 |
@@ -422,7 +422,7 @@ curl -X POST \
     "model_choice": "GEMINI30FLASH",
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "DNP",
-    "publish_interval": 60
+    "publish_interval": 6
   }' \
   https://ai.advercoder.com/api/v1/campaigns/
 ```
@@ -443,7 +443,7 @@ curl -X POST \
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "NBL",
     "selected_blog": 119,
-    "publish_interval": 60,
+    "publish_interval": 6,
     "affiliate_link": "https://link.coupang.com/xxx",
     "additional_prompt": "{keyword}에 대해 전문적으로 설명해주세요. 초보자도 이해할 수 있도록 작성해주세요.",
     "insertion_rules": {
@@ -550,7 +550,7 @@ curl -X POST \
     "model_choice": "GEMINI30FLASH",
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "DNP",
-    "publish_interval": 60
+    "publish_interval": 6
   }' \
   https://ai.advercoder.com/api/v1/campaigns/
 ```
@@ -571,7 +571,7 @@ curl -X POST \
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "NBL",
     "selected_blog": 119,
-    "publish_interval": 60,
+    "publish_interval": 6,
     "additional_prompt": "원문의 핵심을 유지하면서 {keyword} 관점으로 재구성해주세요.",
     "insertion_rules": {
       "before_h2_1": "<p class=\"source\">원문 출처: <a href=\"{post_url}\">{post_url}</a></p>",
@@ -713,7 +713,7 @@ curl -X POST \
     "model_choice": "GEMINI30PRO",
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "DNP",
-    "publish_interval": 120
+    "publish_interval": 12
   }' \
   https://ai.advercoder.com/api/v1/campaigns/
 ```
@@ -746,7 +746,7 @@ curl -X POST \
     "start_date": "2026-02-12T23:00:00",
     "publish_status": "NBL",
     "selected_blog": 119,
-    "publish_interval": 120,
+    "publish_interval": 12,
     "image_provider": "GEMINI",
     "image_count": 4,
     "image_size": "1024x1024",
@@ -876,7 +876,7 @@ curl -X POST \
     "model_choice": "GEMINI30PRO",
     "start_date": "2026-02-12T23:05:00",
     "publish_status": "DNP",
-    "publish_interval": 60
+    "publish_interval": 6
   }' \
   https://ai.advercoder.com/api/v1/campaigns/
 ```
@@ -917,7 +917,7 @@ curl -X POST \
     "selected_blog": 119,
     "start_date": "2026-02-12T23:05:00",
     "publish_status": "NBL",
-    "publish_interval": 60,
+    "publish_interval": 6,
     "model_choice": "GEMINI30PRO",
     "additional_prompt": "실사용 후기 느낌으로 작성해주세요."
   }' \
@@ -1530,6 +1530,8 @@ curl -X POST \
 
 `selected_blog`는 `publish_status`에 따라 다른 모델의 ID를 가리킵니다. 블로그 목록은 각 플랫폼별 API로 조회합니다.
 
+> **참고**: 로컬 프리셋(`configs/presets.json`)에서는 이 필드를 `target_id`로 명명합니다. 블로그/카페 구분 없이 통일된 이름을 사용하기 위함이며, API 호출 시 `selected_blog`로 매핑됩니다.
+
 ### 캠페인 상태 (`status`)
 
 | 값 | 설명 |
@@ -1679,7 +1681,7 @@ curl -X POST \
     "model_choice": "GEMINI25FLASH",
     "start_date": "2026-02-12T10:00:00",
     "publish_status": "DNP",
-    "publish_interval": 60,
+    "publish_interval": 6,
     "tone": "FRD",
     "language": "KO"
   }' \
