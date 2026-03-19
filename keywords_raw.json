@@ -1,4632 +1,4764 @@
 [
   {
-    "keyword": "소상공인정책자금",
-    "pc_search": 198000,
-    "mobile_search": 333800,
-    "total_search": 531800
+    "keyword": "유튜브",
+    "pc_search": 14434000,
+    "mobile_search": 26698700,
+    "total_search": 41132700
   },
   {
-    "keyword": "소상공인지원금",
-    "pc_search": 66200,
-    "mobile_search": 332800,
-    "total_search": 399000
+    "keyword": "유튜브프리미엄",
+    "pc_search": 39700,
+    "mobile_search": 168300,
+    "total_search": 208000
   },
   {
-    "keyword": "고용보험",
-    "pc_search": 73000,
-    "mobile_search": 64200,
-    "total_search": 137200
+    "keyword": "넷플릭스추천",
+    "pc_search": 27800,
+    "mobile_search": 156200,
+    "total_search": 184000
   },
   {
-    "keyword": "희망리턴패키지",
-    "pc_search": 41600,
-    "mobile_search": 59600,
-    "total_search": 101200
+    "keyword": "갤럭시워치",
+    "pc_search": 29500,
+    "mobile_search": 134300,
+    "total_search": 163800
   },
   {
-    "keyword": "소상공인",
-    "pc_search": 33000,
-    "mobile_search": 62600,
-    "total_search": 95600
+    "keyword": "넷플릭스영화추천",
+    "pc_search": 16100,
+    "mobile_search": 91800,
+    "total_search": 107900
   },
   {
-    "keyword": "대전신용보증재단",
-    "pc_search": 22600,
-    "mobile_search": 44700,
-    "total_search": 67300
+    "keyword": "유튜브뮤직",
+    "pc_search": 69900,
+    "mobile_search": 29400,
+    "total_search": 99300
   },
   {
-    "keyword": "청년지원금",
-    "pc_search": 9430,
-    "mobile_search": 41000,
-    "total_search": 50430
+    "keyword": "넷플릭스주간순위",
+    "pc_search": 17200,
+    "mobile_search": 73800,
+    "total_search": 91000
   },
   {
-    "keyword": "청년일자리도약장려금",
-    "pc_search": 19200,
-    "mobile_search": 31100,
-    "total_search": 50300
+    "keyword": "넷플릭스신작",
+    "pc_search": 16500,
+    "mobile_search": 53700,
+    "total_search": 70200
   },
   {
-    "keyword": "소상공인대출",
-    "pc_search": 11100,
-    "mobile_search": 37200,
-    "total_search": 48300
+    "keyword": "넷플릭스영화",
+    "pc_search": 10700,
+    "mobile_search": 59500,
+    "total_search": 70200
   },
   {
-    "keyword": "개인사업자정책자금",
-    "pc_search": 11700,
-    "mobile_search": 23800,
-    "total_search": 35500
+    "keyword": "유튜브프리미엄가격",
+    "pc_search": 11200,
+    "mobile_search": 48700,
+    "total_search": 59900
   },
   {
-    "keyword": "재무제표",
-    "pc_search": 17400,
-    "mobile_search": 9650,
-    "total_search": 27050
+    "keyword": "유튜브프리미엄라이트",
+    "pc_search": 8990,
+    "mobile_search": 38900,
+    "total_search": 47890
   },
   {
-    "keyword": "중소기업확인서",
-    "pc_search": 22800,
-    "mobile_search": 2960,
-    "total_search": 25760
+    "keyword": "유튜버",
+    "pc_search": 18700,
+    "mobile_search": 27100,
+    "total_search": 45800
   },
   {
-    "keyword": "사업자대출",
-    "pc_search": 5720,
-    "mobile_search": 19200,
-    "total_search": 24920
-  },
-  {
-    "keyword": "바우처",
-    "pc_search": 5910,
-    "mobile_search": 17100,
-    "total_search": 23010
-  },
-  {
-    "keyword": "폐업지원금",
-    "pc_search": 4920,
-    "mobile_search": 16400,
-    "total_search": 21320
-  },
-  {
-    "keyword": "KSTARTUP",
-    "pc_search": 10800,
-    "mobile_search": 7220,
-    "total_search": 18020
-  },
-  {
-    "keyword": "자금조달계획서",
-    "pc_search": 6610,
-    "mobile_search": 10900,
-    "total_search": 17510
-  },
-  {
-    "keyword": "소상공인지원",
-    "pc_search": 5290,
-    "mobile_search": 10700,
-    "total_search": 15990
-  },
-  {
-    "keyword": "청년창업지원금",
-    "pc_search": 4200,
-    "mobile_search": 11300,
-    "total_search": 15500
-  },
-  {
-    "keyword": "개인사업자대출",
-    "pc_search": 3430,
-    "mobile_search": 11500,
-    "total_search": 14930
-  },
-  {
-    "keyword": "지원금",
-    "pc_search": 3060,
-    "mobile_search": 10500,
-    "total_search": 13560
-  },
-  {
-    "keyword": "자영업자지원금",
-    "pc_search": 2500,
-    "mobile_search": 10800,
-    "total_search": 13300
-  },
-  {
-    "keyword": "소상공인폐업지원금",
-    "pc_search": 2960,
-    "mobile_search": 10300,
-    "total_search": 13260
-  },
-  {
-    "keyword": "중소기업청년지원금",
-    "pc_search": 4260,
-    "mobile_search": 8790,
-    "total_search": 13050
-  },
-  {
-    "keyword": "경정청구",
-    "pc_search": 5050,
-    "mobile_search": 7260,
-    "total_search": 12310
-  },
-  {
-    "keyword": "여성기업확인서",
-    "pc_search": 8050,
-    "mobile_search": 3020,
-    "total_search": 11070
-  },
-  {
-    "keyword": "정부지원금신청",
-    "pc_search": 1540,
-    "mobile_search": 9420,
-    "total_search": 10960
-  },
-  {
-    "keyword": "사업자지원금",
-    "pc_search": 2050,
-    "mobile_search": 8840,
-    "total_search": 10890
-  },
-  {
-    "keyword": "케이스타트업",
-    "pc_search": 6980,
-    "mobile_search": 3520,
-    "total_search": 10500
-  },
-  {
-    "keyword": "판판대로",
-    "pc_search": 8240,
-    "mobile_search": 2190,
-    "total_search": 10430
-  },
-  {
-    "keyword": "중진공정책자금",
+    "keyword": "넷플릭스순위",
     "pc_search": 6970,
-    "mobile_search": 2940,
-    "total_search": 9910
+    "mobile_search": 35200,
+    "total_search": 42170
   },
   {
-    "keyword": "중소기업지원금",
-    "pc_search": 4160,
-    "mobile_search": 5610,
-    "total_search": 9770
+    "keyword": "넷플릭스오리지널",
+    "pc_search": 9990,
+    "mobile_search": 30000,
+    "total_search": 39990
   },
   {
-    "keyword": "중소기업정책자금",
-    "pc_search": 5410,
-    "mobile_search": 3410,
-    "total_search": 8820
+    "keyword": "넷플릭스추천영화",
+    "pc_search": 3970,
+    "mobile_search": 18500,
+    "total_search": 22470
   },
   {
-    "keyword": "중소기업",
-    "pc_search": 3930,
-    "mobile_search": 4430,
-    "total_search": 8360
+    "keyword": "유튜브프리미엄싸게",
+    "pc_search": 4120,
+    "mobile_search": 18200,
+    "total_search": 22320
   },
   {
-    "keyword": "개인사업자지원금",
-    "pc_search": 1720,
-    "mobile_search": 5570,
-    "total_search": 7290
+    "keyword": "넷플",
+    "pc_search": 15000,
+    "mobile_search": 7110,
+    "total_search": 22110
   },
   {
-    "keyword": "비지니스",
-    "pc_search": 1850,
-    "mobile_search": 4850,
-    "total_search": 6700
+    "keyword": "U+",
+    "pc_search": 5200,
+    "mobile_search": 12100,
+    "total_search": 17300
   },
   {
-    "keyword": "R&D",
-    "pc_search": 3210,
-    "mobile_search": 3190,
-    "total_search": 6400
+    "keyword": "넷플릭스가격",
+    "pc_search": 1560,
+    "mobile_search": 15100,
+    "total_search": 16660
   },
   {
-    "keyword": "청년사업자대출",
-    "pc_search": 1230,
-    "mobile_search": 5020,
-    "total_search": 6250
+    "keyword": "유튜브수익계산기",
+    "pc_search": 2970,
+    "mobile_search": 12200,
+    "total_search": 15170
   },
   {
-    "keyword": "소진공정책자금",
-    "pc_search": 2870,
-    "mobile_search": 3150,
-    "total_search": 6020
+    "keyword": "유튜브뮤직가격",
+    "pc_search": 1590,
+    "mobile_search": 11700,
+    "total_search": 13290
   },
   {
-    "keyword": "세금환급",
-    "pc_search": 910,
-    "mobile_search": 4840,
-    "total_search": 5750
+    "keyword": "OTT순위",
+    "pc_search": 2300,
+    "mobile_search": 10300,
+    "total_search": 12600
   },
   {
-    "keyword": "중소기업확인서발급방법",
-    "pc_search": 4230,
-    "mobile_search": 1210,
-    "total_search": 5440
+    "keyword": "NETFLIX",
+    "pc_search": 9130,
+    "mobile_search": 2850,
+    "total_search": 11980
   },
   {
-    "keyword": "정부지원사업",
-    "pc_search": 2840,
-    "mobile_search": 2460,
-    "total_search": 5300
+    "keyword": "유튜브프리미엄할인",
+    "pc_search": 2250,
+    "mobile_search": 8730,
+    "total_search": 10980
   },
   {
-    "keyword": "소상공인정부지원금",
-    "pc_search": 1250,
-    "mobile_search": 3940,
-    "total_search": 5190
+    "keyword": "판다TV",
+    "pc_search": 2180,
+    "mobile_search": 6520,
+    "total_search": 8700
   },
   {
-    "keyword": "신용보증재단대출",
-    "pc_search": 1060,
-    "mobile_search": 4070,
-    "total_search": 5130
+    "keyword": "영상편집",
+    "pc_search": 4780,
+    "mobile_search": 3670,
+    "total_search": 8450
   },
   {
-    "keyword": "주식투자하는법",
-    "pc_search": 840,
-    "mobile_search": 4220,
-    "total_search": 5060
+    "keyword": "동영상편집",
+    "pc_search": 5690,
+    "mobile_search": 2730,
+    "total_search": 8420
   },
   {
-    "keyword": "청년사업지원금",
-    "pc_search": 1090,
-    "mobile_search": 3940,
-    "total_search": 5030
+    "keyword": "컴퓨터렌탈",
+    "pc_search": 2890,
+    "mobile_search": 5420,
+    "total_search": 8310
   },
   {
-    "keyword": "서민금융지원센터",
+    "keyword": "유튜브요금제",
+    "pc_search": 1700,
+    "mobile_search": 6390,
+    "total_search": 8090
+  },
+  {
+    "keyword": "티빙무료",
+    "pc_search": 1190,
+    "mobile_search": 6240,
+    "total_search": 7430
+  },
+  {
+    "keyword": "줌회의",
+    "pc_search": 5910,
+    "mobile_search": 1260,
+    "total_search": 7170
+  },
+  {
+    "keyword": "캠페인",
+    "pc_search": 3150,
+    "mobile_search": 3950,
+    "total_search": 7100
+  },
+  {
+    "keyword": "LGU플러스요금제",
+    "pc_search": 1440,
+    "mobile_search": 4930,
+    "total_search": 6370
+  },
+  {
+    "keyword": "캡쳐보드",
+    "pc_search": 2690,
+    "mobile_search": 2930,
+    "total_search": 5620
+  },
+  {
+    "keyword": "OTT추천",
+    "pc_search": 830,
+    "mobile_search": 4670,
+    "total_search": 5500
+  },
+  {
+    "keyword": "쇼피파이",
+    "pc_search": 3000,
+    "mobile_search": 2380,
+    "total_search": 5380
+  },
+  {
+    "keyword": "중계",
+    "pc_search": 1240,
+    "mobile_search": 3930,
+    "total_search": 5170
+  },
+  {
+    "keyword": "LGU",
+    "pc_search": 2890,
+    "mobile_search": 2250,
+    "total_search": 5140
+  },
+  {
+    "keyword": "유플러스멤버십",
     "pc_search": 750,
-    "mobile_search": 4220,
-    "total_search": 4970
+    "mobile_search": 3920,
+    "total_search": 4670
   },
   {
-    "keyword": "스마트팜지원사업",
-    "pc_search": 1160,
-    "mobile_search": 3760,
-    "total_search": 4920
+    "keyword": "넷플릭스광고형요금제",
+    "pc_search": 510,
+    "mobile_search": 4020,
+    "total_search": 4530
   },
   {
-    "keyword": "폐업신고",
-    "pc_search": 1930,
-    "mobile_search": 2920,
-    "total_search": 4850
-  },
-  {
-    "keyword": "폐업",
-    "pc_search": 1430,
-    "mobile_search": 3220,
-    "total_search": 4650
-  },
-  {
-    "keyword": "청년창업대출",
-    "pc_search": 1370,
-    "mobile_search": 3200,
-    "total_search": 4570
-  },
-  {
-    "keyword": "여성기업신청",
-    "pc_search": 2800,
-    "mobile_search": 1690,
-    "total_search": 4490
-  },
-  {
-    "keyword": "고용촉진장려금",
-    "pc_search": 2240,
-    "mobile_search": 2190,
-    "total_search": 4430
-  },
-  {
-    "keyword": "경기도지원금",
-    "pc_search": 1170,
-    "mobile_search": 3200,
-    "total_search": 4370
-  },
-  {
-    "keyword": "고용지원금",
-    "pc_search": 2280,
-    "mobile_search": 2010,
+    "keyword": "숏츠",
+    "pc_search": 960,
+    "mobile_search": 3330,
     "total_search": 4290
   },
   {
-    "keyword": "벤처기업인증",
-    "pc_search": 3480,
-    "mobile_search": 800,
-    "total_search": 4280
+    "keyword": "유튜브프리미엄요금제",
+    "pc_search": 900,
+    "mobile_search": 3210,
+    "total_search": 4110
   },
   {
-    "keyword": "창업지원금",
-    "pc_search": 1760,
-    "mobile_search": 2490,
-    "total_search": 4250
+    "keyword": "넷플릭스요금",
+    "pc_search": 850,
+    "mobile_search": 3120,
+    "total_search": 3970
   },
   {
-    "keyword": "소상공인철거지원금",
-    "pc_search": 1330,
-    "mobile_search": 2900,
-    "total_search": 4230
+    "keyword": "AI영상제작",
+    "pc_search": 2060,
+    "mobile_search": 1730,
+    "total_search": 3790
   },
   {
-    "keyword": "청년고용지원금",
-    "pc_search": 1640,
-    "mobile_search": 2460,
-    "total_search": 4100
+    "keyword": "넷플릭스다운로드",
+    "pc_search": 1800,
+    "mobile_search": 1980,
+    "total_search": 3780
   },
   {
-    "keyword": "벤처기업",
-    "pc_search": 2340,
-    "mobile_search": 1710,
-    "total_search": 4050
-  },
-  {
-    "keyword": "혁신성장촉진자금",
-    "pc_search": 1350,
-    "mobile_search": 2650,
-    "total_search": 4000
-  },
-  {
-    "keyword": "소상공인진흥공단정책자금",
-    "pc_search": 1450,
-    "mobile_search": 2550,
-    "total_search": 4000
-  },
-  {
-    "keyword": "청년지원사업",
-    "pc_search": 1490,
-    "mobile_search": 2380,
-    "total_search": 3870
-  },
-  {
-    "keyword": "정부정책자금",
-    "pc_search": 1120,
-    "mobile_search": 2640,
+    "keyword": "KT유튜브프리미엄",
+    "pc_search": 700,
+    "mobile_search": 3060,
     "total_search": 3760
   },
   {
-    "keyword": "개인사업자폐업신고",
-    "pc_search": 1110,
-    "mobile_search": 2390,
-    "total_search": 3500
+    "keyword": "CHZZK",
+    "pc_search": 2440,
+    "mobile_search": 1300,
+    "total_search": 3740
   },
   {
-    "keyword": "중소기업대출",
-    "pc_search": 1340,
-    "mobile_search": 2130,
-    "total_search": 3470
+    "keyword": "유튜브뮤직프리미엄",
+    "pc_search": 510,
+    "mobile_search": 2980,
+    "total_search": 3490
   },
   {
-    "keyword": "소상공인희망리턴패키지",
-    "pc_search": 1390,
-    "mobile_search": 2030,
-    "total_search": 3420
-  },
-  {
-    "keyword": "소상공인지원사업",
-    "pc_search": 1700,
-    "mobile_search": 1600,
+    "keyword": "유튜브가족요금제",
+    "pc_search": 650,
+    "mobile_search": 2650,
     "total_search": 3300
   },
   {
-    "keyword": "여성기업",
-    "pc_search": 2340,
-    "mobile_search": 870,
-    "total_search": 3210
+    "keyword": "유튜브뮤직다운로드",
+    "pc_search": 1720,
+    "mobile_search": 1530,
+    "total_search": 3250
   },
   {
-    "keyword": "기보",
-    "pc_search": 1660,
-    "mobile_search": 1360,
-    "total_search": 3020
+    "keyword": "유튜브동영상",
+    "pc_search": 780,
+    "mobile_search": 2410,
+    "total_search": 3190
   },
   {
-    "keyword": "자영업자대출",
-    "pc_search": 530,
-    "mobile_search": 2440,
-    "total_search": 2970
+    "keyword": "넷플릭스요금제변경",
+    "pc_search": 290,
+    "mobile_search": 2870,
+    "total_search": 3160
   },
   {
-    "keyword": "국가지원금",
-    "pc_search": 750,
-    "mobile_search": 2200,
-    "total_search": 2950
+    "keyword": "유튜브쇼츠",
+    "pc_search": 620,
+    "mobile_search": 2540,
+    "total_search": 3160
   },
   {
-    "keyword": "홈텍스환급금조회",
-    "pc_search": 1310,
-    "mobile_search": 1620,
-    "total_search": 2930
+    "keyword": "넷플릭스할인",
+    "pc_search": 560,
+    "mobile_search": 2580,
+    "total_search": 3140
   },
   {
-    "keyword": "자금조달계획서양식",
-    "pc_search": 1990,
-    "mobile_search": 930,
-    "total_search": 2920
+    "keyword": "유튜브구독",
+    "pc_search": 590,
+    "mobile_search": 2250,
+    "total_search": 2840
   },
   {
-    "keyword": "소상공인스마트상점",
-    "pc_search": 1320,
-    "mobile_search": 1360,
-    "total_search": 2680
+    "keyword": "넷플릭스프리미엄",
+    "pc_search": 480,
+    "mobile_search": 2140,
+    "total_search": 2620
   },
   {
-    "keyword": "일학습병행",
-    "pc_search": 1680,
-    "mobile_search": 970,
-    "total_search": 2650
+    "keyword": "넷플릭스티비연결",
+    "pc_search": 90,
+    "mobile_search": 2430,
+    "total_search": 2520
   },
   {
-    "keyword": "고령자고용지원금",
-    "pc_search": 1710,
-    "mobile_search": 930,
-    "total_search": 2640
-  },
-  {
-    "keyword": "사업자정책지원금",
-    "pc_search": 1120,
-    "mobile_search": 1490,
-    "total_search": 2610
-  },
-  {
-    "keyword": "폐업철거지원금",
-    "pc_search": 570,
+    "keyword": "SKT유튜브프리미엄",
+    "pc_search": 460,
     "mobile_search": 1910,
-    "total_search": 2480
+    "total_search": 2370
   },
   {
-    "keyword": "소상공인정책자금신청",
-    "pc_search": 540,
-    "mobile_search": 1940,
-    "total_search": 2480
+    "keyword": "넷플릭스이용가구",
+    "pc_search": 220,
+    "mobile_search": 2150,
+    "total_search": 2370
   },
   {
-    "keyword": "소상공인신청",
-    "pc_search": 650,
-    "mobile_search": 1820,
-    "total_search": 2470
-  },
-  {
-    "keyword": "청년일자리지원금",
-    "pc_search": 640,
-    "mobile_search": 1820,
-    "total_search": 2460
-  },
-  {
-    "keyword": "강소기업",
-    "pc_search": 1100,
-    "mobile_search": 1280,
-    "total_search": 2380
-  },
-  {
-    "keyword": "창업도약패키지",
-    "pc_search": 1520,
-    "mobile_search": 860,
-    "total_search": 2380
-  },
-  {
-    "keyword": "소상공인마당",
-    "pc_search": 1160,
-    "mobile_search": 1120,
-    "total_search": 2280
-  },
-  {
-    "keyword": "사업자대출조건",
-    "pc_search": 400,
-    "mobile_search": 1860,
-    "total_search": 2260
-  },
-  {
-    "keyword": "세금환급금조회",
-    "pc_search": 390,
-    "mobile_search": 1860,
-    "total_search": 2250
-  },
-  {
-    "keyword": "여성일자리센터",
-    "pc_search": 440,
-    "mobile_search": 1810,
-    "total_search": 2250
-  },
-  {
-    "keyword": "개인사업자햇살론",
-    "pc_search": 350,
-    "mobile_search": 1850,
-    "total_search": 2200
-  },
-  {
-    "keyword": "소상공인정책자금직접대출",
-    "pc_search": 550,
-    "mobile_search": 1650,
-    "total_search": 2200
-  },
-  {
-    "keyword": "퇴직연금담보대출",
-    "pc_search": 510,
+    "keyword": "라이브방송",
+    "pc_search": 710,
     "mobile_search": 1640,
-    "total_search": 2150
+    "total_search": 2350
   },
   {
-    "keyword": "온라인법인설립시스템",
-    "pc_search": 1780,
-    "mobile_search": 300,
+    "keyword": "유튜브프리미엄공유",
+    "pc_search": 460,
+    "mobile_search": 1790,
+    "total_search": 2250
+  },
+  {
+    "keyword": "U+모바일TV",
+    "pc_search": 570,
+    "mobile_search": 1510,
     "total_search": 2080
   },
   {
-    "keyword": "품질",
-    "pc_search": 920,
-    "mobile_search": 1120,
-    "total_search": 2040
+    "keyword": "로컬크리에이터",
+    "pc_search": 950,
+    "mobile_search": 1010,
+    "total_search": 1960
   },
   {
-    "keyword": "병역특례",
-    "pc_search": 720,
-    "mobile_search": 1310,
-    "total_search": 2030
-  },
-  {
-    "keyword": "청년전용창업자금",
-    "pc_search": 940,
-    "mobile_search": 1070,
-    "total_search": 2010
-  },
-  {
-    "keyword": "법인사업자대출",
-    "pc_search": 840,
-    "mobile_search": 1160,
-    "total_search": 2000
-  },
-  {
-    "keyword": "법인대출",
-    "pc_search": 740,
-    "mobile_search": 1250,
-    "total_search": 1990
-  },
-  {
-    "keyword": "전문연구요원",
-    "pc_search": 580,
-    "mobile_search": 1400,
-    "total_search": 1980
-  },
-  {
-    "keyword": "정책지원금",
-    "pc_search": 610,
-    "mobile_search": 1290,
-    "total_search": 1900
-  },
-  {
-    "keyword": "대전소상공인",
-    "pc_search": 780,
-    "mobile_search": 1100,
-    "total_search": 1880
-  },
-  {
-    "keyword": "소상공인창업지원금",
-    "pc_search": 470,
+    "keyword": "넷플릭스개봉예정",
+    "pc_search": 590,
     "mobile_search": 1360,
-    "total_search": 1830
+    "total_search": 1950
   },
   {
-    "keyword": "고용유지지원금",
-    "pc_search": 1120,
-    "mobile_search": 700,
-    "total_search": 1820
+    "keyword": "넷플릭스싸게보는법",
+    "pc_search": 280,
+    "mobile_search": 1590,
+    "total_search": 1870
   },
   {
-    "keyword": "소상공인정책",
-    "pc_search": 940,
-    "mobile_search": 870,
-    "total_search": 1810
+    "keyword": "넷플릭스게임",
+    "pc_search": 300,
+    "mobile_search": 1560,
+    "total_search": 1860
   },
   {
-    "keyword": "개인사업자신용대출",
-    "pc_search": 410,
+    "keyword": "유튜브프리미엄구독",
+    "pc_search": 480,
     "mobile_search": 1360,
-    "total_search": 1770
+    "total_search": 1840
   },
   {
-    "keyword": "코이타",
-    "pc_search": 1270,
-    "mobile_search": 470,
+    "keyword": "인도유튜브프리미엄",
+    "pc_search": 460,
+    "mobile_search": 1320,
+    "total_search": 1780
+  },
+  {
+    "keyword": "넷플릭스추가회원",
+    "pc_search": 290,
+    "mobile_search": 1490,
+    "total_search": 1780
+  },
+  {
+    "keyword": "LGUPLUS",
+    "pc_search": 820,
+    "mobile_search": 940,
+    "total_search": 1760
+  },
+  {
+    "keyword": "프리즘라이브",
+    "pc_search": 870,
+    "mobile_search": 880,
+    "total_search": 1750
+  },
+  {
+    "keyword": "SHOPIFY",
+    "pc_search": 990,
+    "mobile_search": 750,
     "total_search": 1740
   },
   {
-    "keyword": "여성기업혜택",
-    "pc_search": 690,
-    "mobile_search": 1030,
-    "total_search": 1720
+    "keyword": "넷플릭스멤버십",
+    "pc_search": 250,
+    "mobile_search": 1450,
+    "total_search": 1700
   },
   {
-    "keyword": "영농조합법인",
-    "pc_search": 470,
+    "keyword": "틱톡커",
+    "pc_search": 340,
+    "mobile_search": 1360,
+    "total_search": 1700
+  },
+  {
+    "keyword": "넷플릭스가입방법",
+    "pc_search": 200,
+    "mobile_search": 1490,
+    "total_search": 1690
+  },
+  {
+    "keyword": "로데마이크",
+    "pc_search": 580,
+    "mobile_search": 1080,
+    "total_search": 1660
+  },
+  {
+    "keyword": "유튜브라이브",
+    "pc_search": 530,
+    "mobile_search": 1130,
+    "total_search": 1660
+  },
+  {
+    "keyword": "넷플릭스구독료",
+    "pc_search": 400,
     "mobile_search": 1240,
-    "total_search": 1710
+    "total_search": 1640
   },
   {
-    "keyword": "엑셀러레이터",
-    "pc_search": 660,
-    "mobile_search": 1040,
-    "total_search": 1700
-  },
-  {
-    "keyword": "일반경영안정자금",
-    "pc_search": 550,
-    "mobile_search": 1150,
-    "total_search": 1700
-  },
-  {
-    "keyword": "메인비즈협회",
-    "pc_search": 1120,
-    "mobile_search": 580,
-    "total_search": 1700
-  },
-  {
-    "keyword": "재창업지원금",
-    "pc_search": 460,
-    "mobile_search": 1210,
-    "total_search": 1670
-  },
-  {
-    "keyword": "정부지원",
-    "pc_search": 720,
-    "mobile_search": 910,
+    "keyword": "KT유튜브요금제",
+    "pc_search": 290,
+    "mobile_search": 1340,
     "total_search": 1630
   },
   {
-    "keyword": "클린사업장조성지원",
-    "pc_search": 1350,
-    "mobile_search": 270,
+    "keyword": "유튜브프리미엄뮤직",
+    "pc_search": 390,
+    "mobile_search": 1230,
     "total_search": 1620
   },
   {
-    "keyword": "여성창업지원센터",
-    "pc_search": 500,
-    "mobile_search": 1120,
-    "total_search": 1620
-  },
-  {
-    "keyword": "벤처인증",
-    "pc_search": 1250,
-    "mobile_search": 340,
-    "total_search": 1590
-  },
-  {
-    "keyword": "개인사업자정부지원금",
-    "pc_search": 450,
-    "mobile_search": 1130,
-    "total_search": 1580
-  },
-  {
-    "keyword": "지역신용보증재단",
-    "pc_search": 700,
-    "mobile_search": 880,
-    "total_search": 1580
-  },
-  {
-    "keyword": "지원사업",
-    "pc_search": 1000,
-    "mobile_search": 560,
-    "total_search": 1560
-  },
-  {
-    "keyword": "국세환급금",
-    "pc_search": 370,
-    "mobile_search": 1180,
-    "total_search": 1550
-  },
-  {
-    "keyword": "부산채용",
-    "pc_search": 490,
-    "mobile_search": 1060,
-    "total_search": 1550
-  },
-  {
-    "keyword": "국가정책자금",
-    "pc_search": 410,
-    "mobile_search": 1120,
-    "total_search": 1530
-  },
-  {
-    "keyword": "스마트폰부업",
-    "pc_search": 210,
+    "keyword": "넷플릭스최신영화",
+    "pc_search": 320,
     "mobile_search": 1260,
-    "total_search": 1470
+    "total_search": 1580
   },
   {
-    "keyword": "여성무직자대출",
-    "pc_search": 170,
-    "mobile_search": 1300,
-    "total_search": 1470
+    "keyword": "유튜브프리미엄무료체험",
+    "pc_search": 180,
+    "mobile_search": 1370,
+    "total_search": 1550
   },
   {
-    "keyword": "자영업자폐업",
-    "pc_search": 240,
-    "mobile_search": 1220,
-    "total_search": 1460
+    "keyword": "유플러스유튜브프리미엄",
+    "pc_search": 230,
+    "mobile_search": 1290,
+    "total_search": 1520
   },
   {
-    "keyword": "제2금융권은행",
+    "keyword": "유플러스홈페이지",
+    "pc_search": 430,
+    "mobile_search": 1070,
+    "total_search": 1500
+  },
+  {
+    "keyword": "유플러스모바일TV",
+    "pc_search": 380,
+    "mobile_search": 1110,
+    "total_search": 1490
+  },
+  {
+    "keyword": "유튜브뮤직음질",
+    "pc_search": 250,
+    "mobile_search": 1230,
+    "total_search": 1480
+  },
+  {
+    "keyword": "유튜브뮤직무료",
     "pc_search": 210,
     "mobile_search": 1230,
     "total_search": 1440
   },
   {
-    "keyword": "산기협",
-    "pc_search": 1180,
-    "mobile_search": 250,
-    "total_search": 1430
+    "keyword": "넷플릭스베이직요금제",
+    "pc_search": 210,
+    "mobile_search": 1210,
+    "total_search": 1420
   },
   {
-    "keyword": "연체자비상금대출",
-    "pc_search": 110,
-    "mobile_search": 1320,
-    "total_search": 1430
+    "keyword": "성장영상",
+    "pc_search": 300,
+    "mobile_search": 1110,
+    "total_search": 1410
   },
   {
-    "keyword": "철거지원금",
-    "pc_search": 570,
-    "mobile_search": 860,
-    "total_search": 1430
-  },
-  {
-    "keyword": "사업자금대출",
-    "pc_search": 420,
-    "mobile_search": 980,
+    "keyword": "광고없는유튜브",
+    "pc_search": 240,
+    "mobile_search": 1160,
     "total_search": 1400
   },
   {
-    "keyword": "기술신용보증기금",
-    "pc_search": 850,
-    "mobile_search": 550,
+    "keyword": "넷플릭스지옥",
+    "pc_search": 210,
+    "mobile_search": 1190,
     "total_search": 1400
   },
   {
-    "keyword": "워라밸일자리장려금",
-    "pc_search": 1120,
-    "mobile_search": 260,
-    "total_search": 1380
+    "keyword": "넷플릭스가족공유",
+    "pc_search": 150,
+    "mobile_search": 1240,
+    "total_search": 1390
   },
   {
-    "keyword": "소공인특화자금",
-    "pc_search": 570,
-    "mobile_search": 790,
-    "total_search": 1360
-  },
-  {
-    "keyword": "중소기업지원사업",
-    "pc_search": 890,
-    "mobile_search": 460,
+    "keyword": "유튜브할인",
+    "pc_search": 300,
+    "mobile_search": 1050,
     "total_search": 1350
   },
   {
-    "keyword": "사업자대출한도",
-    "pc_search": 260,
-    "mobile_search": 1090,
+    "keyword": "넷플릭스무료",
+    "pc_search": 220,
+    "mobile_search": 1130,
     "total_search": 1350
   },
   {
-    "keyword": "KOSME",
-    "pc_search": 820,
-    "mobile_search": 490,
-    "total_search": 1310
+    "keyword": "넷플릭스결제",
+    "pc_search": 180,
+    "mobile_search": 1160,
+    "total_search": 1340
   },
   {
-    "keyword": "사업자신용대출",
+    "keyword": "유튜브썸네일",
+    "pc_search": 610,
+    "mobile_search": 710,
+    "total_search": 1320
+  },
+  {
+    "keyword": "숏폼영상제작",
+    "pc_search": 360,
+    "mobile_search": 960,
+    "total_search": 1320
+  },
+  {
+    "keyword": "넷플릭스요금제할인",
+    "pc_search": 190,
+    "mobile_search": 1100,
+    "total_search": 1290
+  },
+  {
+    "keyword": "유튜브편집",
     "pc_search": 400,
-    "mobile_search": 870,
-    "total_search": 1270
+    "mobile_search": 850,
+    "total_search": 1250
   },
   {
-    "keyword": "사업자정책자금",
-    "pc_search": 370,
-    "mobile_search": 870,
+    "keyword": "넷플릭스구독",
+    "pc_search": 270,
+    "mobile_search": 980,
+    "total_search": 1250
+  },
+  {
+    "keyword": "넷플릭스광고",
+    "pc_search": 220,
+    "mobile_search": 1020,
     "total_search": 1240
   },
   {
-    "keyword": "고용장려금",
-    "pc_search": 640,
-    "mobile_search": 570,
-    "total_search": 1210
+    "keyword": "넷플요금제",
+    "pc_search": 120,
+    "mobile_search": 1110,
+    "total_search": 1230
   },
   {
-    "keyword": "고령자계속고용장려금",
-    "pc_search": 990,
-    "mobile_search": 210,
-    "total_search": 1200
+    "keyword": "PC렌탈",
+    "pc_search": 550,
+    "mobile_search": 680,
+    "total_search": 1230
   },
   {
-    "keyword": "원스톱폐업지원",
-    "pc_search": 500,
-    "mobile_search": 700,
-    "total_search": 1200
-  },
-  {
-    "keyword": "경영인정기보험",
-    "pc_search": 430,
-    "mobile_search": 750,
-    "total_search": 1180
-  },
-  {
-    "keyword": "투자신탁",
-    "pc_search": 300,
-    "mobile_search": 870,
+    "keyword": "넷플릭스이용가구업데이트",
+    "pc_search": 120,
+    "mobile_search": 1050,
     "total_search": 1170
   },
   {
-    "keyword": "기업재무제표조회",
-    "pc_search": 640,
-    "mobile_search": 520,
-    "total_search": 1160
+    "keyword": "넷플릭스무료체험",
+    "pc_search": 160,
+    "mobile_search": 1010,
+    "total_search": 1170
   },
   {
-    "keyword": "경기신용보증기금",
-    "pc_search": 560,
-    "mobile_search": 590,
+    "keyword": "유튜브숏츠",
+    "pc_search": 270,
+    "mobile_search": 880,
     "total_search": 1150
   },
   {
-    "keyword": "ECOUNT",
-    "pc_search": 840,
-    "mobile_search": 300,
-    "total_search": 1140
-  },
-  {
-    "keyword": "장애인대출",
-    "pc_search": 220,
-    "mobile_search": 900,
+    "keyword": "유튜브영화",
+    "pc_search": 270,
+    "mobile_search": 850,
     "total_search": 1120
   },
   {
-    "keyword": "소상공인대출조건",
-    "pc_search": 190,
-    "mobile_search": 920,
+    "keyword": "넷플릭스미러링",
+    "pc_search": 60,
+    "mobile_search": 1050,
     "total_search": 1110
   },
   {
-    "keyword": "상가철거비용",
-    "pc_search": 250,
+    "keyword": "넷플광고형스탠다드",
+    "pc_search": 100,
+    "mobile_search": 1000,
+    "total_search": 1100
+  },
+  {
+    "keyword": "LG채널",
+    "pc_search": 230,
     "mobile_search": 850,
-    "total_search": 1100
-  },
-  {
-    "keyword": "사업계획서예시",
-    "pc_search": 550,
-    "mobile_search": 550,
-    "total_search": 1100
-  },
-  {
-    "keyword": "벤처투자",
-    "pc_search": 490,
-    "mobile_search": 590,
     "total_search": 1080
   },
   {
-    "keyword": "제조혁신바우처",
-    "pc_search": 900,
-    "mobile_search": 170,
+    "keyword": "유튜브멤버십",
+    "pc_search": 220,
+    "mobile_search": 850,
     "total_search": 1070
   },
   {
-    "keyword": "마이너스통장조건",
-    "pc_search": 150,
-    "mobile_search": 910,
-    "total_search": 1060
+    "keyword": "인터넷방송",
+    "pc_search": 340,
+    "mobile_search": 700,
+    "total_search": 1040
   },
   {
-    "keyword": "코워킹스페이스",
-    "pc_search": 400,
-    "mobile_search": 660,
-    "total_search": 1060
+    "keyword": "버튜버하는법",
+    "pc_search": 300,
+    "mobile_search": 740,
+    "total_search": 1040
   },
   {
-    "keyword": "대전신용보증기금",
-    "pc_search": 410,
-    "mobile_search": 640,
-    "total_search": 1050
-  },
-  {
-    "keyword": "중소기업대출지원",
-    "pc_search": 440,
-    "mobile_search": 580,
+    "keyword": "유튜브영상",
+    "pc_search": 280,
+    "mobile_search": 740,
     "total_search": 1020
   },
   {
-    "keyword": "철거비용지원",
-    "pc_search": 220,
-    "mobile_search": 790,
+    "keyword": "넷플릭스일본",
+    "pc_search": 210,
+    "mobile_search": 800,
     "total_search": 1010
   },
   {
-    "keyword": "소상공인시장진흥공단대출",
-    "pc_search": 380,
-    "mobile_search": 620,
+    "keyword": "유튜브프리미엄무료",
+    "pc_search": 150,
+    "mobile_search": 850,
     "total_search": 1000
   },
   {
-    "keyword": "개인사업자정부지원대출",
-    "pc_search": 240,
-    "mobile_search": 750,
+    "keyword": "인터넷방송플랫폼",
+    "pc_search": 310,
+    "mobile_search": 680,
     "total_search": 990
   },
   {
-    "keyword": "중소기업지원",
-    "pc_search": 690,
-    "mobile_search": 290,
+    "keyword": "버츄얼만들기",
+    "pc_search": 250,
+    "mobile_search": 730,
     "total_search": 980
   },
   {
-    "keyword": "저신용자비상금대출",
-    "pc_search": 130,
-    "mobile_search": 830,
+    "keyword": "블로그기자단",
+    "pc_search": 490,
+    "mobile_search": 480,
+    "total_search": 970
+  },
+  {
+    "keyword": "넷플릭스계정추가",
+    "pc_search": 120,
+    "mobile_search": 850,
+    "total_search": 970
+  },
+  {
+    "keyword": "WEBINAR",
+    "pc_search": 380,
+    "mobile_search": 580,
     "total_search": 960
   },
   {
-    "keyword": "소상공인혜택",
-    "pc_search": 200,
-    "mobile_search": 740,
-    "total_search": 940
-  },
-  {
-    "keyword": "청년채용지원금",
-    "pc_search": 500,
-    "mobile_search": 440,
-    "total_search": 940
-  },
-  {
-    "keyword": "세금환급조회",
-    "pc_search": 180,
-    "mobile_search": 740,
-    "total_search": 920
-  },
-  {
-    "keyword": "사업자마이너스통장",
-    "pc_search": 170,
-    "mobile_search": 750,
-    "total_search": 920
-  },
-  {
-    "keyword": "운전자금",
-    "pc_search": 580,
-    "mobile_search": 340,
-    "total_search": 920
-  },
-  {
-    "keyword": "기업대출",
+    "keyword": "드랍쉬핑",
     "pc_search": 340,
-    "mobile_search": 570,
+    "mobile_search": 620,
+    "total_search": 960
+  },
+  {
+    "keyword": "유튜브프리미엄요금",
+    "pc_search": 260,
+    "mobile_search": 690,
+    "total_search": 950
+  },
+  {
+    "keyword": "유튜브가격",
+    "pc_search": 200,
+    "mobile_search": 730,
+    "total_search": 930
+  },
+  {
+    "keyword": "지하철광고",
+    "pc_search": 550,
+    "mobile_search": 370,
+    "total_search": 920
+  },
+  {
+    "keyword": "유플러스넷플릭스",
+    "pc_search": 130,
+    "mobile_search": 780,
     "total_search": 910
   },
   {
-    "keyword": "소상공인특화자금",
-    "pc_search": 350,
-    "mobile_search": 540,
-    "total_search": 890
+    "keyword": "YOUTUBE프리미엄",
+    "pc_search": 150,
+    "mobile_search": 750,
+    "total_search": 900
   },
   {
-    "keyword": "기업은행사업자대출",
-    "pc_search": 250,
-    "mobile_search": 640,
-    "total_search": 890
-  },
-  {
-    "keyword": "자영업자폐업지원금",
+    "keyword": "넷플릭스프리미엄요금제",
     "pc_search": 160,
-    "mobile_search": 720,
+    "mobile_search": 730,
+    "total_search": 890
+  },
+  {
+    "keyword": "유튜브무료",
+    "pc_search": 130,
+    "mobile_search": 750,
     "total_search": 880
   },
   {
-    "keyword": "중소기업벤처",
-    "pc_search": 610,
-    "mobile_search": 270,
-    "total_search": 880
+    "keyword": "줌웨비나",
+    "pc_search": 430,
+    "mobile_search": 440,
+    "total_search": 870
   },
   {
-    "keyword": "정책자금컨설팅",
-    "pc_search": 410,
-    "mobile_search": 470,
-    "total_search": 880
-  },
-  {
-    "keyword": "은행대출상담",
-    "pc_search": 220,
-    "mobile_search": 640,
+    "keyword": "넷플릭스파티",
+    "pc_search": 340,
+    "mobile_search": 520,
     "total_search": 860
   },
   {
-    "keyword": "지머니",
-    "pc_search": 690,
-    "mobile_search": 160,
+    "keyword": "유튜브프리미엄결제",
+    "pc_search": 190,
+    "mobile_search": 660,
     "total_search": 850
   },
   {
-    "keyword": "햇살론청년대출",
-    "pc_search": 160,
-    "mobile_search": 680,
+    "keyword": "아이폰유튜브프리미엄",
+    "pc_search": 90,
+    "mobile_search": 760,
+    "total_search": 850
+  },
+  {
+    "keyword": "유튜브프리미엄혜택",
+    "pc_search": 170,
+    "mobile_search": 670,
     "total_search": 840
   },
   {
-    "keyword": "투자자",
+    "keyword": "유튜브프리미엄결합",
     "pc_search": 180,
     "mobile_search": 660,
     "total_search": 840
   },
   {
-    "keyword": "투자유치",
-    "pc_search": 560,
-    "mobile_search": 270,
-    "total_search": 830
+    "keyword": "SNS마케팅",
+    "pc_search": 360,
+    "mobile_search": 460,
+    "total_search": 820
   },
   {
-    "keyword": "가계자금",
-    "pc_search": 230,
-    "mobile_search": 570,
-    "total_search": 800
+    "keyword": "SKT유튜브프리미엄할인",
+    "pc_search": 120,
+    "mobile_search": 660,
+    "total_search": 780
   },
   {
-    "keyword": "경기도지원사업",
-    "pc_search": 460,
-    "mobile_search": 340,
-    "total_search": 800
+    "keyword": "유플러스유튜브",
+    "pc_search": 120,
+    "mobile_search": 660,
+    "total_search": 780
   },
   {
-    "keyword": "기업신용정보조회",
-    "pc_search": 640,
-    "mobile_search": 160,
-    "total_search": 800
-  },
-  {
-    "keyword": "국민은행소상공인대출",
-    "pc_search": 170,
+    "keyword": "KT유튜브",
+    "pc_search": 140,
     "mobile_search": 630,
-    "total_search": 800
-  },
-  {
-    "keyword": "소상공인폐업",
-    "pc_search": 210,
-    "mobile_search": 590,
-    "total_search": 800
-  },
-  {
-    "keyword": "소상공인폐업지원",
-    "pc_search": 230,
-    "mobile_search": 550,
-    "total_search": 780
-  },
-  {
-    "keyword": "사업자대출금리",
-    "pc_search": 200,
-    "mobile_search": 580,
-    "total_search": 780
-  },
-  {
-    "keyword": "임산부알바",
-    "pc_search": 90,
-    "mobile_search": 680,
     "total_search": 770
   },
   {
-    "keyword": "국제표준ISO",
-    "pc_search": 280,
-    "mobile_search": 480,
-    "total_search": 760
+    "keyword": "넷플릭스이용권",
+    "pc_search": 150,
+    "mobile_search": 620,
+    "total_search": 770
   },
   {
-    "keyword": "회사대출",
-    "pc_search": 190,
-    "mobile_search": 570,
-    "total_search": 760
-  },
-  {
-    "keyword": "상가보증금대출",
-    "pc_search": 160,
-    "mobile_search": 600,
-    "total_search": 760
-  },
-  {
-    "keyword": "TCB",
-    "pc_search": 320,
-    "mobile_search": 420,
-    "total_search": 740
-  },
-  {
-    "keyword": "청년정부지원금",
+    "keyword": "KT유튜브프리미엄요금제",
     "pc_search": 170,
-    "mobile_search": 570,
+    "mobile_search": 590,
+    "total_search": 760
+  },
+  {
+    "keyword": "유튜브배너만들기",
+    "pc_search": 410,
+    "mobile_search": 350,
+    "total_search": 760
+  },
+  {
+    "keyword": "유튜브방송",
+    "pc_search": 130,
+    "mobile_search": 630,
+    "total_search": 760
+  },
+  {
+    "keyword": "넷플릭스로고",
+    "pc_search": 400,
+    "mobile_search": 360,
+    "total_search": 760
+  },
+  {
+    "keyword": "플렉스TV",
+    "pc_search": 280,
+    "mobile_search": 470,
+    "total_search": 750
+  },
+  {
+    "keyword": "유튜브회사",
+    "pc_search": 120,
+    "mobile_search": 620,
     "total_search": 740
   },
   {
-    "keyword": "지자체지원금",
-    "pc_search": 160,
-    "mobile_search": 570,
+    "keyword": "유튜브프리미엄기프트카드",
+    "pc_search": 170,
+    "mobile_search": 560,
     "total_search": 730
   },
   {
-    "keyword": "재무상담",
-    "pc_search": 180,
-    "mobile_search": 550,
-    "total_search": 730
-  },
-  {
-    "keyword": "중소기업진흥원",
-    "pc_search": 520,
-    "mobile_search": 200,
+    "keyword": "유튜브프리미엄할인카드",
+    "pc_search": 190,
+    "mobile_search": 530,
     "total_search": 720
   },
   {
-    "keyword": "기업평가",
-    "pc_search": 420,
-    "mobile_search": 300,
-    "total_search": 720
-  },
-  {
-    "keyword": "정책지도사",
-    "pc_search": 130,
-    "mobile_search": 580,
+    "keyword": "OBS녹화",
+    "pc_search": 540,
+    "mobile_search": 170,
     "total_search": 710
   },
   {
-    "keyword": "경영안정자금",
-    "pc_search": 310,
-    "mobile_search": 390,
+    "keyword": "넷플릭스키즈",
+    "pc_search": 120,
+    "mobile_search": 580,
     "total_search": 700
   },
   {
-    "keyword": "4대보험환급",
-    "pc_search": 200,
-    "mobile_search": 500,
-    "total_search": 700
-  },
-  {
-    "keyword": "소셜벤처",
-    "pc_search": 480,
-    "mobile_search": 210,
-    "total_search": 690
-  },
-  {
-    "keyword": "전월세보증금담보대출",
+    "keyword": "성장동영상제작",
     "pc_search": 110,
     "mobile_search": 570,
     "total_search": 680
   },
   {
-    "keyword": "투자회사",
-    "pc_search": 200,
-    "mobile_search": 480,
+    "keyword": "유튜브공유",
+    "pc_search": 130,
+    "mobile_search": 550,
     "total_search": 680
   },
   {
-    "keyword": "정부지원정책자금",
-    "pc_search": 170,
-    "mobile_search": 500,
+    "keyword": "T우주패스유튜브",
+    "pc_search": 160,
+    "mobile_search": 520,
+    "total_search": 680
+  },
+  {
+    "keyword": "소상공인교육",
+    "pc_search": 330,
+    "mobile_search": 340,
     "total_search": 670
   },
   {
-    "keyword": "고용지원금대상",
-    "pc_search": 310,
-    "mobile_search": 350,
+    "keyword": "유튜브프리미엄가입",
+    "pc_search": 140,
+    "mobile_search": 520,
     "total_search": 660
   },
   {
-    "keyword": "신용보증재단소상공인대출",
-    "pc_search": 180,
-    "mobile_search": 480,
+    "keyword": "OTT할인카드",
+    "pc_search": 190,
+    "mobile_search": 470,
     "total_search": 660
   },
   {
-    "keyword": "재무제표확인원",
-    "pc_search": 580,
-    "mobile_search": 80,
-    "total_search": 660
-  },
-  {
-    "keyword": "창업대출조건",
-    "pc_search": 80,
-    "mobile_search": 580,
-    "total_search": 660
-  },
-  {
-    "keyword": "국가지원사업",
-    "pc_search": 320,
-    "mobile_search": 330,
+    "keyword": "넷플릭스닷컴",
+    "pc_search": 20,
+    "mobile_search": 630,
     "total_search": 650
   },
   {
-    "keyword": "중소기업혜택",
-    "pc_search": 300,
-    "mobile_search": 340,
+    "keyword": "유튜브프리미엄계정공유",
+    "pc_search": 110,
+    "mobile_search": 530,
     "total_search": 640
   },
   {
-    "keyword": "가전제품무상수거",
-    "pc_search": 200,
-    "mobile_search": 440,
+    "keyword": "유튜브프리미엄저렴하게",
+    "pc_search": 180,
+    "mobile_search": 460,
     "total_search": 640
   },
   {
-    "keyword": "소상공인대출금리",
-    "pc_search": 120,
-    "mobile_search": 520,
+    "keyword": "중계방송",
+    "pc_search": 150,
+    "mobile_search": 490,
     "total_search": 640
   },
   {
-    "keyword": "고용안정지원금",
-    "pc_search": 280,
-    "mobile_search": 340,
+    "keyword": "넷플릭스디즈니",
+    "pc_search": 100,
+    "mobile_search": 540,
+    "total_search": 640
+  },
+  {
+    "keyword": "유플러스셋톱박스",
+    "pc_search": 100,
+    "mobile_search": 530,
+    "total_search": 630
+  },
+  {
+    "keyword": "유튜브프리미엄1년권",
+    "pc_search": 130,
+    "mobile_search": 490,
     "total_search": 620
   },
   {
-    "keyword": "스마트농업",
-    "pc_search": 210,
-    "mobile_search": 400,
+    "keyword": "유튜브뮤직공유",
+    "pc_search": 80,
+    "mobile_search": 530,
     "total_search": 610
   },
   {
-    "keyword": "잔고증명",
-    "pc_search": 90,
+    "keyword": "유튜브프리미엄금액",
+    "pc_search": 190,
+    "mobile_search": 410,
+    "total_search": 600
+  },
+  {
+    "keyword": "넷플렉스요금",
+    "pc_search": 80,
     "mobile_search": 520,
-    "total_search": 610
-  },
-  {
-    "keyword": "시설자금대출",
-    "pc_search": 250,
-    "mobile_search": 350,
     "total_search": 600
   },
   {
-    "keyword": "관광농원",
-    "pc_search": 250,
-    "mobile_search": 350,
-    "total_search": 600
-  },
-  {
-    "keyword": "클린사업장",
-    "pc_search": 500,
-    "mobile_search": 90,
+    "keyword": "LG셋톱박스",
+    "pc_search": 100,
+    "mobile_search": 490,
     "total_search": 590
   },
   {
-    "keyword": "중소기업육성자금",
-    "pc_search": 360,
-    "mobile_search": 220,
-    "total_search": 580
-  },
-  {
-    "keyword": "저신용사업자대출",
-    "pc_search": 120,
-    "mobile_search": 460,
-    "total_search": 580
-  },
-  {
-    "keyword": "정부창업지원금",
-    "pc_search": 180,
+    "keyword": "아프리카TV숲",
+    "pc_search": 200,
     "mobile_search": 390,
+    "total_search": 590
+  },
+  {
+    "keyword": "유튜브동영상편집",
+    "pc_search": 260,
+    "mobile_search": 330,
+    "total_search": 590
+  },
+  {
+    "keyword": "틱톡챌린지",
+    "pc_search": 100,
+    "mobile_search": 490,
+    "total_search": 590
+  },
+  {
+    "keyword": "결혼식영상",
+    "pc_search": 180,
+    "mobile_search": 400,
+    "total_search": 580
+  },
+  {
+    "keyword": "넷플릭스한달무료",
+    "pc_search": 80,
+    "mobile_search": 500,
+    "total_search": 580
+  },
+  {
+    "keyword": "OTT묶음",
+    "pc_search": 90,
+    "mobile_search": 480,
     "total_search": 570
   },
   {
-    "keyword": "자영업자햇살론",
+    "keyword": "SKT넷플릭스",
+    "pc_search": 110,
+    "mobile_search": 460,
+    "total_search": 570
+  },
+  {
+    "keyword": "유튜브프리미엄KT",
     "pc_search": 120,
-    "mobile_search": 450,
-    "total_search": 570
+    "mobile_search": 430,
+    "total_search": 550
   },
   {
-    "keyword": "정부보조금",
-    "pc_search": 190,
-    "mobile_search": 370,
-    "total_search": 560
+    "keyword": "유튜브가입",
+    "pc_search": 120,
+    "mobile_search": 430,
+    "total_search": 550
   },
   {
-    "keyword": "사업자정부지원금",
-    "pc_search": 190,
-    "mobile_search": 370,
-    "total_search": 560
-  },
-  {
-    "keyword": "사업자대환대출",
+    "keyword": "MXL2006",
     "pc_search": 160,
     "mobile_search": 390,
     "total_search": 550
   },
   {
-    "keyword": "보증서대출",
-    "pc_search": 130,
-    "mobile_search": 420,
-    "total_search": 550
-  },
-  {
-    "keyword": "경영안전자금",
-    "pc_search": 130,
-    "mobile_search": 410,
-    "total_search": 540
-  },
-  {
-    "keyword": "소액투자",
-    "pc_search": 110,
-    "mobile_search": 430,
-    "total_search": 540
-  },
-  {
-    "keyword": "정부정책지원금",
-    "pc_search": 120,
-    "mobile_search": 410,
-    "total_search": 530
-  },
-  {
-    "keyword": "무료상담",
-    "pc_search": 90,
+    "keyword": "셀럽티비",
+    "pc_search": 100,
     "mobile_search": 440,
+    "total_search": 540
+  },
+  {
+    "keyword": "유튜브쉐어",
+    "pc_search": 80,
+    "mobile_search": 450,
     "total_search": 530
   },
   {
-    "keyword": "소상공인창업대출조건",
-    "pc_search": 70,
-    "mobile_search": 460,
+    "keyword": "넷플릭스광고형스탠다드후기",
+    "pc_search": 170,
+    "mobile_search": 360,
     "total_search": 530
   },
   {
-    "keyword": "일터혁신컨설팅",
-    "pc_search": 360,
-    "mobile_search": 160,
+    "keyword": "유튜브프리미엄SKT",
+    "pc_search": 100,
+    "mobile_search": 420,
     "total_search": 520
   },
   {
-    "keyword": "소상공인정부지원",
-    "pc_search": 210,
-    "mobile_search": 310,
+    "keyword": "YOUTUBEPREMIUM",
+    "pc_search": 80,
+    "mobile_search": 440,
     "total_search": 520
   },
   {
-    "keyword": "청년창업지원센터",
-    "pc_search": 270,
-    "mobile_search": 250,
+    "keyword": "블로그만드는법",
+    "pc_search": 190,
+    "mobile_search": 330,
     "total_search": 520
   },
   {
-    "keyword": "여성기업대출",
-    "pc_search": 220,
-    "mobile_search": 280,
+    "keyword": "소피파이",
+    "pc_search": 180,
+    "mobile_search": 330,
+    "total_search": 510
+  },
+  {
+    "keyword": "브랜디드콘텐츠",
+    "pc_search": 290,
+    "mobile_search": 220,
+    "total_search": 510
+  },
+  {
+    "keyword": "유튜브할인카드",
+    "pc_search": 120,
+    "mobile_search": 380,
     "total_search": 500
   },
   {
-    "keyword": "국가보조금",
-    "pc_search": 180,
-    "mobile_search": 310,
-    "total_search": 490
-  },
-  {
-    "keyword": "법인영업",
-    "pc_search": 140,
-    "mobile_search": 350,
-    "total_search": 490
-  },
-  {
-    "keyword": "벤처기업인증요건",
-    "pc_search": 290,
-    "mobile_search": 200,
-    "total_search": 490
-  },
-  {
-    "keyword": "소상공인정책자금컨설팅",
+    "keyword": "아이폰유튜브프리미엄가격",
     "pc_search": 100,
-    "mobile_search": 380,
-    "total_search": 480
+    "mobile_search": 400,
+    "total_search": 500
   },
   {
-    "keyword": "대전소상공인대출",
-    "pc_search": 110,
-    "mobile_search": 370,
-    "total_search": 480
-  },
-  {
-    "keyword": "50대여성일자리",
+    "keyword": "유튜브무료체험",
     "pc_search": 50,
-    "mobile_search": 430,
-    "total_search": 480
+    "mobile_search": 450,
+    "total_search": 500
   },
   {
-    "keyword": "신규법인대출",
-    "pc_search": 160,
-    "mobile_search": 310,
-    "total_search": 470
-  },
-  {
-    "keyword": "소상공인햇살론",
-    "pc_search": 80,
+    "keyword": "ITT자격증",
+    "pc_search": 110,
     "mobile_search": 390,
+    "total_search": 500
+  },
+  {
+    "keyword": "유튜브프리미엄패밀리",
+    "pc_search": 110,
+    "mobile_search": 380,
+    "total_search": 490
+  },
+  {
+    "keyword": "유튜브프리미엄카드할인",
+    "pc_search": 100,
+    "mobile_search": 390,
+    "total_search": 490
+  },
+  {
+    "keyword": "유튜브가족공유",
+    "pc_search": 80,
+    "mobile_search": 410,
+    "total_search": 490
+  },
+  {
+    "keyword": "유튜브결제",
+    "pc_search": 80,
+    "mobile_search": 410,
+    "total_search": 490
+  },
+  {
+    "keyword": "엘지통신사",
+    "pc_search": 70,
+    "mobile_search": 420,
+    "total_search": 490
+  },
+  {
+    "keyword": "기업유튜브",
+    "pc_search": 10,
+    "mobile_search": 480,
+    "total_search": 490
+  },
+  {
+    "keyword": "유튜브멤버십가입",
+    "pc_search": 50,
+    "mobile_search": 420,
     "total_search": 470
   },
   {
-    "keyword": "소상공인저금리대출",
+    "keyword": "유튜브프리미엄쉐어",
     "pc_search": 90,
     "mobile_search": 380,
     "total_search": 470
   },
   {
-    "keyword": "한국중소기업비즈니스센터",
-    "pc_search": 220,
-    "mobile_search": 240,
+    "keyword": "LG유튜브프리미엄",
+    "pc_search": 50,
+    "mobile_search": 420,
+    "total_search": 470
+  },
+  {
+    "keyword": "SKT유튜브",
+    "pc_search": 130,
+    "mobile_search": 330,
     "total_search": 460
   },
   {
-    "keyword": "폐업지원",
-    "pc_search": 200,
-    "mobile_search": 250,
+    "keyword": "유튜브프리미엄저렴",
+    "pc_search": 80,
+    "mobile_search": 380,
+    "total_search": 460
+  },
+  {
+    "keyword": "유튜브프리미엄유튜브뮤직",
+    "pc_search": 70,
+    "mobile_search": 390,
+    "total_search": 460
+  },
+  {
+    "keyword": "SNS마케터",
+    "pc_search": 160,
+    "mobile_search": 290,
     "total_search": 450
   },
   {
-    "keyword": "창업정부지원금",
-    "pc_search": 180,
-    "mobile_search": 270,
-    "total_search": 450
-  },
-  {
-    "keyword": "일자리지원금",
-    "pc_search": 330,
-    "mobile_search": 120,
-    "total_search": 450
-  },
-  {
-    "keyword": "중소기업진흥청",
-    "pc_search": 280,
-    "mobile_search": 160,
+    "keyword": "넷플릭스1년요금제",
+    "pc_search": 80,
+    "mobile_search": 360,
     "total_search": 440
   },
   {
-    "keyword": "제조업지원사업",
-    "pc_search": 230,
-    "mobile_search": 210,
-    "total_search": 440
-  },
-  {
-    "keyword": "한국중소기업협회",
-    "pc_search": 270,
-    "mobile_search": 170,
-    "total_search": 440
-  },
-  {
-    "keyword": "소상공인지원정책",
-    "pc_search": 200,
-    "mobile_search": 230,
-    "total_search": 430
-  },
-  {
-    "keyword": "보증보험대출",
-    "pc_search": 120,
-    "mobile_search": 310,
-    "total_search": 430
-  },
-  {
-    "keyword": "소상공인정부대출",
+    "keyword": "유튜브프리미엄가격싸게",
     "pc_search": 110,
-    "mobile_search": 320,
-    "total_search": 430
-  },
-  {
-    "keyword": "한국정책자금지원센터",
-    "pc_search": 90,
-    "mobile_search": 340,
-    "total_search": 430
-  },
-  {
-    "keyword": "회사소개서양식",
-    "pc_search": 360,
-    "mobile_search": 60,
+    "mobile_search": 310,
     "total_search": 420
   },
   {
-    "keyword": "고용안정장려금",
-    "pc_search": 300,
-    "mobile_search": 110,
+    "keyword": "유튜브프리미엄사이트",
+    "pc_search": 100,
+    "mobile_search": 320,
+    "total_search": 420
+  },
+  {
+    "keyword": "유튜브프리미엄아이폰",
+    "pc_search": 80,
+    "mobile_search": 340,
+    "total_search": 420
+  },
+  {
+    "keyword": "넷플릭스요금제추천",
+    "pc_search": 70,
+    "mobile_search": 340,
     "total_search": 410
   },
   {
-    "keyword": "의료법인",
-    "pc_search": 160,
-    "mobile_search": 240,
+    "keyword": "틱톡회사",
+    "pc_search": 70,
+    "mobile_search": 340,
+    "total_search": 410
+  },
+  {
+    "keyword": "유튜브프리미엄구매",
+    "pc_search": 70,
+    "mobile_search": 330,
     "total_search": 400
   },
   {
-    "keyword": "경영컨설팅회사",
-    "pc_search": 90,
-    "mobile_search": 310,
+    "keyword": "영상편집자",
+    "pc_search": 120,
+    "mobile_search": 280,
     "total_search": 400
   },
   {
-    "keyword": "고용노동부지원금",
-    "pc_search": 150,
-    "mobile_search": 240,
-    "total_search": 390
+    "keyword": "실시간방송",
+    "pc_search": 120,
+    "mobile_search": 280,
+    "total_search": 400
   },
   {
-    "keyword": "사회적기업인증",
-    "pc_search": 300,
-    "mobile_search": 90,
-    "total_search": 390
-  },
-  {
-    "keyword": "청년채용",
-    "pc_search": 170,
-    "mobile_search": 220,
-    "total_search": 390
-  },
-  {
-    "keyword": "금융투자회사",
-    "pc_search": 130,
-    "mobile_search": 260,
-    "total_search": 390
-  },
-  {
-    "keyword": "스타트업투자",
+    "keyword": "엘지유플러스홈페이지",
     "pc_search": 140,
-    "mobile_search": 240,
+    "mobile_search": 260,
+    "total_search": 400
+  },
+  {
+    "keyword": "넷플릭스티비",
+    "pc_search": 30,
+    "mobile_search": 360,
+    "total_search": 390
+  },
+  {
+    "keyword": "투컴세팅",
+    "pc_search": 140,
+    "mobile_search": 250,
+    "total_search": 390
+  },
+  {
+    "keyword": "유튜브VPN",
+    "pc_search": 70,
+    "mobile_search": 310,
     "total_search": 380
   },
   {
-    "keyword": "인건비지원사업",
-    "pc_search": 250,
-    "mobile_search": 120,
-    "total_search": 370
-  },
-  {
-    "keyword": "엑셀러레이팅",
-    "pc_search": 250,
-    "mobile_search": 120,
-    "total_search": 370
-  },
-  {
-    "keyword": "정부지원저금리대출",
-    "pc_search": 80,
+    "keyword": "알뜰폰유튜브프리미엄",
+    "pc_search": 90,
     "mobile_search": 290,
-    "total_search": 370
+    "total_search": 380
   },
   {
-    "keyword": "슬리터",
-    "pc_search": 170,
-    "mobile_search": 200,
-    "total_search": 370
+    "keyword": "OTT요금제",
+    "pc_search": 70,
+    "mobile_search": 310,
+    "total_search": 380
   },
   {
-    "keyword": "제조업창업",
-    "pc_search": 100,
-    "mobile_search": 260,
-    "total_search": 360
+    "keyword": "유튜브촬영",
+    "pc_search": 90,
+    "mobile_search": 290,
+    "total_search": 380
   },
   {
-    "keyword": "개인사업자지원",
+    "keyword": "넷플릭스OTT",
+    "pc_search": 80,
+    "mobile_search": 300,
+    "total_search": 380
+  },
+  {
+    "keyword": "에디우스",
     "pc_search": 190,
     "mobile_search": 170,
     "total_search": 360
   },
   {
-    "keyword": "지식산업센터대출",
-    "pc_search": 150,
-    "mobile_search": 210,
-    "total_search": 360
-  },
-  {
-    "keyword": "직장인저금리대출",
-    "pc_search": 90,
-    "mobile_search": 270,
-    "total_search": 360
-  },
-  {
-    "keyword": "법인대출조건",
-    "pc_search": 100,
-    "mobile_search": 260,
-    "total_search": 360
-  },
-  {
-    "keyword": "서울시소상공인지원금",
-    "pc_search": 70,
-    "mobile_search": 290,
-    "total_search": 360
-  },
-  {
-    "keyword": "60대여성일자리",
-    "pc_search": 50,
-    "mobile_search": 310,
-    "total_search": 360
-  },
-  {
-    "keyword": "자영업대출",
-    "pc_search": 80,
-    "mobile_search": 280,
-    "total_search": 360
-  },
-  {
-    "keyword": "중소벤처정책자금센터",
-    "pc_search": 180,
-    "mobile_search": 170,
-    "total_search": 350
-  },
-  {
-    "keyword": "황학동중고주방",
-    "pc_search": 40,
-    "mobile_search": 310,
-    "total_search": 350
-  },
-  {
-    "keyword": "요식업정책자금",
-    "pc_search": 70,
-    "mobile_search": 280,
-    "total_search": 350
-  },
-  {
-    "keyword": "스마트상점기술보급사업",
-    "pc_search": 230,
-    "mobile_search": 120,
-    "total_search": 350
-  },
-  {
-    "keyword": "캐피탈대부",
-    "pc_search": 40,
-    "mobile_search": 300,
-    "total_search": 340
-  },
-  {
-    "keyword": "청년친화강소기업",
-    "pc_search": 270,
-    "mobile_search": 70,
-    "total_search": 340
-  },
-  {
-    "keyword": "제조업정책자금",
-    "pc_search": 180,
-    "mobile_search": 160,
-    "total_search": 340
-  },
-  {
-    "keyword": "카드가맹점대출",
-    "pc_search": 90,
-    "mobile_search": 250,
-    "total_search": 340
-  },
-  {
-    "keyword": "개인투자자",
-    "pc_search": 110,
-    "mobile_search": 230,
-    "total_search": 340
-  },
-  {
-    "keyword": "사업대출",
-    "pc_search": 80,
-    "mobile_search": 250,
-    "total_search": 330
-  },
-  {
-    "keyword": "철거비지원",
-    "pc_search": 180,
-    "mobile_search": 150,
-    "total_search": 330
-  },
-  {
-    "keyword": "경기도소상공인지원",
-    "pc_search": 110,
-    "mobile_search": 220,
-    "total_search": 330
-  },
-  {
-    "keyword": "중소기업소상공인",
-    "pc_search": 180,
-    "mobile_search": 140,
-    "total_search": 320
-  },
-  {
-    "keyword": "시설자금",
-    "pc_search": 180,
-    "mobile_search": 140,
-    "total_search": 320
-  },
-  {
-    "keyword": "기업재무제표",
-    "pc_search": 210,
-    "mobile_search": 110,
-    "total_search": 320
-  },
-  {
-    "keyword": "개인사업자환급금",
-    "pc_search": 50,
-    "mobile_search": 260,
-    "total_search": 310
-  },
-  {
-    "keyword": "소상공인정책자금지원",
-    "pc_search": 110,
-    "mobile_search": 200,
-    "total_search": 310
-  },
-  {
-    "keyword": "중소기업자금대출",
-    "pc_search": 160,
-    "mobile_search": 150,
-    "total_search": 310
-  },
-  {
-    "keyword": "기업컨설팅",
-    "pc_search": 140,
-    "mobile_search": 170,
-    "total_search": 310
-  },
-  {
-    "keyword": "엔젤투자자",
-    "pc_search": 130,
-    "mobile_search": 180,
-    "total_search": 310
-  },
-  {
-    "keyword": "고용지원금환급",
-    "pc_search": 240,
-    "mobile_search": 60,
-    "total_search": 300
-  },
-  {
-    "keyword": "사업자환급",
+    "keyword": "유튜브뮤직프리미엄가격",
     "pc_search": 60,
-    "mobile_search": 240,
-    "total_search": 300
+    "mobile_search": 290,
+    "total_search": 350
   },
   {
-    "keyword": "기업금융",
-    "pc_search": 140,
-    "mobile_search": 160,
-    "total_search": 300
+    "keyword": "유튜브프리미엄제휴",
+    "pc_search": 80,
+    "mobile_search": 270,
+    "total_search": 350
   },
   {
-    "keyword": "소상공대출",
-    "pc_search": 90,
-    "mobile_search": 210,
-    "total_search": 300
+    "keyword": "LGU플러스넷플릭스",
+    "pc_search": 30,
+    "mobile_search": 320,
+    "total_search": 350
   },
   {
-    "keyword": "은행창업대출",
+    "keyword": "SNS광고",
+    "pc_search": 160,
+    "mobile_search": 190,
+    "total_search": 350
+  },
+  {
+    "keyword": "넷플릭스공유계정",
+    "pc_search": 50,
+    "mobile_search": 300,
+    "total_search": 350
+  },
+  {
+    "keyword": "넷플릭스연간요금제",
+    "pc_search": 80,
+    "mobile_search": 270,
+    "total_search": 350
+  },
+  {
+    "keyword": "유튜브싸게",
+    "pc_search": 70,
+    "mobile_search": 270,
+    "total_search": 340
+  },
+  {
+    "keyword": "넷플릭스싸게",
+    "pc_search": 80,
+    "mobile_search": 260,
+    "total_search": 340
+  },
+  {
+    "keyword": "온라인마케팅교육",
+    "pc_search": 110,
+    "mobile_search": 230,
+    "total_search": 340
+  },
+  {
+    "keyword": "유플러스넷플릭스요금제",
+    "pc_search": 70,
+    "mobile_search": 250,
+    "total_search": 320
+  },
+  {
+    "keyword": "마이크설정",
+    "pc_search": 210,
+    "mobile_search": 110,
+    "total_search": 320
+  },
+  {
+    "keyword": "넷플릭스우회",
     "pc_search": 70,
     "mobile_search": 230,
     "total_search": 300
   },
   {
-    "keyword": "무주택자전세자금대출",
-    "pc_search": 120,
-    "mobile_search": 180,
-    "total_search": 300
-  },
-  {
-    "keyword": "벤처투자조합",
-    "pc_search": 180,
-    "mobile_search": 110,
+    "keyword": "엘지유플러스영화",
+    "pc_search": 50,
+    "mobile_search": 240,
     "total_search": 290
   },
   {
-    "keyword": "기술신용평가",
-    "pc_search": 210,
-    "mobile_search": 80,
+    "keyword": "AG03",
+    "pc_search": 150,
+    "mobile_search": 140,
     "total_search": 290
   },
   {
-    "keyword": "미디어커머스",
-    "pc_search": 140,
-    "mobile_search": 150,
-    "total_search": 290
-  },
-  {
-    "keyword": "법인정책자금대출",
-    "pc_search": 130,
-    "mobile_search": 160,
-    "total_search": 290
-  },
-  {
-    "keyword": "소상공인특별자금",
+    "keyword": "유튜브학과",
     "pc_search": 80,
     "mobile_search": 210,
     "total_search": 290
   },
   {
-    "keyword": "소상공인자금",
-    "pc_search": 140,
-    "mobile_search": 150,
+    "keyword": "엘지유플러스넷플릭스",
+    "pc_search": 20,
+    "mobile_search": 270,
     "total_search": 290
   },
   {
-    "keyword": "투자자문",
-    "pc_search": 130,
-    "mobile_search": 160,
-    "total_search": 290
-  },
-  {
-    "keyword": "소상공인지원자금",
-    "pc_search": 120,
-    "mobile_search": 160,
-    "total_search": 280
-  },
-  {
-    "keyword": "국가지원",
-    "pc_search": 100,
-    "mobile_search": 180,
-    "total_search": 280
-  },
-  {
-    "keyword": "사업자대출서류",
-    "pc_search": 100,
-    "mobile_search": 180,
-    "total_search": 280
-  },
-  {
-    "keyword": "축산기자재",
+    "keyword": "마케팅전문가",
     "pc_search": 70,
-    "mobile_search": 210,
+    "mobile_search": 220,
+    "total_search": 290
+  },
+  {
+    "keyword": "LGU플러스유튜브",
+    "pc_search": 30,
+    "mobile_search": 250,
     "total_search": 280
   },
   {
-    "keyword": "기업정보",
-    "pc_search": 140,
-    "mobile_search": 140,
+    "keyword": "유튜브프리미엄유독",
+    "pc_search": 50,
+    "mobile_search": 230,
     "total_search": 280
   },
   {
-    "keyword": "소진공대출",
-    "pc_search": 90,
+    "keyword": "FLEXTV",
+    "pc_search": 80,
+    "mobile_search": 200,
+    "total_search": 280
+  },
+  {
+    "keyword": "엘지유플러스유튜브",
+    "pc_search": 30,
+    "mobile_search": 250,
+    "total_search": 280
+  },
+  {
+    "keyword": "유튜브스트리밍",
+    "pc_search": 100,
     "mobile_search": 180,
+    "total_search": 280
+  },
+  {
+    "keyword": "방송세팅",
+    "pc_search": 110,
+    "mobile_search": 170,
+    "total_search": 280
+  },
+  {
+    "keyword": "넷플릭스공유제한",
+    "pc_search": 30,
+    "mobile_search": 250,
+    "total_search": 280
+  },
+  {
+    "keyword": "유튜브프리미엄할인방법",
+    "pc_search": 60,
+    "mobile_search": 210,
     "total_search": 270
   },
   {
-    "keyword": "글로벌강소기업",
-    "pc_search": 220,
-    "mobile_search": 40,
-    "total_search": 260
+    "keyword": "넷플릭스유튜브프리미엄",
+    "pc_search": 30,
+    "mobile_search": 240,
+    "total_search": 270
   },
   {
-    "keyword": "근로자지원금",
+    "keyword": "개인방송세팅",
+    "pc_search": 80,
+    "mobile_search": 190,
+    "total_search": 270
+  },
+  {
+    "keyword": "라이브스트리밍",
     "pc_search": 110,
     "mobile_search": 150,
     "total_search": 260
   },
   {
-    "keyword": "스타트업창업",
+    "keyword": "넷플릭스유튜브",
+    "pc_search": 60,
+    "mobile_search": 200,
+    "total_search": 260
+  },
+  {
+    "keyword": "LG유플러스유튜브프리미엄",
+    "pc_search": 60,
+    "mobile_search": 190,
+    "total_search": 250
+  },
+  {
+    "keyword": "블로그책",
+    "pc_search": 60,
+    "mobile_search": 190,
+    "total_search": 250
+  },
+  {
+    "keyword": "LG무선셋톱박스",
+    "pc_search": 40,
+    "mobile_search": 210,
+    "total_search": 250
+  },
+  {
+    "keyword": "유튜브넷플릭스",
+    "pc_search": 40,
+    "mobile_search": 210,
+    "total_search": 250
+  },
+  {
+    "keyword": "LGTV채널",
+    "pc_search": 40,
+    "mobile_search": 200,
+    "total_search": 240
+  },
+  {
+    "keyword": "게임방송",
     "pc_search": 80,
+    "mobile_search": 160,
+    "total_search": 240
+  },
+  {
+    "keyword": "유튜브프리미엄업체",
+    "pc_search": 50,
     "mobile_search": 180,
-    "total_search": 260
-  },
-  {
-    "keyword": "소상공인저신용자대출",
-    "pc_search": 50,
-    "mobile_search": 210,
-    "total_search": 260
-  },
-  {
-    "keyword": "자영업지원센터",
-    "pc_search": 150,
-    "mobile_search": 110,
-    "total_search": 260
-  },
-  {
-    "keyword": "개인사업자",
-    "pc_search": 70,
-    "mobile_search": 190,
-    "total_search": 260
-  },
-  {
-    "keyword": "자영업자지원",
-    "pc_search": 80,
-    "mobile_search": 170,
-    "total_search": 250
-  },
-  {
-    "keyword": "신규창업대출",
-    "pc_search": 60,
-    "mobile_search": 190,
-    "total_search": 250
-  },
-  {
-    "keyword": "중소기업정부지원사업",
-    "pc_search": 220,
-    "mobile_search": 30,
-    "total_search": 250
-  },
-  {
-    "keyword": "재도약지원자금",
-    "pc_search": 90,
-    "mobile_search": 160,
-    "total_search": 250
-  },
-  {
-    "keyword": "소상공인창업지원",
-    "pc_search": 90,
-    "mobile_search": 160,
-    "total_search": 250
-  },
-  {
-    "keyword": "중고공작기계",
-    "pc_search": 120,
-    "mobile_search": 130,
-    "total_search": 250
-  },
-  {
-    "keyword": "점포철거비지원",
-    "pc_search": 120,
-    "mobile_search": 120,
-    "total_search": 240
-  },
-  {
-    "keyword": "대전중고가구매입",
-    "pc_search": 30,
-    "mobile_search": 210,
-    "total_search": 240
-  },
-  {
-    "keyword": "사업자금",
-    "pc_search": 70,
-    "mobile_search": 170,
-    "total_search": 240
-  },
-  {
-    "keyword": "소상공인대출신청",
-    "pc_search": 50,
-    "mobile_search": 190,
-    "total_search": 240
-  },
-  {
-    "keyword": "고용지원",
-    "pc_search": 130,
-    "mobile_search": 100,
     "total_search": 230
   },
   {
-    "keyword": "구직자지원금",
-    "pc_search": 80,
-    "mobile_search": 150,
-    "total_search": 230
-  },
-  {
-    "keyword": "영농자금대출",
-    "pc_search": 30,
-    "mobile_search": 200,
-    "total_search": 230
-  },
-  {
-    "keyword": "서울시대출",
-    "pc_search": 80,
-    "mobile_search": 150,
-    "total_search": 230
-  },
-  {
-    "keyword": "벤처기업인증서",
-    "pc_search": 210,
-    "mobile_search": 20,
-    "total_search": 230
-  },
-  {
-    "keyword": "중소기업운전자금",
-    "pc_search": 170,
-    "mobile_search": 60,
-    "total_search": 230
-  },
-  {
-    "keyword": "개인사업자대출방법",
-    "pc_search": 90,
-    "mobile_search": 140,
-    "total_search": 230
-  },
-  {
-    "keyword": "캐피탈종류",
-    "pc_search": 30,
-    "mobile_search": 200,
-    "total_search": 230
-  },
-  {
-    "keyword": "한국신용보증재단",
-    "pc_search": 90,
-    "mobile_search": 140,
-    "total_search": 230
-  },
-  {
-    "keyword": "운전자금대출",
-    "pc_search": 110,
-    "mobile_search": 120,
-    "total_search": 230
-  },
-  {
-    "keyword": "신보대출",
-    "pc_search": 110,
-    "mobile_search": 120,
-    "total_search": 230
-  },
-  {
-    "keyword": "중소기업채용",
-    "pc_search": 90,
-    "mobile_search": 140,
-    "total_search": 230
-  },
-  {
-    "keyword": "특례보증대출",
-    "pc_search": 30,
-    "mobile_search": 190,
-    "total_search": 220
-  },
-  {
-    "keyword": "소호대출",
-    "pc_search": 70,
-    "mobile_search": 150,
-    "total_search": 220
-  },
-  {
-    "keyword": "소상공인창업자금",
-    "pc_search": 60,
-    "mobile_search": 160,
-    "total_search": 220
-  },
-  {
-    "keyword": "저신용정책자금",
-    "pc_search": 30,
-    "mobile_search": 190,
-    "total_search": 220
-  },
-  {
-    "keyword": "지역혁신선도기업",
-    "pc_search": 160,
-    "mobile_search": 60,
-    "total_search": 220
-  },
-  {
-    "keyword": "중소기업인증",
-    "pc_search": 180,
-    "mobile_search": 40,
-    "total_search": 220
-  },
-  {
-    "keyword": "투자사",
-    "pc_search": 70,
-    "mobile_search": 150,
-    "total_search": 220
-  },
-  {
-    "keyword": "환율투자",
-    "pc_search": 60,
-    "mobile_search": 160,
-    "total_search": 220
-  },
-  {
-    "keyword": "사이트매매",
-    "pc_search": 130,
-    "mobile_search": 80,
-    "total_search": 210
-  },
-  {
-    "keyword": "법인사업자대출조건",
-    "pc_search": 60,
-    "mobile_search": 150,
-    "total_search": 210
-  },
-  {
-    "keyword": "서울시정책자금",
-    "pc_search": 120,
-    "mobile_search": 90,
-    "total_search": 210
-  },
-  {
-    "keyword": "소상공인운영자금",
-    "pc_search": 60,
-    "mobile_search": 150,
-    "total_search": 210
-  },
-  {
-    "keyword": "비대면바우처",
-    "pc_search": 170,
-    "mobile_search": 40,
-    "total_search": 210
-  },
-  {
-    "keyword": "창업지원대출",
-    "pc_search": 80,
-    "mobile_search": 130,
-    "total_search": 210
-  },
-  {
-    "keyword": "저금리개인사업자대출",
-    "pc_search": 60,
-    "mobile_search": 150,
-    "total_search": 210
-  },
-  {
-    "keyword": "소상공인경제연구소",
-    "pc_search": 40,
-    "mobile_search": 170,
-    "total_search": 210
-  },
-  {
-    "keyword": "기계담보대출",
-    "pc_search": 90,
-    "mobile_search": 120,
-    "total_search": 210
-  },
-  {
-    "keyword": "기술보증재단",
-    "pc_search": 130,
-    "mobile_search": 70,
-    "total_search": 200
-  },
-  {
-    "keyword": "인천정책자금",
-    "pc_search": 90,
-    "mobile_search": 110,
-    "total_search": 200
-  },
-  {
-    "keyword": "경기도자금",
-    "pc_search": 150,
-    "mobile_search": 50,
-    "total_search": 200
-  },
-  {
-    "keyword": "기업대출금리",
-    "pc_search": 90,
-    "mobile_search": 110,
-    "total_search": 200
-  },
-  {
-    "keyword": "채용지원금",
-    "pc_search": 130,
-    "mobile_search": 60,
-    "total_search": 190
-  },
-  {
-    "keyword": "정부지원저금리대환대출",
+    "keyword": "LG유선방송",
     "pc_search": 20,
-    "mobile_search": 170,
-    "total_search": 190
+    "mobile_search": 210,
+    "total_search": 230
   },
   {
-    "keyword": "금융서비스",
-    "pc_search": 60,
-    "mobile_search": 130,
-    "total_search": 190
-  },
-  {
-    "keyword": "소상공인시설자금",
-    "pc_search": 60,
-    "mobile_search": 130,
-    "total_search": 190
-  },
-  {
-    "keyword": "은행대출이율",
-    "pc_search": 40,
-    "mobile_search": 150,
-    "total_search": 190
-  },
-  {
-    "keyword": "서울시창업지원",
-    "pc_search": 80,
-    "mobile_search": 100,
-    "total_search": 180
-  },
-  {
-    "keyword": "1금융신용대출",
-    "pc_search": 50,
-    "mobile_search": 130,
-    "total_search": 180
-  },
-  {
-    "keyword": "소상공인진흥공단대환대출",
-    "pc_search": 50,
-    "mobile_search": 130,
-    "total_search": 180
-  },
-  {
-    "keyword": "중소기업센터",
-    "pc_search": 110,
-    "mobile_search": 70,
-    "total_search": 180
-  },
-  {
-    "keyword": "소상공인자영업자대출",
-    "pc_search": 50,
-    "mobile_search": 120,
-    "total_search": 170
-  },
-  {
-    "keyword": "운영자금",
-    "pc_search": 90,
-    "mobile_search": 80,
-    "total_search": 170
-  },
-  {
-    "keyword": "법인정책자금",
-    "pc_search": 120,
-    "mobile_search": 50,
-    "total_search": 170
-  },
-  {
-    "keyword": "정부지원금찾기",
-    "pc_search": 40,
-    "mobile_search": 130,
-    "total_search": 170
-  },
-  {
-    "keyword": "철거지원",
-    "pc_search": 70,
-    "mobile_search": 100,
-    "total_search": 170
-  },
-  {
-    "keyword": "투자자문회사",
-    "pc_search": 70,
-    "mobile_search": 100,
-    "total_search": 170
-  },
-  {
-    "keyword": "정부지원소액대출",
-    "pc_search": 30,
-    "mobile_search": 140,
-    "total_search": 170
-  },
-  {
-    "keyword": "제조업대출",
-    "pc_search": 70,
-    "mobile_search": 90,
-    "total_search": 160
-  },
-  {
-    "keyword": "1금융권신용대출",
-    "pc_search": 40,
-    "mobile_search": 120,
-    "total_search": 160
-  },
-  {
-    "keyword": "소상공인마케팅",
-    "pc_search": 60,
-    "mobile_search": 100,
-    "total_search": 160
-  },
-  {
-    "keyword": "유튜브제작사",
-    "pc_search": 60,
-    "mobile_search": 100,
-    "total_search": 160
-  },
-  {
-    "keyword": "고용지원금신청",
-    "pc_search": 90,
-    "mobile_search": 60,
-    "total_search": 150
-  },
-  {
-    "keyword": "소상공인컨설턴트",
-    "pc_search": 70,
-    "mobile_search": 80,
-    "total_search": 150
-  },
-  {
-    "keyword": "여성기업지원",
-    "pc_search": 90,
-    "mobile_search": 60,
-    "total_search": 150
-  },
-  {
-    "keyword": "카페다이렉트몰",
-    "pc_search": 40,
-    "mobile_search": 110,
-    "total_search": 150
-  },
-  {
-    "keyword": "서울형강소기업",
-    "pc_search": 130,
-    "mobile_search": 20,
-    "total_search": 150
-  },
-  {
-    "keyword": "환경공모전",
-    "pc_search": 60,
-    "mobile_search": 90,
-    "total_search": 150
-  },
-  {
-    "keyword": "기업지원센터",
-    "pc_search": 90,
-    "mobile_search": 60,
-    "total_search": 150
-  },
-  {
-    "keyword": "법인신용대출",
-    "pc_search": 60,
-    "mobile_search": 90,
-    "total_search": 150
-  },
-  {
-    "keyword": "진흥공단",
-    "pc_search": 70,
-    "mobile_search": 80,
-    "total_search": 150
-  },
-  {
-    "keyword": "대출컨설팅",
-    "pc_search": 30,
-    "mobile_search": 120,
-    "total_search": 150
-  },
-  {
-    "keyword": "경상남도정책자금",
-    "pc_search": 70,
-    "mobile_search": 80,
-    "total_search": 150
-  },
-  {
-    "keyword": "50대여성직업",
+    "keyword": "LGU플러스셋톱박스",
     "pc_search": 20,
-    "mobile_search": 130,
-    "total_search": 150
+    "mobile_search": 210,
+    "total_search": 230
   },
   {
-    "keyword": "소상공인자금대출",
-    "pc_search": 50,
-    "mobile_search": 100,
-    "total_search": 150
-  },
-  {
-    "keyword": "대구정책자금",
-    "pc_search": 60,
-    "mobile_search": 90,
-    "total_search": 150
-  },
-  {
-    "keyword": "사업계획서작성",
-    "pc_search": 100,
-    "mobile_search": 50,
-    "total_search": 150
-  },
-  {
-    "keyword": "중소기업경영혁신연구원",
-    "pc_search": 70,
-    "mobile_search": 70,
-    "total_search": 140
-  },
-  {
-    "keyword": "사업정리컨설팅",
-    "pc_search": 50,
-    "mobile_search": 90,
-    "total_search": 140
-  },
-  {
-    "keyword": "중소기업자금지원",
+    "keyword": "SNS홍보",
     "pc_search": 110,
-    "mobile_search": 30,
-    "total_search": 140
+    "mobile_search": 120,
+    "total_search": 230
   },
   {
-    "keyword": "소상공인진흥공단홈페이지",
+    "keyword": "프리미엄유튜브",
+    "pc_search": 40,
+    "mobile_search": 180,
+    "total_search": 220
+  },
+  {
+    "keyword": "치지직방송세팅",
+    "pc_search": 130,
+    "mobile_search": 90,
+    "total_search": 220
+  },
+  {
+    "keyword": "유플러스지니뮤직",
+    "pc_search": 20,
+    "mobile_search": 190,
+    "total_search": 210
+  },
+  {
+    "keyword": "버츄얼제작",
+    "pc_search": 40,
+    "mobile_search": 170,
+    "total_search": 210
+  },
+  {
+    "keyword": "넷플릭스가입비",
     "pc_search": 10,
+    "mobile_search": 200,
+    "total_search": 210
+  },
+  {
+    "keyword": "유튜브프리미엄쿠폰",
+    "pc_search": 30,
+    "mobile_search": 170,
+    "total_search": 200
+  },
+  {
+    "keyword": "유튜브프리미엄넷플릭스",
+    "pc_search": 40,
+    "mobile_search": 160,
+    "total_search": 200
+  },
+  {
+    "keyword": "오디오시스템",
+    "pc_search": 30,
+    "mobile_search": 170,
+    "total_search": 200
+  },
+  {
+    "keyword": "넷플릭스구독할인",
+    "pc_search": 40,
+    "mobile_search": 160,
+    "total_search": 200
+  },
+  {
+    "keyword": "유튜브교육",
+    "pc_search": 70,
     "mobile_search": 130,
-    "total_search": 140
+    "total_search": 200
   },
   {
-    "keyword": "농업정책자금",
+    "keyword": "OTT이용권",
+    "pc_search": 40,
+    "mobile_search": 160,
+    "total_search": 200
+  },
+  {
+    "keyword": "영상편집업체",
+    "pc_search": 70,
+    "mobile_search": 120,
+    "total_search": 190
+  },
+  {
+    "keyword": "유튜브저렴하게",
     "pc_search": 50,
-    "mobile_search": 90,
-    "total_search": 140
+    "mobile_search": 140,
+    "total_search": 190
   },
   {
-    "keyword": "수출유망중소기업",
-    "pc_search": 110,
-    "mobile_search": 30,
-    "total_search": 140
+    "keyword": "유튜브프리미엄가격비교",
+    "pc_search": 40,
+    "mobile_search": 150,
+    "total_search": 190
   },
   {
-    "keyword": "서울소상공인",
-    "pc_search": 60,
+    "keyword": "유튜브프리미엄이용권",
+    "pc_search": 50,
+    "mobile_search": 130,
+    "total_search": 180
+  },
+  {
+    "keyword": "유튜브프리미엄애플",
+    "pc_search": 50,
+    "mobile_search": 130,
+    "total_search": 180
+  },
+  {
+    "keyword": "BIGOLIVE",
+    "pc_search": 40,
+    "mobile_search": 140,
+    "total_search": 180
+  },
+  {
+    "keyword": "SNS마케팅교육",
+    "pc_search": 80,
+    "mobile_search": 100,
+    "total_search": 180
+  },
+  {
+    "keyword": "스케치영상",
+    "pc_search": 100,
     "mobile_search": 80,
-    "total_search": 140
+    "total_search": 180
   },
   {
-    "keyword": "나라지원대출",
-    "pc_search": 40,
+    "keyword": "넷플릭스무료보기",
+    "pc_search": 30,
+    "mobile_search": 150,
+    "total_search": 180
+  },
+  {
+    "keyword": "숏폼광고",
+    "pc_search": 110,
+    "mobile_search": 70,
+    "total_search": 180
+  },
+  {
+    "keyword": "GIF편집",
+    "pc_search": 130,
+    "mobile_search": 50,
+    "total_search": 180
+  },
+  {
+    "keyword": "유튭",
+    "pc_search": 70,
     "mobile_search": 100,
-    "total_search": 140
+    "total_search": 170
   },
   {
-    "keyword": "관광농원허가",
+    "keyword": "KT유튜브프리미엄초이스",
     "pc_search": 40,
-    "mobile_search": 100,
-    "total_search": 140
+    "mobile_search": 130,
+    "total_search": 170
   },
   {
-    "keyword": "투자정보",
+    "keyword": "KT유튜브할인",
+    "pc_search": 30,
+    "mobile_search": 140,
+    "total_search": 170
+  },
+  {
+    "keyword": "LGU플러스유튜브프리미엄",
+    "pc_search": 30,
+    "mobile_search": 140,
+    "total_search": 170
+  },
+  {
+    "keyword": "LG넷플릭스요금제",
+    "pc_search": 20,
+    "mobile_search": 150,
+    "total_search": 170
+  },
+  {
+    "keyword": "버츄얼리깅",
+    "pc_search": 40,
+    "mobile_search": 130,
+    "total_search": 170
+  },
+  {
+    "keyword": "블로그교육",
+    "pc_search": 60,
+    "mobile_search": 110,
+    "total_search": 170
+  },
+  {
+    "keyword": "병원유튜브",
+    "pc_search": 100,
+    "mobile_search": 60,
+    "total_search": 160
+  },
+  {
+    "keyword": "유튜브프리미엄카드",
+    "pc_search": 40,
+    "mobile_search": 120,
+    "total_search": 160
+  },
+  {
+    "keyword": "유튜브프리미엄3개월무료",
+    "pc_search": 20,
+    "mobile_search": 140,
+    "total_search": 160
+  },
+  {
+    "keyword": "유튜브프리미엄가격인상",
+    "pc_search": 30,
+    "mobile_search": 130,
+    "total_search": 160
+  },
+  {
+    "keyword": "유튜브프리미엄통신사",
+    "pc_search": 40,
+    "mobile_search": 120,
+    "total_search": 160
+  },
+  {
+    "keyword": "유튜브구독할인",
+    "pc_search": 40,
+    "mobile_search": 120,
+    "total_search": 160
+  },
+  {
+    "keyword": "유플러스OTT",
+    "pc_search": 30,
+    "mobile_search": 130,
+    "total_search": 160
+  },
+  {
+    "keyword": "엘지유튜브프리미엄",
+    "pc_search": 10,
+    "mobile_search": 140,
+    "total_search": 150
+  },
+  {
+    "keyword": "U+유튜브프리미엄",
+    "pc_search": 20,
+    "mobile_search": 130,
+    "total_search": 150
+  },
+  {
+    "keyword": "U+영화",
+    "pc_search": 20,
+    "mobile_search": 130,
+    "total_search": 150
+  },
+  {
+    "keyword": "유튜브프리미엄SK",
     "pc_search": 30,
     "mobile_search": 110,
     "total_search": 140
   },
   {
-    "keyword": "경기도창업지원",
-    "pc_search": 60,
-    "mobile_search": 70,
+    "keyword": "유튜브뮤직우회",
+    "pc_search": 20,
+    "mobile_search": 120,
+    "total_search": 140
+  },
+  {
+    "keyword": "유튜브프리미엄통신사할인",
+    "pc_search": 40,
+    "mobile_search": 100,
+    "total_search": 140
+  },
+  {
+    "keyword": "LG유플러스넷플릭스",
+    "pc_search": 30,
+    "mobile_search": 110,
+    "total_search": 140
+  },
+  {
+    "keyword": "LG유플러스유튜브",
+    "pc_search": 20,
+    "mobile_search": 120,
+    "total_search": 140
+  },
+  {
+    "keyword": "유튜브실시간스트리밍",
+    "pc_search": 20,
+    "mobile_search": 120,
+    "total_search": 140
+  },
+  {
+    "keyword": "넷플릭스요금제광고형",
+    "pc_search": 20,
+    "mobile_search": 120,
+    "total_search": 140
+  },
+  {
+    "keyword": "넷플릭스요금제차이",
+    "pc_search": 20,
+    "mobile_search": 120,
+    "total_search": 140
+  },
+  {
+    "keyword": "유튜브프리미엄프로모션",
+    "pc_search": 40,
+    "mobile_search": 90,
     "total_search": 130
   },
   {
-    "keyword": "산업기술협회",
-    "pc_search": 120,
-    "mobile_search": 10,
+    "keyword": "구글프리미엄",
+    "pc_search": 40,
+    "mobile_search": 90,
     "total_search": 130
   },
   {
-    "keyword": "일터혁신",
-    "pc_search": 110,
-    "mobile_search": 20,
+    "keyword": "유튜브프리미엄유플러스",
+    "pc_search": 20,
+    "mobile_search": 110,
     "total_search": 130
   },
   {
-    "keyword": "중소기업재무제표",
+    "keyword": "엘지유플러스유튜브프리미엄",
+    "pc_search": 20,
+    "mobile_search": 110,
+    "total_search": 130
+  },
+  {
+    "keyword": "LG유튜브",
+    "pc_search": 20,
+    "mobile_search": 110,
+    "total_search": 130
+  },
+  {
+    "keyword": "유튜브콘텐츠",
+    "pc_search": 40,
+    "mobile_search": 90,
+    "total_search": 130
+  },
+  {
+    "keyword": "유튜브송출",
+    "pc_search": 50,
+    "mobile_search": 80,
+    "total_search": 130
+  },
+  {
+    "keyword": "틱톡마케팅",
     "pc_search": 70,
     "mobile_search": 60,
     "total_search": 130
   },
   {
-    "keyword": "회사개요",
-    "pc_search": 110,
-    "mobile_search": 20,
+    "keyword": "더글로리다시보기",
+    "pc_search": 10,
+    "mobile_search": 120,
     "total_search": 130
   },
   {
-    "keyword": "제조업지원금",
+    "keyword": "부동산마케팅",
     "pc_search": 70,
     "mobile_search": 60,
     "total_search": 130
   },
   {
-    "keyword": "안전투자혁신사업",
+    "keyword": "유튜브프리미엄VPN",
+    "pc_search": 30,
+    "mobile_search": 90,
+    "total_search": 120
+  },
+  {
+    "keyword": "유튜브프리미엄싸게하는법",
+    "pc_search": 30,
+    "mobile_search": 90,
+    "total_search": 120
+  },
+  {
+    "keyword": "INLIVE",
     "pc_search": 90,
-    "mobile_search": 40,
-    "total_search": 130
+    "mobile_search": 30,
+    "total_search": 120
   },
   {
-    "keyword": "희망론",
+    "keyword": "BJ모집",
+    "pc_search": 60,
+    "mobile_search": 60,
+    "total_search": 120
+  },
+  {
+    "keyword": "숏폼콘텐츠",
+    "pc_search": 60,
+    "mobile_search": 60,
+    "total_search": 120
+  },
+  {
+    "keyword": "ZOOM웨비나",
+    "pc_search": 100,
+    "mobile_search": 20,
+    "total_search": 120
+  },
+  {
+    "keyword": "넷플릭스쿠폰",
+    "pc_search": 20,
+    "mobile_search": 100,
+    "total_search": 120
+  },
+  {
+    "keyword": "넷플릭스티빙웨이브",
+    "pc_search": 20,
+    "mobile_search": 100,
+    "total_search": 120
+  },
+  {
+    "keyword": "SNS하는법",
+    "pc_search": 10,
+    "mobile_search": 110,
+    "total_search": 120
+  },
+  {
+    "keyword": "넷플릭스저렴하게",
+    "pc_search": 20,
+    "mobile_search": 90,
+    "total_search": 110
+  },
+  {
+    "keyword": "인터넷방송세팅",
+    "pc_search": 30,
+    "mobile_search": 80,
+    "total_search": 110
+  },
+  {
+    "keyword": "ESG캠페인",
+    "pc_search": 80,
+    "mobile_search": 30,
+    "total_search": 110
+  },
+  {
+    "keyword": "LGU+넷플릭스",
+    "pc_search": 20,
+    "mobile_search": 90,
+    "total_search": 110
+  },
+  {
+    "keyword": "LG넷플릭스",
+    "pc_search": 20,
+    "mobile_search": 90,
+    "total_search": 110
+  },
+  {
+    "keyword": "넷플광고형",
+    "pc_search": 20,
+    "mobile_search": 90,
+    "total_search": 110
+  },
+  {
+    "keyword": "넷플릭스첫달무료",
+    "pc_search": 10,
+    "mobile_search": 100,
+    "total_search": 110
+  },
+  {
+    "keyword": "영상기획",
+    "pc_search": 50,
+    "mobile_search": 60,
+    "total_search": 110
+  },
+  {
+    "keyword": "넷플릭스요금할인",
+    "pc_search": 30,
+    "mobile_search": 80,
+    "total_search": 110
+  },
+  {
+    "keyword": "넷플광고",
     "pc_search": 5,
-    "mobile_search": 120,
-    "total_search": 125
+    "mobile_search": 100,
+    "total_search": 105
   },
   {
-    "keyword": "청년사업자지원",
-    "pc_search": 60,
-    "mobile_search": 60,
-    "total_search": 120
+    "keyword": "YOUTUBE뮤직",
+    "pc_search": 80,
+    "mobile_search": 20,
+    "total_search": 100
   },
   {
-    "keyword": "한세협",
+    "keyword": "유튜브인트로",
     "pc_search": 40,
-    "mobile_search": 80,
-    "total_search": 120
+    "mobile_search": 60,
+    "total_search": 100
   },
   {
-    "keyword": "부천부업",
+    "keyword": "SNS마켓",
+    "pc_search": 50,
+    "mobile_search": 50,
+    "total_search": 100
+  },
+  {
+    "keyword": "LG넷플릭스할인",
     "pc_search": 10,
-    "mobile_search": 110,
-    "total_search": 120
-  },
-  {
-    "keyword": "정부지원사업컨설팅",
-    "pc_search": 80,
-    "mobile_search": 40,
-    "total_search": 120
-  },
-  {
-    "keyword": "기업지원",
-    "pc_search": 100,
-    "mobile_search": 20,
-    "total_search": 120
-  },
-  {
-    "keyword": "가맹점대출",
-    "pc_search": 30,
     "mobile_search": 90,
-    "total_search": 120
+    "total_search": 100
   },
   {
-    "keyword": "병원대출",
-    "pc_search": 40,
-    "mobile_search": 80,
-    "total_search": 120
-  },
-  {
-    "keyword": "공장대출",
-    "pc_search": 40,
-    "mobile_search": 80,
-    "total_search": 120
-  },
-  {
-    "keyword": "경영컨설팅업",
-    "pc_search": 90,
-    "mobile_search": 30,
-    "total_search": 120
-  },
-  {
-    "keyword": "소상공인운전자금",
-    "pc_search": 50,
-    "mobile_search": 70,
-    "total_search": 120
-  },
-  {
-    "keyword": "중진공정책자금신청",
-    "pc_search": 50,
-    "mobile_search": 70,
-    "total_search": 120
-  },
-  {
-    "keyword": "중소기업공제사업기금",
-    "pc_search": 100,
-    "mobile_search": 20,
-    "total_search": 120
-  },
-  {
-    "keyword": "학원중고책상",
+    "keyword": "LGOTT",
     "pc_search": 20,
-    "mobile_search": 90,
-    "total_search": 110
-  },
-  {
-    "keyword": "국비지원사업",
-    "pc_search": 70,
-    "mobile_search": 40,
-    "total_search": 110
-  },
-  {
-    "keyword": "구매자금대출",
-    "pc_search": 80,
-    "mobile_search": 30,
-    "total_search": 110
-  },
-  {
-    "keyword": "운영자금대출",
-    "pc_search": 70,
-    "mobile_search": 40,
-    "total_search": 110
-  },
-  {
-    "keyword": "소상공인운영자금대출",
-    "pc_search": 20,
-    "mobile_search": 90,
-    "total_search": 110
-  },
-  {
-    "keyword": "중소기업지원청",
-    "pc_search": 80,
-    "mobile_search": 30,
-    "total_search": 110
-  },
-  {
-    "keyword": "연구개발계획서",
-    "pc_search": 100,
-    "mobile_search": 10,
-    "total_search": 110
-  },
-  {
-    "keyword": "건강일터조성지원사업",
-    "pc_search": 80,
-    "mobile_search": 30,
-    "total_search": 110
-  },
-  {
-    "keyword": "소상공인금융지원",
-    "pc_search": 40,
-    "mobile_search": 70,
-    "total_search": 110
-  },
-  {
-    "keyword": "폐업컨설팅",
-    "pc_search": 30,
     "mobile_search": 80,
-    "total_search": 110
-  },
-  {
-    "keyword": "사업정리컨설턴트",
-    "pc_search": 60,
-    "mobile_search": 40,
     "total_search": 100
   },
   {
-    "keyword": "정책자금지원",
-    "pc_search": 30,
-    "mobile_search": 70,
+    "keyword": "LGIPTV채널",
+    "pc_search": 10,
+    "mobile_search": 90,
     "total_search": 100
   },
   {
-    "keyword": "신용보증기금정책자금",
-    "pc_search": 60,
-    "mobile_search": 40,
-    "total_search": 100
-  },
-  {
-    "keyword": "중소기업지원정책",
-    "pc_search": 80,
-    "mobile_search": 20,
-    "total_search": 100
-  },
-  {
-    "keyword": "정부출연금",
-    "pc_search": 70,
-    "mobile_search": 30,
-    "total_search": 100
-  },
-  {
-    "keyword": "유망중소기업",
-    "pc_search": 80,
-    "mobile_search": 20,
-    "total_search": 100
-  },
-  {
-    "keyword": "중기부정책자금",
-    "pc_search": 60,
-    "mobile_search": 40,
-    "total_search": 100
-  },
-  {
-    "keyword": "법인담보대출",
-    "pc_search": 40,
-    "mobile_search": 60,
-    "total_search": 100
-  },
-  {
-    "keyword": "울산정책자금",
+    "keyword": "온라인전시",
     "pc_search": 50,
     "mobile_search": 50,
     "total_search": 100
   },
   {
-    "keyword": "CEO정기보험",
-    "pc_search": 50,
-    "mobile_search": 50,
+    "keyword": "광고캠페인",
+    "pc_search": 70,
+    "mobile_search": 30,
     "total_search": 100
   },
   {
-    "keyword": "여성경력단절",
-    "pc_search": 40,
-    "mobile_search": 60,
-    "total_search": 100
-  },
-  {
-    "keyword": "창업대출자격",
-    "pc_search": 20,
-    "mobile_search": 80,
-    "total_search": 100
-  },
-  {
-    "keyword": "경상남도신용보증재단",
-    "pc_search": 60,
-    "mobile_search": 40,
-    "total_search": 100
-  },
-  {
-    "keyword": "중소벤처기업진흥원",
+    "keyword": "마케팅강사",
     "pc_search": 80,
     "mobile_search": 20,
     "total_search": 100
   },
   {
-    "keyword": "투자수익",
+    "keyword": "마케팅세미나",
+    "pc_search": 50,
+    "mobile_search": 50,
+    "total_search": 100
+  },
+  {
+    "keyword": "버튜버제작",
+    "pc_search": 40,
+    "mobile_search": 60,
+    "total_search": 100
+  },
+  {
+    "keyword": "유튜브라이브스트리밍",
+    "pc_search": 50,
+    "mobile_search": 50,
+    "total_search": 100
+  },
+  {
+    "keyword": "온라인마케팅강의",
     "pc_search": 30,
     "mobile_search": 70,
     "total_search": 100
   },
   {
-    "keyword": "투자전략",
-    "pc_search": 20,
-    "mobile_search": 80,
+    "keyword": "U+넷플릭스",
+    "pc_search": 10,
+    "mobile_search": 90,
     "total_search": 100
   },
   {
-    "keyword": "기업지원사업",
-    "pc_search": 80,
-    "mobile_search": 10,
+    "keyword": "넷플릭스구독권",
+    "pc_search": 40,
+    "mobile_search": 60,
+    "total_search": 100
+  },
+  {
+    "keyword": "유투브프리미엄",
+    "pc_search": 20,
+    "mobile_search": 70,
     "total_search": 90
   },
   {
-    "keyword": "기술신보",
-    "pc_search": 60,
-    "mobile_search": 30,
+    "keyword": "유튜브프리미엄구독권",
+    "pc_search": 30,
+    "mobile_search": 60,
     "total_search": 90
   },
   {
-    "keyword": "소상공인정책자금지원센터",
+    "keyword": "유튜브프리미엄패밀리가격",
     "pc_search": 10,
     "mobile_search": 80,
     "total_search": 90
   },
   {
-    "keyword": "국민은행개인사업자대출",
-    "pc_search": 10,
-    "mobile_search": 80,
-    "total_search": 90
-  },
-  {
-    "keyword": "스마트팜지원",
-    "pc_search": 40,
-    "mobile_search": 50,
-    "total_search": 90
-  },
-  {
-    "keyword": "인천창업지원",
-    "pc_search": 40,
-    "mobile_search": 50,
-    "total_search": 90
-  },
-  {
-    "keyword": "네트워크론",
-    "pc_search": 60,
-    "mobile_search": 30,
-    "total_search": 90
-  },
-  {
-    "keyword": "인천시정책자금",
-    "pc_search": 30,
-    "mobile_search": 60,
-    "total_search": 90
-  },
-  {
-    "keyword": "중소기업시설자금",
-    "pc_search": 60,
-    "mobile_search": 30,
-    "total_search": 90
-  },
-  {
-    "keyword": "중기청정책자금",
-    "pc_search": 70,
-    "mobile_search": 20,
-    "total_search": 90
-  },
-  {
-    "keyword": "비상장주식가치평가",
-    "pc_search": 60,
-    "mobile_search": 30,
-    "total_search": 90
-  },
-  {
-    "keyword": "소상공인담보대출",
-    "pc_search": 30,
-    "mobile_search": 60,
-    "total_search": 90
-  },
-  {
-    "keyword": "부산사업자대출",
+    "keyword": "LGU플러스TV채널",
     "pc_search": 20,
     "mobile_search": 70,
     "total_search": 90
   },
   {
-    "keyword": "저신용소상공인자금",
-    "pc_search": 30,
-    "mobile_search": 60,
+    "keyword": "엘지유플러스채널",
+    "pc_search": 20,
+    "mobile_search": 70,
     "total_search": 90
   },
   {
-    "keyword": "스타트업투자유치",
+    "keyword": "마이크세팅",
     "pc_search": 40,
     "mobile_search": 50,
     "total_search": 90
   },
   {
-    "keyword": "중소기업M&A",
-    "pc_search": 70,
-    "mobile_search": 20,
-    "total_search": 90
-  },
-  {
-    "keyword": "경기도중소기업",
-    "pc_search": 40,
-    "mobile_search": 50,
-    "total_search": 90
-  },
-  {
-    "keyword": "중소기업상담회사",
-    "pc_search": 60,
-    "mobile_search": 30,
-    "total_search": 90
-  },
-  {
-    "keyword": "기계리스",
+    "keyword": "LG셋탑박스",
     "pc_search": 30,
     "mobile_search": 60,
     "total_search": 90
   },
   {
-    "keyword": "뿌리기술",
-    "pc_search": 60,
-    "mobile_search": 20,
-    "total_search": 80
-  },
-  {
-    "keyword": "경기도사업자대출",
-    "pc_search": 30,
+    "keyword": "유튜브채널순위",
+    "pc_search": 40,
     "mobile_search": 50,
-    "total_search": 80
+    "total_search": 90
   },
   {
-    "keyword": "저금리사업자대출",
+    "keyword": "방송장비세팅",
+    "pc_search": 20,
+    "mobile_search": 70,
+    "total_search": 90
+  },
+  {
+    "keyword": "유튜브중계",
     "pc_search": 30,
-    "mobile_search": 50,
-    "total_search": 80
+    "mobile_search": 60,
+    "total_search": 90
   },
   {
-    "keyword": "저신용자정책자금",
+    "keyword": "엘지유선방송",
+    "pc_search": 5,
+    "mobile_search": 80,
+    "total_search": 85
+  },
+  {
+    "keyword": "유튜브프리미엄이벤트",
     "pc_search": 20,
     "mobile_search": 60,
     "total_search": 80
   },
   {
-    "keyword": "강소기업인증",
-    "pc_search": 60,
-    "mobile_search": 20,
+    "keyword": "SKT구독서비스",
+    "pc_search": 20,
+    "mobile_search": 60,
     "total_search": 80
   },
   {
-    "keyword": "법인대표대출",
-    "pc_search": 30,
-    "mobile_search": 50,
+    "keyword": "유튜브프리미엄웹결제",
+    "pc_search": 10,
+    "mobile_search": 70,
     "total_search": 80
   },
   {
-    "keyword": "중진공자금",
-    "pc_search": 60,
-    "mobile_search": 20,
-    "total_search": 80
-  },
-  {
-    "keyword": "소상인대출",
-    "pc_search": 30,
-    "mobile_search": 50,
-    "total_search": 80
-  },
-  {
-    "keyword": "소기업정책자금",
-    "pc_search": 50,
-    "mobile_search": 30,
-    "total_search": 80
-  },
-  {
-    "keyword": "사업자단기대출",
+    "keyword": "온라인공연",
     "pc_search": 40,
     "mobile_search": 40,
     "total_search": 80
   },
   {
-    "keyword": "창업지원자금",
-    "pc_search": 50,
-    "mobile_search": 30,
-    "total_search": 80
-  },
-  {
-    "keyword": "사업자금지원",
+    "keyword": "방송세팅업체",
     "pc_search": 30,
     "mobile_search": 50,
     "total_search": 80
   },
   {
-    "keyword": "중소기업확인원",
-    "pc_search": 70,
-    "mobile_search": 5,
+    "keyword": "넷플릭스유플러스",
+    "pc_search": 10,
+    "mobile_search": 70,
+    "total_search": 80
+  },
+  {
+    "keyword": "LGU플러스넷플릭스요금제",
+    "pc_search": 10,
+    "mobile_search": 70,
+    "total_search": 80
+  },
+  {
+    "keyword": "넷플릭스공유사이트",
+    "pc_search": 30,
+    "mobile_search": 50,
+    "total_search": 80
+  },
+  {
+    "keyword": "인스타그램강의",
+    "pc_search": 30,
+    "mobile_search": 50,
+    "total_search": 80
+  },
+  {
+    "keyword": "유튜브공짜",
+    "pc_search": 5,
+    "mobile_search": 70,
     "total_search": 75
   },
   {
-    "keyword": "투자자모집",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
+    "keyword": "프리미엄유튜브가격",
+    "pc_search": 5,
+    "mobile_search": 70,
+    "total_search": 75
   },
   {
-    "keyword": "경정청구수수료",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
+    "keyword": "엘지티비채널",
+    "pc_search": 5,
+    "mobile_search": 70,
+    "total_search": 75
   },
   {
-    "keyword": "정책자금영업",
-    "pc_search": 20,
-    "mobile_search": 50,
-    "total_search": 70
-  },
-  {
-    "keyword": "고용환급금",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "공장설립",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "서울창업지원",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
-  },
-  {
-    "keyword": "특허대출",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
-  },
-  {
-    "keyword": "중소기업자금",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "법인운영자금대출",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
-  },
-  {
-    "keyword": "사업자운영자금대출",
-    "pc_search": 40,
-    "mobile_search": 30,
-    "total_search": 70
-  },
-  {
-    "keyword": "기업운전자금",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "정부정책자금종류",
-    "pc_search": 20,
-    "mobile_search": 50,
-    "total_search": 70
-  },
-  {
-    "keyword": "사업계획서샘플",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "소상공인보증금대출",
-    "pc_search": 20,
-    "mobile_search": 50,
-    "total_search": 70
-  },
-  {
-    "keyword": "법인정부지원금",
-    "pc_search": 60,
-    "mobile_search": 10,
-    "total_search": 70
-  },
-  {
-    "keyword": "투자사이트",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
-  },
-  {
-    "keyword": "투자클럽",
-    "pc_search": 30,
-    "mobile_search": 40,
-    "total_search": 70
-  },
-  {
-    "keyword": "정부지원사업사이트",
-    "pc_search": 50,
-    "mobile_search": 20,
-    "total_search": 70
-  },
-  {
-    "keyword": "사업자등록증대출",
+    "keyword": "케이티유튜브프리미엄",
     "pc_search": 10,
     "mobile_search": 60,
     "total_search": 70
   },
   {
-    "keyword": "보험론",
-    "pc_search": 5,
+    "keyword": "유튜브우주패스",
+    "pc_search": 20,
+    "mobile_search": 50,
+    "total_search": 70
+  },
+  {
+    "keyword": "유튜브프리미엄6개월",
+    "pc_search": 10,
     "mobile_search": 60,
+    "total_search": 70
+  },
+  {
+    "keyword": "학교홍보영상",
+    "pc_search": 30,
+    "mobile_search": 40,
+    "total_search": 70
+  },
+  {
+    "keyword": "LG유튜브프리미엄요금제",
+    "pc_search": 20,
+    "mobile_search": 50,
+    "total_search": 70
+  },
+  {
+    "keyword": "유튜브프리미엄LG",
+    "pc_search": 10,
+    "mobile_search": 60,
+    "total_search": 70
+  },
+  {
+    "keyword": "유튜브영상촬영",
+    "pc_search": 10,
+    "mobile_search": 60,
+    "total_search": 70
+  },
+  {
+    "keyword": "게임방송하는법",
+    "pc_search": 30,
+    "mobile_search": 40,
+    "total_search": 70
+  },
+  {
+    "keyword": "투컴방송세팅",
+    "pc_search": 30,
+    "mobile_search": 40,
+    "total_search": 70
+  },
+  {
+    "keyword": "영상송출",
+    "pc_search": 40,
+    "mobile_search": 30,
+    "total_search": 70
+  },
+  {
+    "keyword": "병원유튜브마케팅",
+    "pc_search": 40,
+    "mobile_search": 30,
+    "total_search": 70
+  },
+  {
+    "keyword": "넷플릭스통신사할인",
+    "pc_search": 10,
+    "mobile_search": 60,
+    "total_search": 70
+  },
+  {
+    "keyword": "인스타그램배우기",
+    "pc_search": 20,
+    "mobile_search": 50,
+    "total_search": 70
+  },
+  {
+    "keyword": "온라인생중계",
+    "pc_search": 60,
+    "mobile_search": 5,
     "total_search": 65
   },
   {
-    "keyword": "창업정책자금",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "정책자금상담",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "중소기업정부지원",
-    "pc_search": 50,
-    "mobile_search": 10,
-    "total_search": 60
-  },
-  {
-    "keyword": "엔젤투자소득공제",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "제조업정부지원금",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "개인사업자저금리대출",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "중소기업자금지원센터",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "법인기업대출",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "법인회사대출",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "법인자금대출",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "벤처기업대출",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "재창업자금",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "학원사업자대출",
-    "pc_search": 20,
-    "mobile_search": 40,
-    "total_search": 60
-  },
-  {
-    "keyword": "소상공인은행대출",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "노무무료상담",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "중소기업사업자대출",
-    "pc_search": 20,
-    "mobile_search": 40,
-    "total_search": 60
-  },
-  {
-    "keyword": "대전신용보증재단대출",
-    "pc_search": 20,
-    "mobile_search": 40,
-    "total_search": 60
-  },
-  {
-    "keyword": "저금리정책자금",
+    "keyword": "케이티유튜브",
     "pc_search": 10,
     "mobile_search": 50,
     "total_search": 60
   },
   {
-    "keyword": "정부지원금컨설팅",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "중소기업리스트",
-    "pc_search": 40,
-    "mobile_search": 20,
-    "total_search": 60
-  },
-  {
-    "keyword": "경기중소기업지원센터",
-    "pc_search": 30,
-    "mobile_search": 30,
-    "total_search": 60
-  },
-  {
-    "keyword": "공동투자",
-    "pc_search": 20,
-    "mobile_search": 40,
-    "total_search": 60
-  },
-  {
-    "keyword": "정부개인사업자대출",
+    "keyword": "유튜브프리미엄추천",
     "pc_search": 10,
     "mobile_search": 50,
     "total_search": 60
   },
   {
-    "keyword": "병역특례업체신청",
-    "pc_search": 50,
-    "mobile_search": 5,
+    "keyword": "유튜브프리미엄대행",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "유튜브프리미엄인원",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "유튜브이용권",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "영상촬영편집",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "넷플릭스체험",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "영상편집회사",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "LGU+유튜브프리미엄",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "셀프영상제작",
+    "pc_search": 30,
+    "mobile_search": 30,
+    "total_search": 60
+  },
+  {
+    "keyword": "유튜브기획",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "LG유플러스TV채널",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "여캠세팅",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "방송중계",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "블로그학원",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "방송조명세팅",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "유튜브생중계",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "블로그마케팅교육",
+    "pc_search": 30,
+    "mobile_search": 30,
+    "total_search": 60
+  },
+  {
+    "keyword": "넷플릭스1년구독권",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "넷플릭스신규가입",
+    "pc_search": 10,
+    "mobile_search": 50,
+    "total_search": 60
+  },
+  {
+    "keyword": "넷플릭스프로모션",
+    "pc_search": 20,
+    "mobile_search": 40,
+    "total_search": 60
+  },
+  {
+    "keyword": "엘지유튜브",
+    "pc_search": 5,
+    "mobile_search": 50,
     "total_search": 55
   },
   {
-    "keyword": "강소기업신청",
-    "pc_search": 50,
-    "mobile_search": 5,
+    "keyword": "유튜브프리미엄가족할인",
+    "pc_search": 5,
+    "mobile_search": 50,
     "total_search": 55
   },
   {
-    "keyword": "기업정부지원금",
-    "pc_search": 50,
-    "mobile_search": 5,
+    "keyword": "유플유튜브프리미엄",
+    "pc_search": 5,
+    "mobile_search": 50,
     "total_search": 55
   },
   {
-    "keyword": "소상공인대출자격",
+    "keyword": "엘지유플러스디즈니",
+    "pc_search": 5,
+    "mobile_search": 50,
+    "total_search": 55
+  },
+  {
+    "keyword": "유플러스티비유튜브",
+    "pc_search": 5,
+    "mobile_search": 50,
+    "total_search": 55
+  },
+  {
+    "keyword": "유플넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 50,
+    "total_search": 55
+  },
+  {
+    "keyword": "넷플릭스인터넷",
+    "pc_search": 5,
+    "mobile_search": 50,
+    "total_search": 55
+  },
+  {
+    "keyword": "인스타모델",
+    "pc_search": 5,
+    "mobile_search": 50,
+    "total_search": 55
+  },
+  {
+    "keyword": "유튜브프리미엄가격할인",
     "pc_search": 20,
     "mobile_search": 30,
     "total_search": 50
   },
   {
-    "keyword": "청년창업자금지원",
+    "keyword": "유튜브카드할인",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "유튜브프리미엄PC",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "유튜브프리미엄이민",
     "pc_search": 20,
     "mobile_search": 30,
     "total_search": 50
   },
   {
-    "keyword": "벤처기업지원",
+    "keyword": "OTT요금",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "YOUTUBE요금제",
+    "pc_search": 20,
+    "mobile_search": 30,
+    "total_search": 50
+  },
+  {
+    "keyword": "LG유플러스넷플릭스요금제",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "U+유튜브",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "LGU+유튜브",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "OBS세팅",
     "pc_search": 30,
     "mobile_search": 20,
     "total_search": 50
   },
   {
-    "keyword": "IT스타트업",
-    "pc_search": 20,
-    "mobile_search": 30,
-    "total_search": 50
-  },
-  {
-    "keyword": "중소기업운영자금",
-    "pc_search": 40,
-    "mobile_search": 10,
-    "total_search": 50
-  },
-  {
-    "keyword": "연구비지원",
+    "keyword": "원컴방송세팅",
     "pc_search": 10,
     "mobile_search": 40,
     "total_search": 50
   },
   {
-    "keyword": "협동화자금",
-    "pc_search": 40,
-    "mobile_search": 10,
-    "total_search": 50
-  },
-  {
-    "keyword": "교습소대출",
-    "pc_search": 20,
-    "mobile_search": 30,
-    "total_search": 50
-  },
-  {
-    "keyword": "K바우처",
-    "pc_search": 40,
-    "mobile_search": 10,
-    "total_search": 50
-  },
-  {
-    "keyword": "중소기업창업",
-    "pc_search": 20,
-    "mobile_search": 30,
-    "total_search": 50
-  },
-  {
-    "keyword": "중소기업비지니스센터",
+    "keyword": "LG셋톱박스교체",
     "pc_search": 10,
     "mobile_search": 40,
     "total_search": 50
   },
   {
-    "keyword": "소공인클린제조환경조성",
-    "pc_search": 40,
-    "mobile_search": 5,
-    "total_search": 45
+    "keyword": "유플러스셋탑박스교체",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
   },
   {
-    "keyword": "저신용햇살론",
+    "keyword": "라이브방송세팅",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "라이브서저리",
+    "pc_search": 20,
+    "mobile_search": 30,
+    "total_search": 50
+  },
+  {
+    "keyword": "블로그검색노출",
+    "pc_search": 30,
+    "mobile_search": 20,
+    "total_search": 50
+  },
+  {
+    "keyword": "네이버블로그강의",
+    "pc_search": 30,
+    "mobile_search": 20,
+    "total_search": 50
+  },
+  {
+    "keyword": "인스타그램교육",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "넷플릭스이벤트",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "인스타교육",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "넥플리스",
+    "pc_search": 20,
+    "mobile_search": 30,
+    "total_search": 50
+  },
+  {
+    "keyword": "BJ컴퓨터",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "인터넷방송카메라",
+    "pc_search": 10,
+    "mobile_search": 40,
+    "total_search": 50
+  },
+  {
+    "keyword": "유튜브프리미엄엘지",
     "pc_search": 5,
     "mobile_search": 40,
     "total_search": 45
   },
   {
-    "keyword": "한국중소기업센터",
+    "keyword": "넷플릭스공유기",
     "pc_search": 5,
     "mobile_search": 40,
     "total_search": 45
   },
   {
-    "keyword": "중장년창업대출",
+    "keyword": "넷플릭스유독",
     "pc_search": 5,
     "mobile_search": 40,
     "total_search": 45
   },
   {
-    "keyword": "정책지원자금",
+    "keyword": "유플러스티비넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 40,
+    "total_search": 45
+  },
+  {
+    "keyword": "티우주유튜브",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "쇼피파이코리아",
     "pc_search": 30,
     "mobile_search": 10,
     "total_search": 40
   },
   {
-    "keyword": "기업마이너스통장",
+    "keyword": "엘지유플러스넷플릭스요금제",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "총판모집",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "특허구매",
+    "keyword": "온라인웨비나",
     "pc_search": 30,
     "mobile_search": 10,
     "total_search": 40
   },
   {
-    "keyword": "경기창업지원",
+    "keyword": "LG유플러스OTT",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "정부사업지원",
+    "keyword": "온라인퀴즈",
     "pc_search": 20,
     "mobile_search": 20,
     "total_search": 40
   },
   {
-    "keyword": "구리신용보증재단",
+    "keyword": "온라인이벤트",
+    "pc_search": 20,
+    "mobile_search": 20,
+    "total_search": 40
+  },
+  {
+    "keyword": "BJ소속사",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "보험법인영업",
-    "pc_search": 20,
-    "mobile_search": 20,
+    "keyword": "방송용DSLR",
+    "pc_search": 10,
+    "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "소상공인경영컨설팅",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "스타트업정부지원금",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "중소기업R&D",
+    "keyword": "아프리카프릭샷",
     "pc_search": 30,
     "mobile_search": 10,
     "total_search": 40
   },
   {
-    "keyword": "사업자신규대출",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "개인사업자은행대출",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "사업자창업대출",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "기업자금대출",
+    "keyword": "인터넷방송사이트",
     "pc_search": 20,
     "mobile_search": 20,
     "total_search": 40
   },
   {
-    "keyword": "R&D자금",
+    "keyword": "원컴방송",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "유튜브중계업체",
     "pc_search": 20,
     "mobile_search": 20,
     "total_search": 40
   },
   {
-    "keyword": "수원정책자금",
+    "keyword": "엘지유플러스셋탑박스",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "초기사업자대출",
+    "keyword": "SNS교육",
+    "pc_search": 20,
+    "mobile_search": 20,
+    "total_search": 40
+  },
+  {
+    "keyword": "인스타숏폼",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "정책자금온라인신청",
+    "keyword": "아프리카방송세팅",
+    "pc_search": 20,
+    "mobile_search": 20,
+    "total_search": 40
+  },
+  {
+    "keyword": "유튜브생방송",
+    "pc_search": 20,
+    "mobile_search": 20,
+    "total_search": 40
+  },
+  {
+    "keyword": "항공캠",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "음악구독",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "U+TV넷플릭스",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "넷플릭스광고형스탠다드제한",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "마케팅컨설턴트",
+    "pc_search": 10,
+    "mobile_search": 30,
+    "total_search": 40
+  },
+  {
+    "keyword": "GIF제작",
     "pc_search": 30,
     "mobile_search": 10,
     "total_search": 40
   },
   {
-    "keyword": "농협대출이율",
+    "keyword": "넷플릭스가입할인",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "제조업정부지원사업",
-    "pc_search": 30,
-    "mobile_search": 10,
-    "total_search": 40
-  },
-  {
-    "keyword": "클린제조",
-    "pc_search": 30,
-    "mobile_search": 10,
-    "total_search": 40
-  },
-  {
-    "keyword": "상가철거지원금",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "어린이집대출",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "정책자금교육",
+    "keyword": "틱톡MCN",
     "pc_search": 20,
     "mobile_search": 20,
     "total_search": 40
   },
   {
-    "keyword": "청년사업자금대출",
+    "keyword": "페이스북광고하는법",
     "pc_search": 10,
     "mobile_search": 30,
     "total_search": 40
   },
   {
-    "keyword": "정부지원개인사업자대출",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "소재부품전문기업",
-    "pc_search": 30,
-    "mobile_search": 10,
-    "total_search": 40
-  },
-  {
-    "keyword": "광주광역시정책자금",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "정책자금컨설팅업체",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "사회적기업지원",
-    "pc_search": 30,
-    "mobile_search": 10,
-    "total_search": 40
-  },
-  {
-    "keyword": "SBDC",
-    "pc_search": 20,
-    "mobile_search": 20,
-    "total_search": 40
-  },
-  {
-    "keyword": "고수익투자",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "투자연구소",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "투자전문회사",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "기계렌탈",
-    "pc_search": 10,
-    "mobile_search": 30,
-    "total_search": 40
-  },
-  {
-    "keyword": "법인자본금대출",
+    "keyword": "YOUTUBE프리미엄가격",
     "pc_search": 5,
     "mobile_search": 30,
     "total_search": 35
   },
   {
-    "keyword": "개인재무상담",
+    "keyword": "유튜브쿠폰",
     "pc_search": 5,
     "mobile_search": 30,
     "total_search": 35
   },
   {
-    "keyword": "중소기업정책지원센터",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "세이브더머니",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "개원대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "관광벤처기업",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업인증종류",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "신용보증재단홈페이지",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "사업자임대보증금대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업자금컨설팅",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "법인사업자정부지원금",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "비즈니스컨설팅",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업대출이자",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "법인사업자담보대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "중소기업지원대출",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "사업자은행대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "소공인대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업시설자금",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "법인사업자신용대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "제조업지원",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "운수업사업자대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "특허담보대출",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업자금조달",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "사업자대출컨설팅",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "법인운영자금",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "도소매정책자금",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "수출정책자금",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "청주정책자금",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "한국정책자금",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "애스앤애프",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업은행중소기업대출",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "전주정책자금",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "정부지원금신청방법",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "중소기업대환대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "내일중소기업지원센터",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "한국중소기업진흥공단",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "기업렌탈",
-    "pc_search": 20,
-    "mobile_search": 10,
-    "total_search": 30
-  },
-  {
-    "keyword": "2금융권사업자대출",
-    "pc_search": 10,
-    "mobile_search": 20,
-    "total_search": 30
-  },
-  {
-    "keyword": "기술사업계획서",
-    "pc_search": 20,
+    "keyword": "영상제작견적서",
+    "pc_search": 30,
     "mobile_search": 5,
-    "total_search": 25
+    "total_search": 35
   },
   {
-    "keyword": "유통창업",
+    "keyword": "유독2",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "U+티비채널",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "야외방송장비",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "게임방송장비",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "넷플릭스구독요금",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "넷플릭스신청방법",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "넷플릭스요금제공유",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "유플러스TV넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "SNS만들기",
+    "pc_search": 5,
+    "mobile_search": 30,
+    "total_search": 35
+  },
+  {
+    "keyword": "LIVE방송",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "유튜브프리미엄싼곳",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "강의영상",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "온라인캠페인",
+    "pc_search": 20,
+    "mobile_search": 10,
+    "total_search": 30
+  },
+  {
+    "keyword": "유튜브운영",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "LGU+TV채널",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "송출용컴퓨터",
+    "pc_search": 20,
+    "mobile_search": 10,
+    "total_search": 30
+  },
+  {
+    "keyword": "LG셋탑",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "유튜브창업",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "블로그수업",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "포럼행사",
+    "pc_search": 20,
+    "mobile_search": 10,
+    "total_search": 30
+  },
+  {
+    "keyword": "디지털캠페인",
+    "pc_search": 20,
+    "mobile_search": 10,
+    "total_search": 30
+  },
+  {
+    "keyword": "넷플릭스1개월",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "이커머스교육",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "의사유튜브",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "넷플릭스통신사",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "개인방송카메라",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "스트리밍장비",
+    "pc_search": 10,
+    "mobile_search": 20,
+    "total_search": 30
+  },
+  {
+    "keyword": "유튜브프리미엄할인SKT",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "인사평가교육",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "중소기업지원단",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "사업자전환대출",
+    "keyword": "유튜브프리미엄공구",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "중소기업지원자금",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "중소기업정책자금지원",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "법인대표신용대출",
+    "keyword": "LGU넷플릭스",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "자영업자창업대출",
+    "keyword": "LG유튜브요금제",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "중소기업과제",
+    "keyword": "브랜딩영상",
     "pc_search": 20,
     "mobile_search": 5,
     "total_search": 25
   },
   {
-    "keyword": "중소기업지원제도",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "중소기업창업투자회사",
-    "pc_search": 20,
-    "mobile_search": 5,
-    "total_search": 25
-  },
-  {
-    "keyword": "중고기계대출",
+    "keyword": "영상컨텐츠",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "부산재무상담",
+    "keyword": "유튜브구독싸게",
     "pc_search": 5,
     "mobile_search": 20,
     "total_search": 25
   },
   {
-    "keyword": "청년창업정부지원금",
+    "keyword": "LG유튜브프리미엄할인",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "유플러스유튜브프리미엄할인",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "유플러스픽",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "블로그키워드광고",
+    "pc_search": 20,
+    "mobile_search": 5,
+    "total_search": 25
+  },
+  {
+    "keyword": "숏폼회사",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "캠세팅",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "엘지셋탑박스",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "엘지넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "천장캠",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "넷플릭스LG",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "LG티빙",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "클래스101블로그",
+    "pc_search": 20,
+    "mobile_search": 5,
+    "total_search": 25
+  },
+  {
+    "keyword": "넷플릭스1달무료",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "넷플릭스상품권",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "유플러스넷플릭스할인",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "인터넷넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "강사파견",
+    "pc_search": 20,
+    "mobile_search": 5,
+    "total_search": 25
+  },
+  {
+    "keyword": "SNS홍보마케팅",
+    "pc_search": 20,
+    "mobile_search": 5,
+    "total_search": 25
+  },
+  {
+    "keyword": "알뜰요금추천",
+    "pc_search": 5,
+    "mobile_search": 20,
+    "total_search": 25
+  },
+  {
+    "keyword": "SNS강의",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "법인환급금",
+    "keyword": "온라인세미나",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "신규창업자금",
+    "keyword": "OTT랭킹",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "컨설팅교육",
+    "keyword": "공연영상",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "정부지원자금대출",
+    "keyword": "기념영상제작",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "수출기업지원",
+    "keyword": "웹세미나",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "기업자금",
+    "keyword": "유튜브제작비용",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "벤처대출",
+    "keyword": "온라인중계",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "공장지원금",
+    "keyword": "중계업체",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "중소기업경영지원",
+    "keyword": "방송설정",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "정부지원컨설팅",
+    "keyword": "유튜브세팅",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "개인재무컨설팅",
+    "keyword": "현장중계",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "정부정책자금신청",
+    "keyword": "블로그마케팅강의",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "시설자금지원",
+    "keyword": "네이버블로그교육",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "양산정책자금",
+    "keyword": "유튜브라이브송출",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "충청남도정책자금",
+    "keyword": "버츄얼캐릭터만들기",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "청년창업컨설팅",
+    "keyword": "버튜버세팅",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "개발기술사업화자금",
+    "keyword": "버튜버스튜디오",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "폐업컨설턴트",
+    "keyword": "스파크애즈",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "경기도기업지원",
+    "keyword": "SNS광고대행사",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "인천소상공인시장진흥공단",
+    "keyword": "숏폼교육",
     "pc_search": 10,
     "mobile_search": 10,
     "total_search": 20
   },
   {
-    "keyword": "페업지원금",
-    "pc_search": 5,
+    "keyword": "인스타그램마케팅교육",
+    "pc_search": 10,
     "mobile_search": 10,
-    "total_search": 15
+    "total_search": 20
   },
   {
-    "keyword": "법인환급",
+    "keyword": "인스타그램콘텐츠",
+    "pc_search": 10,
+    "mobile_search": 10,
+    "total_search": 20
+  },
+  {
+    "keyword": "SNS광고마케팅",
+    "pc_search": 10,
+    "mobile_search": 10,
+    "total_search": 20
+  },
+  {
+    "keyword": "인스타광고하는방법",
+    "pc_search": 10,
+    "mobile_search": 10,
+    "total_search": 20
+  },
+  {
+    "keyword": "블로그강사",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "소상공인클린사업",
+    "keyword": "SNS마케팅강사",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "청년컨설팅",
+    "keyword": "SNS배우기",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "3개월사업자대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "국가지원정책",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "금형지원사업",
+    "keyword": "쇼츠제작업체",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "기초수급자정부지원금",
+    "keyword": "유튜브프리미엄가격SKT",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "법인시설자금",
+    "keyword": "유튜브프리미엄코드",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄싸게사는법",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄구독서비스",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "U플러스유튜브프리미엄",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "YOUTUBEPREMIUM가격",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "YOUTUBE프리미엄할인",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄가족그룹",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄만원",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄멤버쉽",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄서비스",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄안드로이드",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "토스유튜브프리미엄",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄팩",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "U플러스유튜브",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "골프영상촬영",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "리뷰영상",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "영상제작편집",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브인트로영상",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브홍보영상",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "홈페이지영상",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "사업운영자금",
+    "keyword": "U+넷플릭스요금제",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "SK텔레콤구독",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유플유튜브",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브프리미엄U+",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "96티비",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "U플러스넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "SNS홍보업체",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "사업계획서강의",
+    "keyword": "엘지유플러스티비채널",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "유플러스티비베이직",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "SNS마케팅강의",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "사업자컨설팅",
+    "keyword": "BJ장비",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "서울중소기업지원",
+    "keyword": "BJ하는법",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "노래방송세팅",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "롤방송하는법",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "자재관리교육",
+    "keyword": "방송용장비",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "캡쳐보드대여",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "마이너스통장발급",
+    "keyword": "여캠셋팅",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "기업운영자금대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "법인사업자금대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "사업장담보대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "기업재무컨설팅",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "정부지원대출햇살론",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "기업신용분석",
+    "keyword": "숏폼기획",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "알앤디자금",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "중소기업경영컨설팅",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "자금컨설팅",
+    "keyword": "바이럴마케팅강의",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "제조업인증",
+    "keyword": "엘지셋탑",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "엘지유플러스셋탑",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "중계시스템",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "정부정책지원사업",
+    "keyword": "넷플릭스U+",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "경기도운전자금",
+    "keyword": "소상공인라이브커머스",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "소상공인지원센타",
+    "keyword": "방송셋팅",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "특허정책자금",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "창업지원금대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "사무실임대지원",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "매경지원단",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "경기도중소기업지원센터",
+    "keyword": "인스타그램마케팅강의",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "개인사업자운전자금",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "자영업자정부지원대출",
-    "pc_search": 5,
-    "mobile_search": 10,
-    "total_search": 15
-  },
-  {
-    "keyword": "중소기업융자",
+    "keyword": "유튜브채널운영대행",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "중견기업지원",
+    "keyword": "유튜브편집대행",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "블로그강좌",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "먹방세팅",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "버츄얼세팅",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "스튜디오세팅",
     "pc_search": 10,
     "mobile_search": 5,
     "total_search": 15
   },
   {
-    "keyword": "중고기계리스",
+    "keyword": "인터넷방송BJ",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "ANGELINVESTOR",
+    "keyword": "유튜브송출업체",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브편집업체",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "병원유튜브제작",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "촬영외주",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "투자자유치",
+    "keyword": "유튜브편집회사",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "웹비나",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "BJ방송장비",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "대전재무상담",
+    "keyword": "행사중계",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "치과유튜브",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "유튜브컨텐츠제작",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "재무상담비용",
+    "keyword": "블로그클래스",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "청년창업자대출",
+    "keyword": "넷플릭스5500원",
     "pc_search": 5,
     "mobile_search": 10,
     "total_search": 15
   },
   {
-    "keyword": "한국정책자금지원본부",
+    "keyword": "넷플릭스정기구독",
     "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "넷플릭스할인쿠폰",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "인터넷티비넷플릭스",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "성형외과유튜브",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "인스타광고만들기",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "인터넷방송장비렌탈",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "라이브커머스강의",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "SNS바이럴마케팅",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "카드뉴스마케팅",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "인스타사진촬영",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "병원영상촬영",
+    "pc_search": 5,
+    "mobile_search": 10,
+    "total_search": 15
+  },
+  {
+    "keyword": "홍보마케팅교육",
+    "pc_search": 10,
+    "mobile_search": 5,
+    "total_search": 15
+  },
+  {
+    "keyword": "SNS강사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인마케팅강사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "라이브스트리밍업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "영상중계",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄가족요금제",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄가족가격",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄가족",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄가족공유",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "오직쇼피파이",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유투브광고차단",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유투브할인",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄4개월무료",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄9900",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄9900원",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄겜스고",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브프리미엄대행업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "SNS숏폼",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "TV영상광고",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "경기도홍보영상",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "교육영상편집",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "여성기업영상제작",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "영상견적",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "영상의뢰",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유치원홍보영상",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유투브영상편집",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유투브편집",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브영상편집업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브채널기획",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "축제홍보영상",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브가격할인",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "영상세미나",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인송출",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "인터넷생중계",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인포럼",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "인스타그램강사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "U독",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유독결제수단변경",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "플랙스TV",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "무대배경영상",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "창립기념일영상제작",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "비대면행사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온오프라인행사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브콘텐츠기획",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "인스타그램영상광고",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인워크샵",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "SNS홍보교육",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "마케팅전략교육",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "파워블로그만들기",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "숏폼영상촬영",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인중계업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "웨비나대행",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인팀빌딩",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "LGTV방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "숏폼업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인행사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "2컴",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "BJ직업",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "DSLR방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "DSLR카메라방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "방송싱크",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "방송장비셋팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "배그원컴방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "비제이되는법",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "송출컴퓨터",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "아프리카TV세팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "아프리카세팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "아프리카티비방송세팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜버준비",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "인터넷방송설정",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "투컴방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "투컴셋팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "BJ방송세팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인기획전",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "쇼피파이교육",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "라이브방송대행업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "중계촬영",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "LG셋톱",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "LG유플러스셋톱",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "여캠설정",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "하이브리드행사",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "BJ세팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "2컴방송",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "웨비나업체",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "온라인퀴즈쇼",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "아프리카방송셋팅",
+    "pc_search": 5,
+    "mobile_search": 5,
+    "total_search": 10
+  },
+  {
+    "keyword": "유튜브라이브중계",
+    "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "2024정책자금",
+    "keyword": "온라인골든벨",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "국가지원사업컨설팅",
+    "keyword": "기자단교육",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기술개발자금",
+    "keyword": "트리즈프로덕션",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기술개발출연금",
+    "keyword": "유튜브스트리밍업체",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "사업계획서교육",
+    "keyword": "병원유튜브광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "경정청구세무법인",
+    "keyword": "마이크셋팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "설비지원",
+    "keyword": "방송음향세팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기보신청",
+    "keyword": "스튜디오조명시공",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "1인기업지원",
+    "keyword": "아프리카캠설정",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "개인기업대출",
+    "keyword": "원컴방송용",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "국가지원사무실",
+    "keyword": "유튜브스튜디오만들기",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기보자금",
+    "keyword": "음악방송세팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기업금융컨설팅",
+    "keyword": "쇼츠제작강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기업자금지원",
+    "keyword": "바이럴마케팅교육",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기업지원제도",
+    "keyword": "광고강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "농업법인지원",
+    "keyword": "초등학교방송실",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인대출컨설팅",
+    "keyword": "병원유튜브촬영",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인사업대출",
+    "keyword": "포럼행사대행",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인사업자운영자금대출",
+    "keyword": "SNS쇼핑몰",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "서울시중소기업대출",
+    "keyword": "SNS이미지제작",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "설비자금",
+    "keyword": "SNS판매",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "인천시창업지원",
+    "keyword": "트렌드강사",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "특허권대출",
+    "keyword": "병원인터뷰",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "R&D정부지원사업",
+    "keyword": "디지털마케팅강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "공장지원",
+    "keyword": "SNS광고교육",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기술특례상장컨설팅",
+    "keyword": "온라인워크숍",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기업무료교육",
+    "keyword": "유튜브라이브업체",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "비지니스컨설팅",
+    "keyword": "줌송출",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "스타트업국가지원",
+    "keyword": "유튜브영상제작비용",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "신용보증기금컨설팅",
+    "keyword": "기업SNS",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "아이디어상품개발",
+    "keyword": "온라인광고교육",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "정부지원금대행",
+    "keyword": "틱톡인플루언서광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "창업자금컨설팅",
+    "keyword": "SNS마케팅홍보",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "청년사업정부지원금",
+    "keyword": "온라인광고플랫폼",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "투자유치방법",
+    "keyword": "SNS운영업체",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인경영컨설팅",
+    "keyword": "브랜드SNS마케팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "품질컨설팅",
+    "keyword": "블로거클래스",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "중소기업자금조달",
+    "keyword": "블로그공부",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "제조컨설팅",
+    "keyword": "블로그글쓰기강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "정부지원사업계획서작성법",
+    "keyword": "넷플릭스12개월",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인대표자대출",
+    "keyword": "넷플릭스5500",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "벤쳐캐피탈",
+    "keyword": "넷플릭스LGU+",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "여성기업자금",
+    "keyword": "넷플릭스겜스고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "중소기업인증지원",
+    "keyword": "넷플릭스구독서비스",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "1인크리에이터지원",
+    "keyword": "넷플릭스요금제싸게",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "수출지원자금",
+    "keyword": "유독넷플릭스할인",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "사업자1억대출",
+    "keyword": "네프릭스",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "고용지원금컨설팅",
+    "keyword": "SNS마켓팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "무역대출",
+    "keyword": "SNS홍보마케팅의신",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "무역자금",
+    "keyword": "SNS영상제작",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "제조지원",
+    "keyword": "쇼츠교육",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "한국중소벤처기업센터",
+    "keyword": "챌린지광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "대전시정책",
+    "keyword": "눈썹문신광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "대전정책자금컨설팅",
+    "keyword": "온라인학술대회",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "K뱅크신용대출플러스",
+    "keyword": "SNS기획",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "보조지원사업",
+    "keyword": "병원영상편집",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "소공인클린",
+    "keyword": "병원유튜브영상제작",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "안전용품지원",
+    "keyword": "네이버블로그강좌",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "안전장비지원",
+    "keyword": "유플러스구독서비스",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "휴게실지원",
+    "keyword": "책쓰기부터책출판까지",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "직원급여지원",
+    "keyword": "SNS배너광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "사업자시설자금",
+    "keyword": "유튜브관리대행",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "법인사업자정부지원대출",
+    "keyword": "트렌드강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "숲속야영장허가",
+    "keyword": "바이럴영상제작",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "업소용주방기기매입",
+    "keyword": "블로그마케팅수업",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "상가철거비지원",
+    "keyword": "블로그인강",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "사업투자계획서",
+    "keyword": "마케팅특강",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "중소기업보험",
+    "keyword": "SNS영상",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "서울시중소기업지원센터",
+    "keyword": "부동산블로그마케팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "산업기계리스",
+    "keyword": "블로그체험단강의",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "중고기계렌탈",
+    "keyword": "인스타그램강좌",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "투자중개",
+    "keyword": "인스타그램페이스북광고",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "산업기계렌탈",
+    "keyword": "네이버블로그배우기",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "공작기계렌탈",
+    "keyword": "유캠설정",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10
   },
   {
-    "keyword": "기계설비리스",
+    "keyword": "인터넷방송셋팅",
     "pc_search": 5,
     "mobile_search": 5,
     "total_search": 10

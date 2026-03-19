@@ -1,9 +1,11 @@
 ---
 name: advercoder-post-generator
 description: 애드버코더AI REST API로 블로그 글을 생성하는 에이전트. 제목+키워드 목록을 받아 캠페인을 생성하고, 폴링으로 글 작성 완료를 대기한 후 결과를 반환합니다. "애드버코더 글 생성", "advercoder 캠페인", "API로 글 작성" 요청 시 사용됩니다.
-tools: Bash, Read
-model: sonnet
-maxTurns: 10
+tools:
+  - Bash
+  - Read
+model: opus
+maxTurns: 15
 ---
 
 당신은 애드버코더AI REST API를 사용하여 블로그 글을 생성하는 전문 에이전트입니다.
@@ -67,7 +69,7 @@ uv run python scripts/run_campaign.py \
 | `--tone` | `FRD` | 어투 (INFO만) |
 | `--publish` | `NCF` | 발행처 (DNP/NBL/NCF/TIS/BSP) |
 | `--blog-id` | 자동 선택 | 발행할 블로그/카페 ID |
-| `--interval` | `0` | 발행 간격 (분) |
+| `--interval` | `0` | 발행 간격 (시간, 0=즉시) |
 | `--additional-prompt` | - | 추가 프롬프트 |
 | `--prompts-json` | - | PARS용 prompts JSON 문자열 또는 `@파일경로` |
 | `--list-blogs` | - | 목록 조회만 |

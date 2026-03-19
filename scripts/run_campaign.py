@@ -265,7 +265,7 @@ def main():
     parser.add_argument("--tone", type=str, default=None)
     parser.add_argument("--publish", type=str, default=None)
     parser.add_argument("--target-id", type=int, default=None, help="발행할 블로그/카페 ID")
-    parser.add_argument("--interval", type=int, default=None, help="발행 간격 (시간)")
+    parser.add_argument("--interval", type=int, default=None, help="발행 간격 (시간 단위, 0=즉시, 예: 6=6시간)")
     parser.add_argument("--additional-prompt", type=str, default=None)
     parser.add_argument("--prompts-json", type=str, default=None, help="PARS용 prompts JSON 문자열 또는 파일 경로(@path)")
     parser.add_argument("--image-provider", type=str, default=None, help="이미지 제공자 (NOIMG/OPENAI/GEMINI)")
@@ -321,6 +321,10 @@ def main():
     publish = args.publish or preset.get("publish", "NCF")
     target_id = args.target_id if args.target_id is not None else preset.get("target_id")
     interval = args.interval if args.interval is not None else preset.get("interval", 0)
+
+    if interval > 720:  # 30일 이상이면 경고
+        print(f"[WARN] interval={interval}시간({interval // 24}일)은 비정상적으로 큽니다. "
+              f"단위는 '시간'입니다 (예: 6=6시간). '분' 단위가 아닌지 확인하세요.")
 
     # 이미지 설정: CLI > 프리셋 > 기본값
     image_provider = args.image_provider or preset.get("image_provider", "NOIMG")

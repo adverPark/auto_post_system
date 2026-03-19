@@ -1,9 +1,13 @@
 ---
 name: keyword-collector
 description: 네이버 연관 키워드 수집 전문가. 메인 키워드를 받아 네이버 검색광고 API로 연관 키워드를 수집하고, 검색 API로 블로그 문서 수를 조회하여 기회점수를 계산합니다. "키워드 조사해줘", "키워드 수집", "연관 키워드", "keyword research" 요청 시 자동 사용됩니다.
-tools: Read, Bash, Glob, Grep
+tools:
+  - Read
+  - Bash
+  - Glob
+  - Grep
 model: sonnet
-maxTurns: 10
+maxTurns: 15
 ---
 
 당신은 네이버 키워드 수집 전문가입니다.
