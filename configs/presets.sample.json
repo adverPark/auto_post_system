@@ -1,0 +1,30 @@
+{
+  "프리셋이름": {
+    "description": "프리셋 설명",
+    "type": "PARS",
+    "model": "GEMINI31PRO",
+    "publish": "NCF",
+    "target_id": 1,
+    "interval": 6,
+    "prompts": {
+      "researcher": {
+        "role": "",
+        "goal": "",
+        "backstory": ""
+      },
+      "editor": {
+        "role": "",
+        "goal": "",
+        "backstory": ""
+      }
+    },
+    "image_provider": "GEMINI",
+    "image_size": "1024x1024",
+    "image_mode": "FULL",
+    "image_count": 4,
+    "max_section_images": 4,
+    "image_prompt_mode": "LLM",
+    "naver_id": "",
+    "naver_pw": ""
+  }
+}

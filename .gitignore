@@ -15,7 +15,8 @@ build/
 sessions/
 
 # Configs
-configs/
+configs/*
+!configs/*.sample.json
 
 # Screenshots (debug)
 screenshots/
